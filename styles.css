@@ -8,15 +8,17 @@ body {
   font-family: system-ui, -apple-system, sans-serif;
   padding: 20px;
   background-color: #f0f2f5;
-  width: 800px; /* Largura fixa para o popup */
-  height: 600px; /* Altura fixa para o popup */
-  overflow-y: auto; /* Adiciona scroll vertical se necessário */
+  width: 800px;
+  height: 600px;
+  overflow-y: auto;
+  overflow-x: hidden; /* Esconde a barra de rolagem horizontal */
 }
 
 .tabs {
   background: white;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  overflow-x: hidden; /* Esconde a barra de rolagem horizontal */
 }
 
 .tab-buttons {
@@ -25,14 +27,15 @@ body {
   background: #f8f9fa;
   border-radius: 8px 8px 0 0;
   flex-wrap: wrap;
+  gap: 5px;
 }
 
 .tab-button {
-  padding: 12px 24px;
+  padding: 8px 16px;
   border: none;
   background: none;
   cursor: pointer;
-  font-size: 16px;
+  font-size: 14px;
   color: #666;
   transition: all 0.3s ease;
 }
@@ -57,37 +60,56 @@ body {
   display: block;
 }
 
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin-top: 10px;
-}
-
-th, td {
-  padding: 12px;
-  text-align: left;
-  border-bottom: 1px solid #e0e0e0;
-}
-
-th {
-  background-color: #f8f9fa;
-  font-weight: 600;
-  color: #444;
-}
-
-td {
-  color: #666;
-}
-
-.emoji-cell {
-  font-size: 24px;
+.search-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  gap: 10px;
 }
 
 .search-box {
-  width: 100%;
+  flex: 1;
   padding: 10px;
-  margin-bottom: 20px;
   border: 1px solid #e0e0e0;
   border-radius: 4px;
   font-size: 16px;
+}
+
+.emoji-count {
+  font-size: 14px;
+  color: #666;
+}
+
+.emoji-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  gap: 10px;
+  overflow: hidden; /* Evita que o conteúdo ultrapasse o contêiner */
+}
+
+.emoji-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.emoji-item:hover {
+  background-color: #eef2ff;
+}
+
+.emoji-char {
+  font-size: 24px;
+}
+
+.emoji-name {
+  font-size: 12px;
+  color: #666;
+  text-align: center;
+  margin-top: 5px;
 }
