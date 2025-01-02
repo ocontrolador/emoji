@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Emoji Explorer",
-  "version": "2.1.1",
+  "version": "2.2.4",
   "description": "Uma extensão para explorar emojis organizados por categorias.",
   "action": {
       "default_popup": "index.html",
