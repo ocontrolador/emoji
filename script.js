@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
   const tabsContainer = document.querySelector('.tabs');
   const categories = [
-      "Rostos", "Maos", "Pessoas", "Escritorio", "Lugares", "Transporte",
+      "Todos", "Rostos", "Maos", "Pessoas", "Escritorio", "Lugares", "Transporte",
       "Animais", "Comidas", "Plantas", "Esportes", "CeuTerra", "Clima",
       "Roupas", "AudioVideo", "Celebracao", "Simbolos", "Bandeiras", "Objetos",
       "Programacao", "Matematica", "Setas"
@@ -18,24 +18,12 @@ document.addEventListener('DOMContentLoaded', function() {
       searchBox.classList.add('search-box');
       searchBox.placeholder = 'Pesquisar emojis...';
 
-      const table = document.createElement('table');
-      const thead = document.createElement('thead');
-      const tbody = document.createElement('tbody');
-      tbody.id = `${category}-body`;
+      const emojiGrid = document.createElement('div');
+      emojiGrid.classList.add('emoji-grid');
+      emojiGrid.id = `${category}-grid`;
 
-      thead.innerHTML = `
-          <tr>
-              <th>Char</th>
-              <th>Dec</th>
-              <th>Hex</th>
-              <th>Nome</th>
-          </tr>
-      `;
-
-      table.appendChild(thead);
-      table.appendChild(tbody);
       tabContent.appendChild(searchBox);
-      tabContent.appendChild(table);
+      tabContent.appendChild(emojiGrid);
       tabsContainer.appendChild(tabContent);
   });
 
@@ -46,18 +34,39 @@ document.addEventListener('DOMContentLoaded', function() {
   fetch(chrome.runtime.getURL('emojis.json'))
       .then(response => response.json())
       .then(data => {
-          // Preencher as tabelas com os emojis
+          const allEmojis = new Set(); // Para evitar repetições
+
+          // Preencher as grades com os emojis
           for (const category in data) {
-              const tbody = document.getElementById(`${category}-body`);
+              const emojiGrid = document.getElementById(`${category}-grid`);
               data[category].forEach(emoji => {
-                  const row = document.createElement('tr');
-                  row.innerHTML = `
-                      <td class="emoji-cell">${emoji.char}</td>
-                      <td>${emoji.dec}</td>
-                      <td>${emoji.hex}</td>
-                      <td>${emoji.name}</td>
-                  `;
-                  tbody.appendChild(row);
+                  if (!allEmojis.has(emoji.char)) {
+                      allEmojis.add(emoji.char);
+
+                      const emojiItem = document.createElement('div');
+                      emojiItem.classList.add('emoji-item');
+                      emojiItem.innerHTML = `
+                          <div class="emoji-char">${emoji.char}</div>
+                          <div class="emoji-name">${emoji.name}</div>
+                      `;
+
+                      // Adicionar funcionalidade de copiar
+                      emojiItem.addEventListener('click', () => {
+                          const decCode = `&#${emoji.dec};`;
+                          navigator.clipboard.writeText(decCode).then(() => {
+                              alert(`Código Decimal copiado: ${decCode}`);
+                          });
+                      });
+
+                      emojiGrid.appendChild(emojiItem);
+
+                      // Adicionar emoji à aba "Todos"
+                      const allGrid = document.getElementById('Todos-grid');
+                      if (allGrid) {
+                          const allEmojiItem = emojiItem.cloneNode(true);
+                          allGrid.appendChild(allEmojiItem);
+                      }
+                  }
               });
           }
       })
@@ -87,11 +96,11 @@ document.addEventListener('DOMContentLoaded', function() {
       searchBox.addEventListener('input', function() {
           const searchTerm = this.value.toLowerCase();
           const currentTab = this.closest('.tab-content');
-          const rows = currentTab.querySelectorAll('tbody tr');
+          const emojiItems = currentTab.querySelectorAll('.emoji-item');
 
-          rows.forEach(row => {
-              const text = row.textContent.toLowerCase();
-              row.style.display = text.includes(searchTerm) ? '' : 'none';
+          emojiItems.forEach(item => {
+              const text = item.textContent.toLowerCase();
+              item.style.display = text.includes(searchTerm) ? '' : 'none';
           });
       });
   });
