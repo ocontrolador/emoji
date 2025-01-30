@@ -1,0 +1,953 @@
+{
+  "Rostos": [
+    {
+      "char": "😀",
+      "dec": 128512,
+      "hex": "1F600",
+      "name": "Rosto Sorridente"
+    },
+    {
+      "char": "😃",
+      "dec": 128515,
+      "hex": "1F603",
+      "name": "Rosto Sorridente com Olhos Grandes"
+    },
+    {
+      "char": "😄",
+      "dec": 128516,
+      "hex": "1F604",
+      "name": "Rosto Sorridente com Olhos Sorridentes"
+    },
+    {
+      "char": "😁",
+      "dec": 128513,
+      "hex": "1F601",
+      "name": "Rosto Radiante com Olhos Sorridentes"
+    },
+    {
+      "char": "😆",
+      "dec": 128518,
+      "hex": "1F606",
+      "name": "Rosto Sorridente com Olhos Apertados"
+    },
+    {
+      "char": "😅",
+      "dec": 128517,
+      "hex": "1F605",
+      "name": "Rosto Sorridente com Suor"
+    },
+    {
+      "char": "🤣",
+      "dec": 129315,
+      "hex": "1F923",
+      "name": "Rolando no Chão de Tanto Rir"
+    },
+    {
+      "char": "😂",
+      "dec": 128514,
+      "hex": "1F602",
+      "name": "Rosto com Lágrimas de Alegria"
+    },
+    {
+      "char": "🙂",
+      "dec": 128578,
+      "hex": "1F642",
+      "name": "Rosto Ligeiramente Sorridente"
+    },
+    {
+      "char": "🙃",
+      "dec": 128579,
+      "hex": "1F643",
+      "name": "Rosto de Cabeça para Baixo"
+    },
+    {
+      "char": "😉",
+      "dec": 128521,
+      "hex": "1F609",
+      "name": "Rosto Piscando"
+    },
+    {
+      "char": "😊",
+      "dec": 128522,
+      "hex": "1F60A",
+      "name": "Rosto Sorridente com Olhos Sorridentes"
+    },
+    {
+      "char": "😇",
+      "dec": 128519,
+      "hex": "1F607",
+      "name": "Rosto Sorridente com Auréola"
+    },
+    {
+      "char": "🥰",
+      "dec": 129392,
+      "hex": "1F970",
+      "name": "Rosto Sorridente com Corações"
+    },
+    {
+      "char": "😍",
+      "dec": 128525,
+      "hex": "1F60D",
+      "name": "Rosto Sorridente com Olhos de Coração"
+    },
+    {
+      "char": "🤩",
+      "dec": 129321,
+      "hex": "1F929",
+      "name": "Rosto com Olhos de Estrela"
+    },
+    {
+      "char": "😘",
+      "dec": 128536,
+      "hex": "1F618",
+      "name": "Rosto Mandando um Beijo"
+    },
+    {
+      "char": "😗",
+      "dec": 128535,
+      "hex": "1F617",
+      "name": "Rosto Beijando"
+    },
+    {
+      "char": "☺",
+      "dec": 9786,
+      "hex": "263A",
+      "name": "Rosto Sorridente"
+    },
+    {
+      "char": "😚",
+      "dec": 128538,
+      "hex": "1F61A",
+      "name": "Rosto Beijando com Olhos Fechados"
+    },
+    {
+      "char": "😙",
+      "dec": 128537,
+      "hex": "1F619",
+      "name": "Rosto Beijando com Olhos Sorridentes"
+    },
+    {
+      "char": "😋",
+      "dec": 128523,
+      "hex": "1F60B",
+      "name": "Rosto Saboreando Comida"
+    },
+    {
+      "char": "😛",
+      "dec": 128539,
+      "hex": "1F61B",
+      "name": "Rosto com Língua para Fora"
+    },
+    {
+      "char": "😜",
+      "dec": 128540,
+      "hex": "1F61C",
+      "name": "Rosto Piscando com Língua para Fora"
+    },
+    {
+      "char": "🤪",
+      "dec": 129322,
+      "hex": "1F92A",
+      "name": "Rosto Doido"
+    },
+    {
+      "char": "😝",
+      "dec": 128541,
+      "hex": "1F61D",
+      "name": "Rosto com Olhos Apertados e Língua para Fora"
+    },
+    {
+      "char": "🤑",
+      "dec": 129297,
+      "hex": "1F911",
+      "name": "Rosto com Símbolo de Dinheiro na Boca"
+    },
+    {
+      "char": "🤗",
+      "dec": 129303,
+      "hex": "1F917",
+      "name": "Rosto Abraçando"
+    },
+    {
+      "char": "🤭",
+      "dec": 129325,
+      "hex": "1F92D",
+      "name": "Rosto com Mão Sobre a Boca"
+    },
+    {
+      "char": "🤫",
+      "dec": 129323,
+      "hex": "1F92B",
+      "name": "Rosto Pedindo Silêncio"
+    },
+    {
+      "char": "🤔",
+      "dec": 129300,
+      "hex": "1F914",
+      "name": "Rosto Pensativo"
+    },
+    {
+      "char": "🤐",
+      "dec": 129296,
+      "hex": "1F910",
+      "name": "Rosto com Boca de Zíper"
+    },
+    {
+      "char": "🤨",
+      "dec": 129320,
+      "hex": "1F928",
+      "name": "Rosto com Sobrancelha Levantada"
+    },
+    {
+      "char": "😐",
+      "dec": 128528,
+      "hex": "1F610",
+      "name": "Rosto Neutro"
+    },
+    {
+      "char": "😑",
+      "dec": 128529,
+      "hex": "1F611",
+      "name": "Rosto Sem Expressão"
+    },
+    {
+      "char": "😶",
+      "dec": 128566,
+      "hex": "1F636",
+      "name": "Rosto Sem Boca"
+    },
+    {
+      "char": "😏",
+      "dec": 128527,
+      "hex": "1F60F",
+      "name": "Rosto com Sorriso Maroto"
+    },
+    {
+      "char": "😒",
+      "dec": 128530,
+      "hex": "1F612",
+      "name": "Rosto Desapontado"
+    },
+    {
+      "char": "🙄",
+      "dec": 128580,
+      "hex": "1F644",
+      "name": "Rosto Revirando os Olhos"
+    },
+    {
+      "char": "😬",
+      "dec": 128556,
+      "hex": "1F62C",
+      "name": "Rosto Fazendo Careta"
+    },
+    {
+      "char": "🤥",
+      "dec": 129317,
+      "hex": "1F925",
+      "name": "Rosto Mentiroso"
+    },
+    {
+      "char": "😌",
+      "dec": 128524,
+      "hex": "1F60C",
+      "name": "Rosto Aliviado"
+    },
+    {
+      "char": "😔",
+      "dec": 128532,
+      "hex": "1F614",
+      "name": "Rosto Triste"
+    },
+    {
+      "char": "😪",
+      "dec": 128554,
+      "hex": "1F62A",
+      "name": "Rosto com Sono"
+    },
+    {
+      "char": "🤤",
+      "dec": 129316,
+      "hex": "1F924",
+      "name": "Rosto Babando"
+    },
+    {
+      "char": "😴",
+      "dec": 128564,
+      "hex": "1F634",
+      "name": "Rosto Dormindo"
+    },
+    {
+      "char": "😷",
+      "dec": 128567,
+      "hex": "1F637",
+      "name": "Rosto com Máscara Médica"
+    },
+    {
+      "char": "🤒",
+      "dec": 129298,
+      "hex": "1F912",
+      "name": "Rosto com Termômetro"
+    },
+    {
+      "char": "🤕",
+      "dec": 129301,
+      "hex": "1F915",
+      "name": "Rosto com Faixa na Cabeça"
+    },
+    {
+      "char": "🤢",
+      "dec": 129314,
+      "hex": "1F922",
+      "name": "Rosto Nauseado"
+    },
+    {
+      "char": "🤮",
+      "dec": 129326,
+      "hex": "1F92E",
+      "name": "Rosto Vomitando"
+    },
+    {
+      "char": "🤧",
+      "dec": 129319,
+      "hex": "1F927",
+      "name": "Rosto Espirrando"
+    },
+    {
+      "char": "🥵",
+      "dec": 129397,
+      "hex": "1F975",
+      "name": "Rosto com Calor"
+    },
+    {
+      "char": "🥶",
+      "dec": 129398,
+      "hex": "1F976",
+      "name": "Rosto com Frio"
+    },
+    {
+      "char": "🥴",
+      "dec": 129396,
+      "hex": "1F974",
+      "name": "Rosto Embriagado"
+    },
+    {
+      "char": "😵",
+      "dec": 128565,
+      "hex": "1F635",
+      "name": "Rosto Tonto"
+    },
+    {
+      "char": "🤯",
+      "dec": 129327,
+      "hex": "1F92F",
+      "name": "Cabeça Explodindo"
+    },
+    {
+      "char": "🤠",
+      "dec": 129312,
+      "hex": "1F920",
+      "name": "Rosto com Chapéu de Caubói"
+    },
+    {
+      "char": "🥳",
+      "dec": 129395,
+      "hex": "1F973",
+      "name": "Rosto Festeiro"
+    },
+    {
+      "char": "😎",
+      "dec": 128526,
+      "hex": "1F60E",
+      "name": "Rosto Sorridente com Óculos Escuros"
+    },
+    {
+      "char": "🤓",
+      "dec": 129299,
+      "hex": "1F913",
+      "name": "Rosto Nerd"
+    },
+    {
+      "char": "🧐",
+      "dec": 129488,
+      "hex": "1F9D0",
+      "name": "Rosto com Monóculo"
+    },
+    {
+      "char": "😕",
+      "dec": 128533,
+      "hex": "1F615",
+      "name": "Rosto Confuso"
+    },
+    {
+      "char": "😟",
+      "dec": 128534,
+      "hex": "1F61F",
+      "name": "Rosto Preocupado"
+    },
+    {
+      "char": "🙁",
+      "dec": 128577,
+      "hex": "1F641",
+      "name": "Rosto Ligeiramente Triste"
+    },
+    {
+      "char": "☹",
+      "dec": 9785,
+      "hex": "2639",
+      "name": "Rosto Triste"
+    },
+    {
+      "char": "😮",
+      "dec": 128558,
+      "hex": "1F62E",
+      "name": "Rosto com Boca Aberta"
+    },
+    {
+      "char": "😯",
+      "dec": 128559,
+      "hex": "1F62F",
+      "name": "Rosto Silencioso"
+    },
+    {
+      "char": "😲",
+      "dec": 128562,
+      "hex": "1F632",
+      "name": "Rosto Surpreso"
+    },
+    {
+      "char": "😳",
+      "dec": 128563,
+      "hex": "1F633",
+      "name": "Rosto Corado"
+    },
+    {
+      "char": "🥺",
+      "dec": 129394,
+      "hex": "1F97A",
+      "name": "Rosto Implorando"
+    },
+    {
+      "char": "😦",
+      "dec": 128550,
+      "hex": "1F626",
+      "name": "Rosto Triste com Boca Aberta"
+    },
+    {
+      "char": "😧",
+      "dec": 128551,
+      "hex": "1F627",
+      "name": "Rosto Angustiado"
+    },
+    {
+      "char": "😨",
+      "dec": 128552,
+      "hex": "1F628",
+      "name": "Rosto com Medo"
+    },
+    {
+      "char": "😰",
+      "dec": 128560,
+      "hex": "1F630",
+      "name": "Rosto Ansioso com Suor"
+    },
+    {
+      "char": "😥",
+      "dec": 128549,
+      "hex": "1F625",
+      "name": "Rosto Triste, mas Aliviado"
+    },
+    {
+      "char": "😢",
+      "dec": 128546,
+      "hex": "1F622",
+      "name": "Rosto Chorando"
+    },
+    {
+      "char": "😭",
+      "dec": 128557,
+      "hex": "1F62D",
+      "name": "Rosto Chorando Alto"
+    },
+    {
+      "char": "😱",
+      "dec": 128561,
+      "hex": "1F631",
+      "name": "Rosto Gritando de Medo"
+    },
+    {
+      "char": "😖",
+      "dec": 128534,
+      "hex": "1F616",
+      "name": "Rosto Frustrado"
+    },
+    {
+      "char": "😣",
+      "dec": 128547,
+      "hex": "1F623",
+      "name": "Rosto Perseverante"
+    },
+    {
+      "char": "😞",
+      "dec": 128542,
+      "hex": "1F61E",
+      "name": "Rosto Decepcionado"
+    },
+    {
+      "char": "😓",
+      "dec": 128531,
+      "hex": "1F613",
+      "name": "Rosto Triste com Suor"
+    },
+    {
+      "char": "😩",
+      "dec": 128553,
+      "hex": "1F629",
+      "name": "Rosto Cansado"
+    },
+    {
+      "char": "😫",
+      "dec": 128555,
+      "hex": "1F62B",
+      "name": "Rosto Exausto"
+    },
+    {
+      "char": "😤",
+      "dec": 128548,
+      "hex": "1F624",
+      "name": "Rosto Soltando Vapor pelo Nariz"
+    },
+    {
+      "char": "😡",
+      "dec": 128545,
+      "hex": "1F621",
+      "name": "Rosto Emburrado"
+    },
+    {
+      "char": "😠",
+      "dec": 128544,
+      "hex": "1F620",
+      "name": "Rosto Zangado"
+    },
+    {
+      "char": "🤬",
+      "dec": 129324,
+      "hex": "1F92C",
+      "name": "Rosto com Símbolos na Boca"
+    },
+    {
+      "char": "😈",
+      "dec": 128520,
+      "hex": "1F608",
+      "name": "Rosto Sorridente com Chifres"
+    },
+    {
+      "char": "👿",
+      "dec": 128127,
+      "hex": "1F47F",
+      "name": "Rosto Zangado com Chifres"
+    },
+    {
+      "char": "💀",
+      "dec": 128128,
+      "hex": "1F480",
+      "name": "Caveira"
+    },
+    {
+      "char": "☠",
+      "dec": 9760,
+      "hex": "2620",
+      "name": "Caveira e Ossos Cruzados"
+    }
+  ],
+  "Objetos Diversos": [
+    {
+      "char": "💩",
+      "dec": 128169,
+      "hex": "1F4A9",
+      "name": "Cocô"
+    },
+    {
+      "char": "🤡",
+      "dec": 129313,
+      "hex": "1F921",
+      "name": "Rosto de Palhaço"
+    },
+    {
+      "char": "👹",
+      "dec": 128121,
+      "hex": "1F479",
+      "name": "Ogro"
+    },
+    {
+      "char": "👺",
+      "dec": 128122,
+      "hex": "1F47A",
+      "name": "Goblin"
+    },
+    {
+      "char": "👻",
+      "dec": 128123,
+      "hex": "1F47B",
+      "name": "Fantasma"
+    },
+    {
+      "char": "👽",
+      "dec": 128125,
+      "hex": "1F47D",
+      "name": "Alienígena"
+    },
+    {
+      "char": "👾",
+      "dec": 128126,
+      "hex": "1F47E",
+      "name": "Monstro Alienígena"
+    },
+    {
+      "char": "🤖",
+      "dec": 129296,
+      "hex": "1F916",
+      "name": "Robô"
+    }
+  ],
+  "Gatos": [
+    {
+      "char": "😺",
+      "dec": 128570,
+      "hex": "1F63A",
+      "name": "Gato Sorridente"
+    },
+    {
+      "char": "😸",
+      "dec": 128568,
+      "hex": "1F638",
+      "name": "Gato Sorridente com Olhos Sorridentes"
+    },
+    {
+      "char": "😹",
+      "dec": 128569,
+      "hex": "1F639",
+      "name": "Gato com Lágrimas de Alegria"
+    },
+    {
+      "char": "😻",
+      "dec": 128571,
+      "hex": "1F63B",
+      "name": "Gato Sorridente com Olhos de Coração"
+    },
+    {
+      "char": "😼",
+      "dec": 128572,
+      "hex": "1F63C",
+      "name": "Gato com Sorriso Maroto"
+    },
+    {
+      "char": "😽",
+      "dec": 128573,
+      "hex": "1F63D",
+      "name": "Gato Beijando"
+    },
+    {
+      "char": "🙀",
+      "dec": 128576,
+      "hex": "1F640",
+      "name": "Gato Cansado"
+    },
+    {
+      "char": "😿",
+      "dec": 128575,
+      "hex": "1F63F",
+      "name": "Gato Chorando"
+    },
+    {
+      "char": "😾",
+      "dec": 128574,
+      "hex": "1F63E",
+      "name": "Gato Emburrado"
+    }
+  ],
+  "Macacos": [
+    {
+      "char": "🙈",
+      "dec": 128584,
+      "hex": "1F648",
+      "name": "Macaco Não Vejo o Mal"
+    },
+    {
+      "char": "🙉",
+      "dec": 128585,
+      "hex": "1F649",
+      "name": "Macaco Não Ouço o Mal"
+    },
+    {
+      "char": "🙊",
+      "dec": 128586,
+      "hex": "1F64A",
+      "name": "Macaco Não Falo o Mal"
+    }
+  ],
+  "Emoções": [
+    {
+      "char": "💋",
+      "dec": 128139,
+      "hex": "1F48B",
+      "name": "Marca de Beijo"
+    },
+    {
+      "char": "💌",
+      "dec": 128140,
+      "hex": "1F48C",
+      "name": "Carta de Amor"
+    },
+    {
+      "char": "💘",
+      "dec": 128152,
+      "hex": "1F498",
+      "name": "Coração com Flecha"
+    },
+    {
+      "char": "💝",
+      "dec": 128157,
+      "hex": "1F49D",
+      "name": "Coração com Laço"
+    },
+    {
+      "char": "💖",
+      "dec": 128150,
+      "hex": "1F496",
+      "name": "Coração Brilhante"
+    },
+    {
+      "char": "💗",
+      "dec": 128151,
+      "hex": "1F497",
+      "name": "Coração Crescente"
+    },
+    {
+      "char": "💓",
+      "dec": 128147,
+      "hex": "1F493",
+      "name": "Coração Batendo"
+    },
+    {
+      "char": "💞",
+      "dec": 128158,
+      "hex": "1F49E",
+      "name": "Corações Girando"
+    },
+    {
+      "char": "💕",
+      "dec": 128149,
+      "hex": "1F495",
+      "name": "Dois Corações"
+    },
+    {
+      "char": "💟",
+      "dec": 128159,
+      "hex": "1F49F",
+      "name": "Decoração de Coração"
+    },
+    {
+      "char": "❣",
+      "dec": 10083,
+      "hex": "2763",
+      "name": "Ponto de Exclamação de Coração"
+    },
+    {
+      "char": "💔",
+      "dec": 128148,
+      "hex": "1F494",
+      "name": "Coração Partido"
+    },
+    {
+      "char": "❤",
+      "dec": 10084,
+      "hex": "2764",
+      "name": "Coração Vermelho"
+    },
+    {
+      "char": "🧡",
+      "dec": 129505,
+      "hex": "1F9E1",
+      "name": "Coração Laranja"
+    },
+    {
+      "char": "💛",
+      "dec": 128155,
+      "hex": "1F49B",
+      "name": "Coração Amarelo"
+    },
+    {
+      "char": "💚",
+      "dec": 128154,
+      "hex": "1F49A",
+      "name": "Coração Verde"
+    },
+    {
+      "char": "💙",
+      "dec": 128153,
+      "hex": "1F499",
+      "name": "Coração Azul"
+    },
+    {
+      "char": "💜",
+      "dec": 128156,
+      "hex": "1F49C",
+      "name": "Coração Roxo"
+    },
+    {
+      "char": "🖤",
+      "dec": 128420,
+      "hex": "1F5A4",
+      "name": "Coração Preto"
+    },
+    {
+      "char": "💯",
+      "dec": 128175,
+      "hex": "1F4AF",
+      "name": "Cem Pontos"
+    },
+    {
+      "char": "💢",
+      "dec": 128162,
+      "hex": "1F4A2",
+      "name": "Símbolo de Raiva"
+    },
+    {
+      "char": "💥",
+      "dec": 128165,
+      "hex": "1F4A5",
+      "name": "Colisão"
+    },
+    {
+      "char": "💫",
+      "dec": 128171,
+      "hex": "1F4AB",
+      "name": "Tontura"
+    },
+    {
+      "char": "💦",
+      "dec": 128166,
+      "hex": "1F4A6",
+      "name": "Gotas de Suor"
+    },
+    {
+      "char": "💨",
+      "dec": 128168,
+      "hex": "1F4A8",
+      "name": "Saindo Correndo"
+    },
+    {
+      "char": "🕳",
+      "dec": 128371,
+      "hex": "1F573",
+      "name": "Buraco"
+    },
+    {
+      "char": "💣",
+      "dec": 128163,
+      "hex": "1F4A3",
+      "name": "Bomba"
+    },
+    {
+      "char": "💬",
+      "dec": 128172,
+      "hex": "1F4AC",
+      "name": "Balão de Fala"
+    },
+    {
+      "char": "👁️‍🗨️",
+      "dec": 128065,
+      "hex": "1F441",
+      "name": "Olho no Balão de Fala"
+    },
+    {
+      "char": "🗨",
+      "dec": 128488,
+      "hex": "1F5E8",
+      "name": "Balão de Fala Esquerdo"
+    },
+    {
+      "char": "🗯",
+      "dec": 128495,
+      "hex": "1F5EF",
+      "name": "Balão de Raiva Direito"
+    },
+    {
+      "char": "💭",
+      "dec": 128173,
+      "hex": "1F4AD",
+      "name": "Balão de Pensamento"
+    },
+    {
+      "char": "💤",
+      "dec": 128164,
+      "hex": "1F4A4",
+      "name": "Zzz"
+    }
+  ],
+  "Mãos": [
+    {
+      "char": "👋",
+      "dec": 128075,
+      "hex": "1F44B",
+      "name": "Mão Acenando"
+    },
+    {
+      "char": "🤚",
+      "dec": 129306,
+      "hex": "1F91A",
+      "name": "Costas da Mão Levantada"
+    },
+    {
+      "char": "🖐",
+      "dec": 128400,
+      "hex": "1F590",
+      "name": "Mão com os Dedos Espalmados"
+    },
+    {
+      "char": "✋",
+      "dec": 9995,
+      "hex": "270B",
+      "name": "Mão Levantada"
+    },
+    {
+      "char": "🖖",
+      "dec": 128406,
+      "hex": "1F596",
+      "name": "Saudação Vulcana"
+    },
+    {
+      "char": "👌",
+      "dec": 128076,
+      "hex": "1F44C",
+      "name": "Sinal de OK"
+    },
+    {
+      "char": "✌",
+      "dec": 9996,
+      "hex": "270C",
+      "name": "Mão da Vitória"
+    },
+    {
+      "char": "🤞",
+      "dec": 129310,
+      "hex": "1F91E",
+      "name": "Dedos Cruzados"
+    },
+    {
+      "char": "🤟",
+      "dec": 129311,
+      "hex": "1F91F",
+      "name": "Gesto de Eu Te Amo"
+    },
+    {
+      "char": "🤘",
+      "dec": 129304,
+      "hex": "1F918",
+      "name": "Sinal de Chifre"
+    },
+    {
+      "char": "🤙",
+      "dec": 129305,
+      "hex": "1F919",
+      "name": "Sinal de Me

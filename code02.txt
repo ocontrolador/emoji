@@ -1,0 +1,948 @@
+{
+      "char": "🤙",
+      "dec": 129305,
+      "hex": "1F919",
+      "name": "Sinal de Me Liga"
+    },
+    {
+      "char": "👈",
+      "dec": 128072,
+      "hex": "1F448",
+      "name": "Indicador Apontando para a Esquerda"
+    },
+    {
+      "char": "👉",
+      "dec": 128073,
+      "hex": "1F449",
+      "name": "Indicador Apontando para a Direita"
+    },
+    {
+      "char": "👆",
+      "dec": 128070,
+      "hex": "1F446",
+      "name": "Indicador Apontando para Cima"
+    },
+    {
+      "char": "🖕",
+      "dec": 128405,
+      "hex": "1F595",
+      "name": "Dedo do Meio"
+    },
+    {
+      "char": "👇",
+      "dec": 128071,
+      "hex": "1F447",
+      "name": "Indicador Apontando para Baixo"
+    },
+    {
+      "char": "☝",
+      "dec": 9757,
+      "hex": "261D",
+      "name": "Indicador Apontando para Cima"
+    },
+    {
+      "char": "👍",
+      "dec": 128077,
+      "hex": "1F44D",
+      "name": "Sinal de Positivo"
+    },
+    {
+      "char": "👎",
+      "dec": 128078,
+      "hex": "1F44E",
+      "name": "Sinal de Negativo"
+    },
+    {
+      "char": "✊",
+      "dec": 9994,
+      "hex": "270A",
+      "name": "Punho Levantado"
+    },
+    {
+      "char": "👊",
+      "dec": 128074,
+      "hex": "1F44A",
+      "name": "Soco"
+    },
+    {
+      "char": "🤛",
+      "dec": 129307,
+      "hex": "1F91B",
+      "name": "Punho Esquerdo"
+    },
+    {
+      "char": "🤜",
+      "dec": 129308,
+      "hex": "1F91C",
+      "name": "Punho Direito"
+    },
+    {
+      "char": "👏",
+      "dec": 128079,
+      "hex": "1F44F",
+      "name": "Mãos Batendo Palma"
+    },
+    {
+      "char": "🙌",
+      "dec": 128588,
+      "hex": "1F64C",
+      "name": "Mãos Levantadas"
+    },
+    {
+      "char": "👐",
+      "dec": 128080,
+      "hex": "1F450",
+      "name": "Mãos Abertas"
+    },
+    {
+      "char": "🤲",
+      "dec": 129330,
+      "hex": "1F932",
+      "name": "Palmas Juntas"
+    },
+    {
+      "char": "🤝",
+      "dec": 129309,
+      "hex": "1F91D",
+      "name": "Aperto de Mão"
+    },
+    {
+      "char": "🙏",
+      "dec": 128591,
+      "hex": "1F64F",
+      "name": "Mãos Juntas"
+    }
+  ],
+  "Objetos de Escrita": [
+    {
+      "char": "✍",
+      "dec": 9997,
+      "hex": "270D",
+      "name": "Mão Escrevendo"
+    },
+    {
+      "char": "💅",
+      "dec": 128133,
+      "hex": "1F485",
+      "name": "Esmalte de Unha"
+    },
+    {
+      "char": "🤳",
+      "dec": 129331,
+      "hex": "1F933",
+      "name": "Selfie"
+    }
+  ],
+  "Partes do Corpo": [
+    {
+      "char": "💪",
+      "dec": 128170,
+      "hex": "1F4AA",
+      "name": "Bíceps Flexionado"
+    },
+    {
+      "char": "🦵",
+      "dec": 129461,
+      "hex": "1F9B5",
+      "name": "Perna"
+    },
+    {
+      "char": "🦶",
+      "dec": 129462,
+      "hex": "1F9B6",
+      "name": "Pé"
+    },
+    {
+      "char": "👂",
+      "dec": 128066,
+      "hex": "1F442",
+      "name": "Orelha"
+    },
+    {
+      "char": "👃",
+      "dec": 128067,
+      "hex": "1F443",
+      "name": "Nariz"
+    },
+    {
+      "char": "🧠",
+      "dec": 129504,
+      "hex": "1F9E0",
+      "name": "Cérebro"
+    },
+    {
+      "char": "🦷",
+      "dec": 129463,
+      "hex": "1F9B7",
+      "name": "Dente"
+    },
+    {
+      "char": "🦴",
+      "dec": 129460,
+      "hex": "1F9B4",
+      "name": "Osso"
+    },
+    {
+      "char": "👀",
+      "dec": 128064,
+      "hex": "1F440",
+      "name": "Olhos"
+    },
+    {
+      "char": "👁",
+      "dec": 128065,
+      "hex": "1F441",
+      "name": "Olho"
+    },
+    {
+      "char": "👅",
+      "dec": 128069,
+      "hex": "1F445",
+      "name": "Língua"
+    },
+    {
+      "char": "👄",
+      "dec": 128068,
+      "hex": "1F444",
+      "name": "Boca"
+    }
+  ],
+  "Pessoas": [
+    {
+      "char": "👶",
+      "dec": 128118,
+      "hex": "1F476",
+      "name": "Bebê"
+    },
+    {
+      "char": "🧒",
+      "dec": 129490,
+      "hex": "1F9D2",
+      "name": "Criança"
+    },
+    {
+      "char": "👦",
+      "dec": 128102,
+      "hex": "1F466",
+      "name": "Menino"
+    },
+    {
+      "char": "👧",
+      "dec": 128103,
+      "hex": "1F467",
+      "name": "Menina"
+    },
+    {
+      "char": "🧑",
+      "dec": 129489,
+      "hex": "1F9D1",
+      "name": "Pessoa"
+    },
+    {
+      "char": "👱",
+      "dec": 128113,
+      "hex": "1F471",
+      "name": "Pessoa: Cabelo Loiro"
+    },
+    {
+      "char": "👨",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Homem"
+    },
+    {
+      "char": "🧔",
+      "dec": 129492,
+      "hex": "1F9D4",
+      "name": "Homem: Barba"
+    },
+    {
+      "char": "👱‍♂️",
+      "dec": 128113,
+      "hex": "1F471",
+      "name": "Homem: Cabelo Loiro"
+    },
+    {
+      "char": "👨‍🦰",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Homem: Cabelo Ruivo"
+    },
+    {
+      "char": "👨‍🦱",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Homem: Cabelo Cacheado"
+    },
+    {
+      "char": "👨‍🦳",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Homem: Cabelo Branco"
+    },
+    {
+      "char": "👨‍🦲",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Homem: Careca"
+    },
+    {
+      "char": "👩",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Mulher"
+    },
+    {
+      "char": "👱‍♀️",
+      "dec": 128113,
+      "hex": "1F471",
+      "name": "Mulher: Cabelo Loiro"
+    },
+    {
+      "char": "👩‍🦰",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Mulher: Cabelo Ruivo"
+    },
+    {
+      "char": "👩‍🦱",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Mulher: Cabelo Cacheado"
+    },
+    {
+      "char": "👩‍🦳",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Mulher: Cabelo Branco"
+    },
+    {
+      "char": "👩‍🦲",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Mulher: Careca"
+    },
+    {
+      "char": "🧓",
+      "dec": 129491,
+      "hex": "1F9D3",
+      "name": "Pessoa Idosa"
+    },
+    {
+      "char": "👴",
+      "dec": 128116,
+      "hex": "1F474",
+      "name": "Homem Idoso"
+    },
+    {
+      "char": "👵",
+      "dec": 128117,
+      "hex": "1F475",
+      "name": "Mulher Idosa"
+    },
+    {
+      "char": "🙍",
+      "dec": 128589,
+      "hex": "1F64D",
+      "name": "Pessoa Fazendo Bico"
+    },
+    {
+      "char": "🙍‍♂️",
+      "dec": 128589,
+      "hex": "1F64D",
+      "name": "Homem Fazendo Bico"
+    },
+    {
+      "char": "🙍‍♀️",
+      "dec": 128589,
+      "hex": "1F64D",
+      "name": "Mulher Fazendo Bico"
+    },
+    {
+      "char": "🙎",
+      "dec": 128590,
+      "hex": "1F64E",
+      "name": "Pessoa Emburrada"
+    },
+    {
+      "char": "🙎‍♂️",
+      "dec": 128590,
+      "hex": "1F64E",
+      "name": "Homem Emburrado"
+    },
+    {
+      "char": "🙎‍♀️",
+      "dec": 128590,
+      "hex": "1F64E",
+      "name": "Mulher Emburrada"
+    },
+    {
+      "char": "🙅",
+      "dec": 128581,
+      "hex": "1F645",
+      "name": "Pessoa Gesticulando Não"
+    },
+    {
+      "char": "🙅‍♂️",
+      "dec": 128581,
+      "hex": "1F645",
+      "name": "Homem Gesticulando Não"
+    },
+    {
+      "char": "🙅‍♀️",
+      "dec": 128581,
+      "hex": "1F645",
+      "name": "Mulher Gesticulando Não"
+    },
+    {
+      "char": "🙆",
+      "dec": 128582,
+      "hex": "1F646",
+      "name": "Pessoa Gesticulando Ok"
+    },
+    {
+      "char": "🙆‍♂️",
+      "dec": 128582,
+      "hex": "1F646",
+      "name": "Homem Gesticulando Ok"
+    },
+    {
+      "char": "🙆‍♀️",
+      "dec": 128582,
+      "hex": "1F646",
+      "name": "Mulher Gesticulando Ok"
+    },
+    {
+      "char": "💁",
+      "dec": 128129,
+      "hex": "1F481",
+      "name": "Pessoa com a Mão na Cabeça"
+    },
+    {
+      "char": "💁‍♂️",
+      "dec": 128129,
+      "hex": "1F481",
+      "name": "Homem com a Mão na Cabeça"
+    },
+    {
+      "char": "💁‍♀️",
+      "dec": 128129,
+      "hex": "1F481",
+      "name": "Mulher com a Mão na Cabeça"
+    },
+    {
+      "char": "🙋",
+      "dec": 128587,
+      "hex": "1F64B",
+      "name": "Pessoa Levantando a Mão"
+    },
+    {
+      "char": "🙋‍♂️",
+      "dec": 128587,
+      "hex": "1F64B",
+      "name": "Homem Levantando a Mão"
+    },
+    {
+      "char": "🙋‍♀️",
+      "dec": 128587,
+      "hex": "1F64B",
+      "name": "Mulher Levantando a Mão"
+    },
+    {
+      "char": "🙇",
+      "dec": 128583,
+      "hex": "1F647",
+      "name": "Pessoa se Curvando"
+    },
+    {
+      "char": "🙇‍♂️",
+      "dec": 128583,
+      "hex": "1F647",
+      "name": "Homem se Curvando"
+    },
+    {
+      "char": "🙇‍♀️",
+      "dec": 128583,
+      "hex": "1F647",
+      "name": "Mulher se Curvando"
+    },
+    {
+      "char": "🤦",
+      "dec": 129318,
+      "hex": "1F926",
+      "name": "Pessoa com a Mão no Rosto"
+    },
+    {
+      "char": "🤦‍♂️",
+      "dec": 129318,
+      "hex": "1F926",
+      "name": "Homem com a Mão no Rosto"
+    },
+    {
+      "char": "🤦‍♀️",
+      "dec": 129318,
+      "hex": "1F926",
+      "name": "Mulher com a Mão no Rosto"
+    },
+    {
+      "char": "🤷",
+      "dec": 129335,
+      "hex": "1F937",
+      "name": "Pessoa Dando de Ombros"
+    },
+    {
+      "char": "🤷‍♂️",
+      "dec": 129335,
+      "hex": "1F937",
+      "name": "Homem Dando de Ombros"
+    },
+    {
+      "char": "🤷‍♀️",
+      "dec": 129335,
+      "hex": "1F937",
+      "name": "Mulher Dando de Ombros"
+    }
+  ],
+  "Profissões": [
+    {
+      "char": "👨‍⚕️",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Profissional de Saúde Homem"
+    },
+    {
+      "char": "👩‍⚕️",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Profissional de Saúde Mulher"
+    },
+    {
+      "char": "👨‍🎓",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Estudante Homem"
+    },
+    {
+      "char": "👩‍🎓",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Estudante Mulher"
+    },
+    {
+      "char": "👨‍🏫",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Professor Homem"
+    },
+    {
+      "char": "👩‍🏫",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Professora Mulher"
+    },
+    {
+      "char": "👨‍⚖️",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Juiz Homem"
+    },
+    {
+      "char": "👩‍⚖️",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Juíza Mulher"
+    },
+    {
+      "char": "👨‍🌾",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Fazendeiro Homem"
+    },
+    {
+      "char": "👩‍🌾",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Fazendeira Mulher"
+    },
+    {
+      "char": "👨‍🍳",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Cozinheiro Homem"
+    },
+    {
+      "char": "👩‍🍳",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Cozinheira Mulher"
+    },
+    {
+      "char": "👨‍🔧",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Mecânico Homem"
+    },
+    {
+      "char": "👩‍🔧",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Mecânica Mulher"
+    },
+    {
+      "char": "👨‍🏭",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Operário de Fábrica Homem"
+    },
+    {
+      "char": "👩‍🏭",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Operária de Fábrica Mulher"
+    },
+    {
+      "char": "👨‍💼",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Trabalhador de Escritório Homem"
+    },
+    {
+      "char": "👩‍💼",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Trabalhadora de Escritório Mulher"
+    },
+    {
+      "char": "👨‍🔬",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Cientista Homem"
+    },
+    {
+      "char": "👩‍🔬",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Cientista Mulher"
+    },
+    {
+      "char": "👨‍💻",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Tecnólogo Homem"
+    },
+    {
+      "char": "👩‍💻",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Tecnóloga Mulher"
+    },
+    {
+      "char": "👨‍🎤",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Cantor Homem"
+    },
+    {
+      "char": "👩‍🎤",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Cantora Mulher"
+    },
+    {
+      "char": "👨‍🎨",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Artista Homem"
+    },
+    {
+      "char": "👩‍🎨",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Artista Mulher"
+    },
+    {
+      "char": "👨‍✈️",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Piloto Homem"
+    },
+    {
+      "char": "👩‍✈️",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Piloto Mulher"
+    },
+    {
+      "char": "👨‍🚀",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Astronauta Homem"
+    },
+    {
+      "char": "👩‍🚀",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Astronauta Mulher"
+    },
+    {
+      "char": "👨‍🚒",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Bombeiro Homem"
+    },
+    {
+      "char": "👩‍🚒",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Bombeira Mulher"
+    },
+    {
+      "char": "👮",
+      "dec": 128110,
+      "hex": "1F46E",
+      "name": "Policial"
+    },
+    {
+      "char": "👮‍♂️",
+      "dec": 128110,
+      "hex": "1F46E",
+      "name": "Policial Homem"
+    },
+    {
+      "char": "👮‍♀️",
+      "dec": 128110,
+      "hex": "1F46E",
+      "name": "Policial Mulher"
+    },
+    {
+      "char": "🕵",
+      "dec": 128373,
+      "hex": "1F575",
+      "name": "Detetive"
+    },
+    {
+      "char": "🕵️‍♂️",
+      "dec": 128373,
+      "hex": "1F575",
+      "name": "Detetive Homem"
+    },
+    {
+      "char": "🕵️‍♀️",
+      "dec": 128373,
+      "hex": "1F575",
+      "name": "Detetive Mulher"
+    },
+    {
+      "char": "💂",
+      "dec": 128130,
+      "hex": "1F482",
+      "name": "Guarda"
+    },
+    {
+      "char": "💂‍♂️",
+      "dec": 128130,
+      "hex": "1F482",
+      "name": "Guarda Homem"
+    },
+    {
+      "char": "💂‍♀️",
+      "dec": 128130,
+      "hex": "1F482",
+      "name": "Guarda Mulher"
+    },
+    {
+      "char": "👷",
+      "dec": 128119,
+      "hex": "1F477",
+      "name": "Trabalhador da Construção Civil"
+    },
+    {
+      "char": "👷‍♂️",
+      "dec": 128119,
+      "hex": "1F477",
+      "name": "Trabalhador da Construção Civil Homem"
+    },
+    {
+      "char": "👷‍♀️",
+      "dec": 128119,
+      "hex": "1F477",
+      "name": "Trabalhadora da Construção Civil Mulher"
+    },
+    {
+      "char": "🤴",
+      "dec": 129332,
+      "hex": "1F934",
+      "name": "Príncipe"
+    },
+    {
+      "char": "👸",
+      "dec": 128120,
+      "hex": "1F478",
+      "name": "Princesa"
+    },
+    {
+      "char": "👳",
+      "dec": 128115,
+      "hex": "1F473",
+      "name": "Pessoa Usando Turbante"
+    },
+    {
+      "char": "👳‍♂️",
+      "dec": 128115,
+      "hex": "1F473",
+      "name": "Homem Usando Turbante"
+    },
+    {
+      "char": "👳‍♀️",
+      "dec": 128115,
+      "hex": "1F473",
+      "name": "Mulher Usando Turbante"
+    },
+    {
+      "char": "👲",
+      "dec": 128114,
+      "hex": "1F472",
+      "name": "Homem com Chapéu Chinês"
+    },
+    {
+      "char": "🧕",
+      "dec": 129493,
+      "hex": "1F9D5",
+      "name": "Mulher com Lenço na Cabeça"
+    },
+    {
+      "char": "🤵",
+      "dec": 129333,
+      "hex": "1F935",
+      "name": "Homem de Smoking"
+    },
+    {
+      "char": "👰",
+      "dec": 128112,
+      "hex": "1F470",
+      "name": "Noiva com Véu"
+    },
+    {
+      "char": "🤰",
+      "dec": 129328,
+      "hex": "1F930",
+      "name": "Mulher Grávida"
+    },
+    {
+      "char": "🤱",
+      "dec": 129329,
+      "hex": "1F931",
+      "name": "Amamentação"
+    }
+  ],
+  "Seres Fantásticos": [
+    {
+      "char": "👼",
+      "dec": 128124,
+      "hex": "1F47C",
+      "name": "Anjo Bebê"
+    },
+    {
+      "char": "🎅",
+      "dec": 127877,
+      "hex": "1F385",
+      "name": "Papai Noel"
+    },
+    {
+      "char": "🤶",
+      "dec": 129334,
+      "hex": "1F936",
+      "name": "Mamãe Noel"
+    },
+    {
+      "char": "🦸",
+      "dec": 129464,
+      "hex": "1F9B8",
+      "name": "Super-Herói"
+    },
+    {
+      "char": "🦸‍♂️",
+      "dec": 129464,
+      "hex": "1F9B8",
+      "name": "Super-Herói Homem"
+    },
+    {
+      "char": "🦸‍♀️",
+      "dec": 129464,
+      "hex": "1F9B8",
+      "name": "Super-Heroína Mulher"
+    },
+    {
+      "char": "🦹",
+      "dec": 129465,
+      "hex": "1F9B9",
+      "name": "Supervilão"
+    },
+    {
+      "char": "🦹‍♂️",
+      "dec": 129465,
+      "hex": "1F9B9",
+      "name": "Supervilão Homem"
+    },
+    {
+      "char": "🦹‍♀️",
+      "dec": 129465,
+      "hex": "1F9B9",
+      "name": "Supervilã Mulher"
+    },
+    {
+      "char": "🧙",
+      "dec": 129497,
+      "hex": "1F9D9",
+      "name": "Mago"
+    },
+    {
+      "char": "🧙‍♂️",
+      "dec": 129497,
+      "hex": "1F9D9",
+      "name": "Mago Homem"
+    },
+    {
+      "char": "🧙‍♀️",
+      "dec": 129497,
+      "hex": "1F9D9",
+      "name": "Maga Mulher"
+    },
+    {
+      "char": "🧚",
+      "dec": 129498,
+      "hex": "1F9DA",
+      "name": "Fada"
+    },
+    {
+      "char": "🧚‍♂️",
+      "dec": 129498,
+      "hex": "1F9DA",
+      "name": "Fada Homem"
+    },
+    {
+      "char": "🧚‍♀️",
+      "dec": 129498,
+      "hex": "1F9DA",
+      "name": "Fada Mulher"
+    },
+    {
+      "char": "🧛",
+      "dec": 129499,
+      "hex": "1F9DB",
+      "name": "Vampiro"
+    },
+    {
+      "char": "🧛‍♂️",
+      "dec": 129499,
+      "hex": "1F9DB",
+      "name": "Vampiro Homem"
+    },
+    {
+      "char": "🧛‍♀️",
+      "dec": 129499,
+      "hex": "1F9DB",
+      "name": "Vampira Mulher"
+    },
+    {
+      "char":

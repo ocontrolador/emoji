@@ -1,0 +1,921 @@
+{
+      "char": "🧜",
+      "dec": 129500,
+      "hex": "1F9DC",
+      "name": "Sereia"
+    },
+    {
+      "char": "🧜‍♂️",
+      "dec": 129500,
+      "hex": "1F9DC",
+      "name": "Sereio"
+    },
+    {
+      "char": "🧜‍♀️",
+      "dec": 129500,
+      "hex": "1F9DC",
+      "name": "Sereia Mulher"
+    },
+    {
+      "char": "🧝",
+      "dec": 129501,
+      "hex": "1F9DD",
+      "name": "Elfo"
+    },
+    {
+      "char": "🧝‍♂️",
+      "dec": 129501,
+      "hex": "1F9DD",
+      "name": "Elfo Homem"
+    },
+     {
+      "char": "🧝‍♀️",
+      "dec": 129501,
+      "hex": "1F9DD",
+      "name": "Elfa Mulher"
+    },
+    {
+      "char": "🧞",
+      "dec": 129502,
+      "hex": "1F9DE",
+      "name": "Gênio"
+    },
+    {
+      "char": "🧞‍♂️",
+      "dec": 129502,
+      "hex": "1F9DE",
+      "name": "Gênio Homem"
+    },
+    {
+      "char": "🧞‍♀️",
+      "dec": 129502,
+      "hex": "1F9DE",
+      "name": "Gênia Mulher"
+    },
+    {
+      "char": "🧟",
+      "dec": 129503,
+      "hex": "1F9DF",
+      "name": "Zumbi"
+    },
+     {
+      "char": "🧟‍♂️",
+      "dec": 129503,
+      "hex": "1F9DF",
+      "name": "Zumbi Homem"
+    },
+    {
+       "char": "🧟‍♀️",
+      "dec": 129503,
+      "hex": "1F9DF",
+      "name": "Zumbi Mulher"
+    }
+  ],
+ "Atividades": [
+    {
+      "char": "💆",
+      "dec": 128134,
+      "hex": "1F486",
+      "name": "Pessoa Recebendo Massagem"
+    },
+    {
+      "char": "💆‍♂️",
+      "dec": 128134,
+      "hex": "1F486",
+      "name": "Homem Recebendo Massagem"
+    },
+    {
+      "char": "💆‍♀️",
+      "dec": 128134,
+      "hex": "1F486",
+      "name": "Mulher Recebendo Massagem"
+    },
+     {
+      "char": "💇",
+      "dec": 128135,
+      "hex": "1F487",
+      "name": "Pessoa Cortando o Cabelo"
+    },
+    {
+       "char": "💇‍♂️",
+      "dec": 128135,
+      "hex": "1F487",
+      "name": "Homem Cortando o Cabelo"
+    },
+    {
+      "char": "💇‍♀️",
+      "dec": 128135,
+      "hex": "1F487",
+      "name": "Mulher Cortando o Cabelo"
+    },
+    {
+      "char": "🚶",
+      "dec": 128694,
+      "hex": "1F6B6",
+      "name": "Pessoa Caminhando"
+    },
+     {
+      "char": "🚶‍♂️",
+      "dec": 128694,
+      "hex": "1F6B6",
+      "name": "Homem Caminhando"
+    },
+    {
+       "char": "🚶‍♀️",
+      "dec": 128694,
+      "hex": "1F6B6",
+      "name": "Mulher Caminhando"
+    },
+     {
+      "char": "🏃",
+      "dec": 127939,
+      "hex": "1F3C3",
+      "name": "Pessoa Correndo"
+    },
+    {
+      "char": "🏃‍♂️",
+      "dec": 127939,
+      "hex": "1F3C3",
+      "name": "Homem Correndo"
+    },
+    {
+      "char": "🏃‍♀️",
+      "dec": 127939,
+      "hex": "1F3C3",
+      "name": "Mulher Correndo"
+    },
+    {
+      "char": "💃",
+      "dec": 128131,
+      "hex": "1F483",
+      "name": "Mulher Dançando"
+    },
+      {
+      "char": "🕺",
+      "dec": 128378,
+      "hex": "1F57A",
+      "name": "Homem Dançando"
+    },
+     {
+      "char": "🕴",
+      "dec": 128372,
+      "hex": "1F574",
+      "name": "Homem de Terno Levitando"
+    },
+    {
+      "char": "👯",
+      "dec": 128111,
+      "hex": "1F46F",
+      "name": "Pessoas com Orelhas de Coelho"
+    },
+     {
+      "char": "👯‍♂️",
+      "dec": 128111,
+      "hex": "1F46F",
+      "name": "Homens com Orelhas de Coelho"
+    },
+    {
+      "char": "👯‍♀️",
+       "dec": 128111,
+      "hex": "1F46F",
+      "name": "Mulheres com Orelhas de Coelho"
+    },
+    {
+      "char": "🧖",
+      "dec": 129526,
+      "hex": "1F9D6",
+      "name": "Pessoa em Quarto a Vapor"
+    },
+    {
+      "char": "🧖‍♂️",
+      "dec": 129526,
+      "hex": "1F9D6",
+      "name": "Homem em Quarto a Vapor"
+    },
+     {
+      "char": "🧖‍♀️",
+      "dec": 129526,
+      "hex": "1F9D6",
+      "name": "Mulher em Quarto a Vapor"
+    },
+    {
+       "char": "🧗",
+      "dec": 129527,
+      "hex": "1F9D7",
+      "name": "Pessoa Escalando"
+    },
+    {
+      "char": "🧗‍♂️",
+       "dec": 129527,
+      "hex": "1F9D7",
+      "name": "Homem Escalando"
+    },
+    {
+      "char": "🧗‍♀️",
+      "dec": 129527,
+      "hex": "1F9D7",
+      "name": "Mulher Escalando"
+    }
+ ],
+"Esportes": [
+    {
+      "char": "🤺",
+      "dec": 129338,
+      "hex": "1F93A",
+      "name": "Pessoa Esgrimindo"
+    },
+    {
+      "char": "🏇",
+      "dec": 127943,
+      "hex": "1F3C7",
+      "name": "Corrida de Cavalo"
+    },
+     {
+      "char": "⛷",
+      "dec": 9975,
+      "hex": "26F7",
+      "name": "Esquiador"
+    },
+     {
+      "char": "🏂",
+      "dec": 127938,
+      "hex": "1F3C2",
+      "name": "Snowboarder"
+    },
+    {
+      "char": "🏌",
+      "dec": 127948,
+      "hex": "1F3CC",
+      "name": "Pessoa Jogando Golfe"
+    },
+    {
+       "char": "🏌️‍♂️",
+       "dec": 127948,
+      "hex": "1F3CC",
+      "name": "Homem Jogando Golfe"
+    },
+    {
+       "char": "🏌️‍♀️",
+       "dec": 127948,
+      "hex": "1F3CC",
+      "name": "Mulher Jogando Golfe"
+    },
+    {
+       "char": "🏄",
+       "dec": 127940,
+      "hex": "1F3C4",
+      "name": "Pessoa Surfando"
+    },
+     {
+       "char": "🏄‍♂️",
+       "dec": 127940,
+      "hex": "1F3C4",
+      "name": "Homem Surfando"
+    },
+    {
+       "char": "🏄‍♀️",
+       "dec": 127940,
+      "hex": "1F3C4",
+      "name": "Mulher Surfando"
+    },
+    {
+      "char": "🚣",
+      "dec": 128675,
+      "hex": "1F6A3",
+      "name": "Pessoa Remando"
+    },
+    {
+       "char": "🚣‍♂️",
+      "dec": 128675,
+       "hex": "1F6A3",
+      "name": "Homem Remando"
+    },
+    {
+      "char": "🚣‍♀️",
+      "dec": 128675,
+       "hex": "1F6A3",
+      "name": "Mulher Remando"
+    },
+    {
+       "char": "🏊",
+       "dec": 127946,
+      "hex": "1F3CA",
+      "name": "Pessoa Nadando"
+    },
+      {
+      "char": "🏊‍♂️",
+       "dec": 127946,
+      "hex": "1F3CA",
+      "name": "Homem Nadando"
+    },
+    {
+      "char": "🏊‍♀️",
+       "dec": 127946,
+      "hex": "1F3CA",
+      "name": "Mulher Nadando"
+    },
+    {
+      "char": "⛹",
+      "dec": 9977,
+      "hex": "26F9",
+      "name": "Pessoa Quicando a Bola"
+    },
+    {
+      "char": "⛹️‍♂️",
+      "dec": 9977,
+      "hex": "26F9",
+      "name": "Homem Quicando a Bola"
+    },
+    {
+      "char": "⛹️‍♀️",
+      "dec": 9977,
+      "hex": "26F9",
+      "name": "Mulher Quicando a Bola"
+    },
+     {
+       "char": "🏋",
+       "dec": 127947,
+      "hex": "1F3CB",
+      "name": "Pessoa Levantando Peso"
+    },
+     {
+       "char": "🏋️‍♂️",
+       "dec": 127947,
+      "hex": "1F3CB",
+      "name": "Homem Levantando Peso"
+    },
+    {
+       "char": "🏋️‍♀️",
+       "dec": 127947,
+      "hex": "1F3CB",
+      "name": "Mulher Levantando Peso"
+    },
+    {
+       "char": "🚴",
+       "dec": 128692,
+      "hex": "1F6B4",
+      "name": "Pessoa Andando de Bicicleta"
+    },
+     {
+       "char": "🚴‍♂️",
+      "dec": 128692,
+       "hex": "1F6B4",
+      "name": "Homem Andando de Bicicleta"
+    },
+    {
+       "char": "🚴‍♀️",
+       "dec": 128692,
+      "hex": "1F6B4",
+      "name": "Mulher Andando de Bicicleta"
+    },
+    {
+      "char": "🚵",
+      "dec": 128693,
+      "hex": "1F6B5",
+      "name": "Pessoa Andando de Bicicleta de Montanha"
+    },
+    {
+      "char": "🚵‍♂️",
+      "dec": 128693,
+      "hex": "1F6B5",
+      "name": "Homem Andando de Bicicleta de Montanha"
+    },
+     {
+      "char": "🚵‍♀️",
+      "dec": 128693,
+      "hex": "1F6B5",
+      "name": "Mulher Andando de Bicicleta de Montanha"
+    },
+     {
+      "char": "🤸",
+      "dec": 129336,
+      "hex": "1F938",
+      "name": "Pessoa Dando Cambalhota"
+    },
+    {
+      "char": "🤸‍♂️",
+      "dec": 129336,
+      "hex": "1F938",
+      "name": "Homem Dando Cambalhota"
+    },
+     {
+       "char": "🤸‍♀️",
+       "dec": 129336,
+      "hex": "1F938",
+      "name": "Mulher Dando Cambalhota"
+    },
+    {
+      "char": "🤼",
+      "dec": 129340,
+      "hex": "1F93C",
+      "name": "Pessoas Lutando"
+    },
+     {
+      "char": "🤼‍♂️",
+      "dec": 129340,
+      "hex": "1F93C",
+      "name": "Homens Lutando"
+    },
+    {
+      "char": "🤼‍♀️",
+      "dec": 129340,
+      "hex": "1F93C",
+      "name": "Mulheres Lutando"
+    },
+     {
+      "char": "🤽",
+      "dec": 129341,
+      "hex": "1F93D",
+      "name": "Pessoa Jogando Polo Aquático"
+    },
+     {
+      "char": "🤽‍♂️",
+      "dec": 129341,
+      "hex": "1F93D",
+      "name": "Homem Jogando Polo Aquático"
+    },
+    {
+       "char": "🤽‍♀️",
+      "dec": 129341,
+      "hex": "1F93D",
+      "name": "Mulher Jogando Polo Aquático"
+    },
+     {
+      "char": "🤾",
+       "dec": 129342,
+      "hex": "1F93E",
+      "name": "Pessoa Jogando Handebol"
+    },
+    {
+       "char": "🤾‍♂️",
+      "dec": 129342,
+      "hex": "1F93E",
+      "name": "Homem Jogando Handebol"
+    },
+    {
+       "char": "🤾‍♀️",
+       "dec": 129342,
+      "hex": "1F93E",
+      "name": "Mulher Jogando Handebol"
+    },
+    {
+       "char": "🤹",
+      "dec": 129337,
+      "hex": "1F939",
+      "name": "Pessoa Fazendo Malabarismo"
+    },
+     {
+      "char": "🤹‍♂️",
+       "dec": 129337,
+      "hex": "1F939",
+      "name": "Homem Fazendo Malabarismo"
+    },
+    {
+       "char": "🤹‍♀️",
+       "dec": 129337,
+      "hex": "1F939",
+      "name": "Mulher Fazendo Malabarismo"
+    }
+  ],
+ "Pessoas Relaxando": [
+  {
+      "char": "🧘",
+      "dec": 129528,
+      "hex": "1F9D8",
+      "name": "Pessoa na Posição de Lótus"
+    },
+    {
+       "char": "🧘‍♂️",
+       "dec": 129528,
+      "hex": "1F9D8",
+      "name": "Homem na Posição de Lótus"
+    },
+    {
+       "char": "🧘‍♀️",
+       "dec": 129528,
+      "hex": "1F9D8",
+      "name": "Mulher na Posição de Lótus"
+    },
+    {
+      "char": "🛀",
+      "dec": 128640,
+      "hex": "1F6C0",
+      "name": "Pessoa Tomando Banho"
+    },
+    {
+      "char": "🛌",
+      "dec": 128652,
+      "hex": "1F6CC",
+      "name": "Pessoa na Cama"
+    }
+  ],
+ "Família": [
+    {
+      "char": "👭",
+       "dec": 128109,
+      "hex": "1F46D",
+      "name": "Mulheres de Mãos Dadas"
+    },
+    {
+       "char": "👫",
+       "dec": 128107,
+      "hex": "1F46B",
+      "name": "Mulher e Homem de Mãos Dadas"
+    },
+    {
+      "char": "👬",
+      "dec": 128108,
+      "hex": "1F46C",
+      "name": "Homens de Mãos Dadas"
+    },
+     {
+      "char": "💏",
+      "dec": 128143,
+      "hex": "1F48F",
+      "name": "Beijo"
+    },
+     {
+      "char": "👩‍❤️‍💋‍👨",
+       "dec": 128105,
+      "hex": "1F469",
+      "name": "Beijo: Mulher, Homem"
+    },
+    {
+       "char": "👨‍❤️‍💋‍👨",
+       "dec": 128104,
+      "hex": "1F468",
+      "name": "Beijo: Homem, Homem"
+    },
+    {
+       "char": "👩‍❤️‍💋‍👩",
+       "dec": 128105,
+      "hex": "1F469",
+      "name": "Beijo: Mulher, Mulher"
+    },
+    {
+      "char": "💑",
+      "dec": 128145,
+      "hex": "1F491",
+      "name": "Casal com Coração"
+    },
+    {
+        "char": "👩‍❤️‍👨",
+       "dec": 128105,
+      "hex": "1F469",
+      "name": "Casal com Coração: Mulher, Homem"
+    },
+    {
+      "char": "👨‍❤️‍👨",
+       "dec": 128104,
+      "hex": "1F468",
+      "name": "Casal com Coração: Homem, Homem"
+    },
+    {
+      "char": "👩‍❤️‍👩",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Casal com Coração: Mulher, Mulher"
+    },
+    {
+       "char": "👪",
+       "dec": 128106,
+      "hex": "1F46A",
+      "name": "Família"
+    },
+    {
+       "char": "👨‍👩‍👦",
+       "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Mulher, Menino"
+    },
+    {
+       "char": "👨‍👩‍👧",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Mulher, Menina"
+    },
+    {
+       "char": "👨‍👩‍👧‍👦",
+       "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Mulher, Menina, Menino"
+    },
+    {
+      "char": "👨‍👩‍👦‍👦",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Mulher, Menino, Menino"
+    },
+    {
+      "char": "👨‍👩‍👧‍👧",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Mulher, Menina, Menina"
+    },
+    {
+      "char": "👨‍👨‍👦",
+       "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Homem, Menino"
+    },
+    {
+      "char": "👨‍👨‍👧",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Homem, Menina"
+    },
+     {
+      "char": "👨‍👨‍👧‍👦",
+       "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Homem, Menina, Menino"
+    },
+     {
+      "char": "👨‍👨‍👦‍👦",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Homem, Menino, Menino"
+    },
+    {
+       "char": "👨‍👨‍👧‍👧",
+       "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Homem, Menina, Menina"
+    },
+    {
+        "char": "👩‍👩‍👦",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Família: Mulher, Mulher, Menino"
+    },
+    {
+        "char": "👩‍👩‍👧",
+       "dec": 128105,
+      "hex": "1F469",
+      "name": "Família: Mulher, Mulher, Menina"
+    },
+    {
+       "char": "👩‍👩‍👧‍👦",
+       "dec": 128105,
+      "hex": "1F469",
+      "name": "Família: Mulher, Mulher, Menina, Menino"
+    },
+    {
+        "char": "👩‍👩‍👦‍👦",
+        "dec": 128105,
+      "hex": "1F469",
+      "name": "Família: Mulher, Mulher, Menino, Menino"
+    },
+    {
+       "char": "👩‍👩‍👧‍👧",
+       "dec": 128105,
+      "hex": "1F469",
+      "name": "Família: Mulher, Mulher, Menina, Menina"
+    },
+    {
+      "char": "👨‍👦",
+       "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Menino"
+    },
+    {
+       "char": "👨‍👦‍👦",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Menino, Menino"
+    },
+    {
+       "char": "👨‍👧",
+       "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Menina"
+    },
+    {
+      "char": "👨‍👧‍👦",
+       "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Menina, Menino"
+    },
+    {
+       "char": "👨‍👧‍👧",
+       "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Menina, Menina"
+    },
+    {
+      "char": "👩‍👦",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Família: Mulher, Menino"
+    },
+     {
+      "char": "👩‍👦‍👦",
+       "dec": 128105,
+      "hex": "1F469",
+      "name": "Família: Mulher, Menino, Menino"
+    },
+    {
+       "char": "👩‍👧",
+       "dec": 128105,
+      "hex": "1F469",
+      "name": "Família: Mulher, Menina"
+    },
+    {
+       "char": "👩‍👧‍👦",
+       "dec": 128105,
+      "hex": "1F469",
+      "name": "Família: Mulher, Menina, Menino"
+    },
+   {
+       "char": "👩‍👧‍👧",
+       "dec": 128105,
+      "hex": "1F469",
+      "name": "Família: Mulher, Menina, Menina"
+    }
+ ],
+ "Símbolos de Pessoas": [
+    {
+      "char": "🗣",
+      "dec": 128483,
+      "hex": "1F5E3",
+      "name": "Cabeça Falando"
+    },
+    {
+      "char": "👤",
+      "dec": 128100,
+      "hex": "1F464",
+      "name": "Busto em Silhueta"
+    },
+     {
+      "char": "👥",
+      "dec": 128101,
+      "hex": "1F465",
+      "name": "Bustos em Silhueta"
+    },
+    {
+       "char": "👣",
+      "dec": 128107,
+      "hex": "1F463",
+      "name": "Pegadas"
+    }
+  ],
+  "Cabelos": [
+    {
+      "char": "🦰",
+      "dec": 129456,
+      "hex": "1F9B0",
+      "name": "Cabelo Ruivo"
+    },
+     {
+      "char": "🦱",
+      "dec": 129457,
+      "hex": "1F9B1",
+      "name": "Cabelo Cacheado"
+    },
+    {
+      "char": "🦳",
+       "dec": 129459,
+      "hex": "1F9B3",
+      "name": "Cabelo Branco"
+    },
+     {
+      "char": "🦲",
+      "dec": 129458,
+      "hex": "1F9B2",
+      "name": "Careca"
+    }
+  ],
+    "Animais Mamíferos": [
+    {
+      "char": "🐵",
+      "dec": 128053,
+      "hex": "1F435",
+       "name": "Rosto de Macaco"
+    },
+    {
+       "char": "🐒",
+      "dec": 128018,
+      "hex": "1F412",
+       "name": "Macaco"
+     },
+      {
+       "char": "🦍",
+        "dec": 129357,
+      "hex": "1F98D",
+       "name": "Gorila"
+    },
+    {
+      "char": "🐶",
+      "dec": 128054,
+      "hex": "1F436",
+      "name": "Rosto de Cachorro"
+    },
+     {
+      "char": "🐕",
+      "dec": 128021,
+      "hex": "1F415",
+       "name": "Cachorro"
+    },
+    {
+      "char": "🐩",
+      "dec": 128041,
+      "hex": "1F429",
+       "name": "Poodle"
+    },
+    {
+       "char": "🐺",
+        "dec": 128058,
+      "hex": "1F43A",
+       "name": "Lobo"
+    },
+    {
+      "char": "🦊",
+       "dec": 129354,
+      "hex": "1F98A",
+       "name": "Raposa"
+    },
+    {
+      "char": "🦝",
+      "dec": 129373,
+      "hex": "1F99D",
+       "name": "Guaxinim"
+     },
+    {
+       "char": "🐱",
+      "dec": 128049,
+      "hex": "1F431",
+       "name": "Rosto de Gato"
+     },
+     {
+      "char": "🐈",
+      "dec": 128008,
+      "hex": "1F408",
+       "name": "Gato"
+     },
+    {
+      "char": "🦁",
+      "dec": 129345,
+      "hex": "1F981",
+      "name": "Leão"
+    },
+      {
+      "char": "🐯",
+      "dec": 128047,
+      "hex": "1F42F",
+       "name": "Rosto de Tigre"
+    },
+    {
+      "char": "🐅",
+       "dec": 128005,
+      "hex": "1F405",
+      "name": "Tigre"
+    },
+    {
+      "char": "🐆",
+       "dec": 128006,
+      "hex": "1F406",
+      "name": "Leopardo"
+    },
+    {
+       "char": "🐴",
+        "dec": 128052,
+      "hex": "1F434",
+      "name": "Rosto de Cavalo"
+    },
+    {
+        "char": "🐎",
+       "dec": 128014,
+      "hex": "1F40E",
+       "name": "Cavalo"
+    },
+    {
+       "char": "🦄",
+        "dec": 129348,
+      "hex": "1F984",
+      "name": "Unicórnio"
+    },
+    {
+      "char": "🦓",
+        "dec": 129363,
+      "hex": "1F993",
+       "name": "Zebra"
+    },
+    {
+       "char": "🦌",
+        "dec": 129356,
+      "hex": "1F98C",
+      "name": "Veado"
+    },
+    {
+      "char": "🐮",
+        "dec": 128046,
+      "hex": "1F42E",
+      "name": "Rosto de Vaca"
+    },
+    {
+      "char": "🐂",
+      "dec": 128002,
+      "hex": "1F402",
+      "name": "Boi"
+    },
+    
