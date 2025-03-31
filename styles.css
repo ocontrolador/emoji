@@ -122,3 +122,42 @@ body {
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   z-index: 1000;
 }
+
+.emoji-item {
+  /* Seus estilos existentes */
+  display: flex; /* Ou block, dependendo do layout */
+  flex-direction: column;
+  align-items: center;
+  position: relative; /* Para posicionar a notificação relativa a ele, se desejar */
+}
+
+.copy-options {
+  display: flex;
+  gap: 5px; /* Espaçamento entre botões */
+  margin-top: 5px;
+}
+
+.copy-button {
+  font-size: 10px;
+  padding: 2px 4px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  background-color: #f0f0f0;
+  border-radius: 3px;
+}
+
+.copy-button:hover {
+  background-color: #e0e0e0;
+}
+
+.copy-notification {
+  /* Estilos já definidos no JS, mas podem ser ajustados aqui */
+  position: absolute;
+  background: rgba(0, 0, 0, 0.75);
+  color: white;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 11px;
+  z-index: 1000;
+  pointer-events: none; /* Impede que a notificação intercepte cliques */
+}
