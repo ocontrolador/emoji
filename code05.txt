@@ -1,0 +1,996 @@
+{
+   "Comida Asiática": [
+    {
+      "char": "🍣",
+      "dec": 127779,
+      "hex": "1F363",
+      "name": "Sushi"
+    },
+    {
+      "char": "🍤",
+      "dec": 127780,
+      "hex": "1F364",
+      "name": "Camarão Frito"
+    },
+    {
+      "char": "🍥",
+      "dec": 127781,
+      "hex": "1F365",
+      "name": "Bolo de Peixe com Espiral"
+    },
+    {
+      "char": "🥮",
+      "dec": 129390,
+      "hex": "1F96E",
+      "name": "Bolo da Lua"
+     },
+    {
+        "char": "🍡",
+       "dec": 127777,
+      "hex": "1F361",
+      "name": "Dango"
+    },
+     {
+      "char": "🥟",
+       "dec": 129375,
+      "hex": "1F95F",
+       "name": "Dumpling"
+    },
+    {
+        "char": "🥠",
+       "dec": 129376,
+      "hex": "1F960",
+      "name": "Biscoito da Sorte"
+    },
+    {
+       "char": "🥡",
+       "dec": 129377,
+      "hex": "1F961",
+      "name": "Caixa para Viagem"
+    }
+  ],
+  "Comida do Mar": [
+   {
+        "char": "🦀",
+        "dec": 129344,
+       "hex": "1F980",
+        "name": "Caranguejo"
+    },
+    {
+       "char": "🦞",
+        "dec": 129374,
+      "hex": "1F99E",
+        "name": "Lagosta"
+    },
+    {
+      "char": "🦐",
+      "dec": 129360,
+      "hex": "1F990",
+        "name": "Camarão"
+    },
+     {
+        "char": "🦑",
+        "dec": 129361,
+        "hex": "1F991",
+      "name": "Lula"
+    }
+  ],
+"Doces": [
+    {
+        "char": "🍦",
+       "dec": 127782,
+      "hex": "1F366",
+      "name": "Sorvete Cremoso"
+    },
+    {
+        "char": "🍧",
+       "dec": 127783,
+      "hex": "1F367",
+       "name": "Gelo Raspado"
+    },
+      {
+       "char": "🍨",
+        "dec": 127784,
+      "hex": "1F368",
+       "name": "Sorvete"
+    },
+    {
+      "char": "🍩",
+      "dec": 127785,
+      "hex": "1F369",
+       "name": "Donut"
+    },
+    {
+        "char": "🍪",
+       "dec": 127786,
+      "hex": "1F36A",
+       "name": "Biscoito"
+    },
+     {
+      "char": "🎂",
+       "dec": 127874,
+      "hex": "1F382",
+      "name": "Bolo de Aniversário"
+    },
+      {
+        "char": "🍰",
+        "dec": 127792,
+      "hex": "1F370",
+        "name": "Bolo de Camada"
+    },
+    {
+       "char": "🧁",
+        "dec": 129409,
+      "hex": "1F9C1",
+       "name": "Cupcake"
+    },
+    {
+        "char": "🥧",
+        "dec": 129383,
+      "hex": "1F967",
+        "name": "Torta"
+    },
+    {
+      "char": "🍫",
+        "dec": 127787,
+      "hex": "1F36B",
+      "name": "Barra de Chocolate"
+    },
+     {
+      "char": "🍬",
+        "dec": 127788,
+      "hex": "1F36C",
+       "name": "Doce"
+    },
+     {
+      "char": "🍭",
+        "dec": 127789,
+      "hex": "1F36D",
+      "name": "Pirulito"
+    },
+     {
+        "char": "🍮",
+        "dec": 127790,
+      "hex": "1F36E",
+      "name": "Pudim"
+    },
+    {
+      "char": "🍯",
+        "dec": 127791,
+      "hex": "1F36F",
+      "name": "Pote de Mel"
+    }
+  ],
+  "Bebidas": [
+    {
+      "char": "🍼",
+      "dec": 127796,
+      "hex": "1F37C",
+      "name": "Mamadeira"
+    },
+    {
+        "char": "🥛",
+        "dec": 129371,
+      "hex": "1F95B",
+      "name": "Copo de Leite"
+    },
+    {
+       "char": "☕",
+        "dec": 9749,
+      "hex": "2615",
+      "name": "Bebida Quente"
+    },
+    {
+       "char": "🍵",
+        "dec": 127797,
+      "hex": "1F375",
+      "name": "Xícara de Chá sem Asa"
+    },
+    {
+        "char": "🍶",
+        "dec": 127798,
+      "hex": "1F376",
+      "name": "Saquê"
+    },
+     {
+      "char": "🍾",
+       "dec": 127806,
+      "hex": "1F37E",
+      "name": "Garrafa com Rolha Estourando"
+    },
+    {
+      "char": "🍷",
+      "dec": 127799,
+      "hex": "1F377",
+      "name": "Taça de Vinho"
+    },
+    {
+      "char": "🍸",
+      "dec": 127800,
+      "hex": "1F378",
+      "name": "Taça de Coquetel"
+    },
+      {
+      "char": "🍹",
+        "dec": 127801,
+      "hex": "1F379",
+      "name": "Bebida Tropical"
+    },
+     {
+      "char": "🍺",
+        "dec": 127802,
+      "hex": "1F37A",
+      "name": "Caneca de Cerveja"
+    },
+    {
+        "char": "🍻",
+       "dec": 127803,
+      "hex": "1F37B",
+        "name": "Canecas de Cerveja Tinindo"
+    },
+     {
+       "char": "🥂",
+       "dec": 129346,
+       "hex": "1F942",
+      "name": "Taças de Champanhe Tinindo"
+    },
+    {
+      "char": "🥃",
+       "dec": 129347,
+      "hex": "1F943",
+      "name": "Copo de Whisky"
+    },
+    {
+       "char": "🥤",
+       "dec": 129380,
+       "hex": "1F964",
+      "name": "Copo com Canudo"
+    }
+ ],
+"Utensílios": [
+ {
+      "char": "🥢",
+       "dec": 129378,
+      "hex": "1F962",
+       "name": "Hashis"
+    },
+    {
+        "char": "🍽",
+        "dec": 127805,
+      "hex": "1F37D",
+      "name": "Garfo e Faca com Prato"
+    },
+    {
+       "char": "🍴",
+        "dec": 127796,
+      "hex": "1F374",
+       "name": "Garfo e Faca"
+    },
+    {
+        "char": "🥄",
+        "dec": 129348,
+      "hex": "1F944",
+      "name": "Colher"
+    },
+    {
+       "char": "🔪",
+       "dec": 128362,
+      "hex": "1F52A",
+        "name": "Faca de Cozinha"
+    },
+    {
+       "char": "🏺",
+       "dec": 127994,
+        "hex": "1F3FA",
+      "name": "Ânfora"
+    }
+  ],
+ "Mapas": [
+    {
+        "char": "🌍",
+        "dec": 127757,
+        "hex": "1F30D",
+        "name": "Globo mostrando Europa-África"
+    },
+    {
+      "char": "🌎",
+       "dec": 127758,
+       "hex": "1F30E",
+        "name": "Globo mostrando Américas"
+    },
+    {
+        "char": "🌏",
+       "dec": 127759,
+        "hex": "1F30F",
+      "name": "Globo mostrando Ásia-Austrália"
+    },
+    {
+        "char": "🌐",
+       "dec": 127760,
+        "hex": "1F310",
+        "name": "Globo com Meridianos"
+    },
+     {
+        "char": "🗺",
+        "dec": 128410,
+      "hex": "1F5FA",
+        "name": "Mapa-Múndi"
+    },
+    {
+        "char": "🗾",
+       "dec": 128414,
+      "hex": "1F5FE",
+      "name": "Mapa do Japão"
+    },
+    {
+        "char": "🧭",
+       "dec": 129517,
+      "hex": "1F9ED",
+        "name": "Bússola"
+    }
+  ],
+"Lugares Geográficos": [
+   {
+        "char": "🏔",
+       "dec": 127956,
+      "hex": "1F3D4",
+      "name": "Montanha com Neve"
+    },
+    {
+      "char": "⛰",
+        "dec": 9968,
+       "hex": "26F0",
+      "name": "Montanha"
+    },
+     {
+      "char": "🌋",
+        "dec": 127755,
+      "hex": "1F30B",
+      "name": "Vulcão"
+    },
+    {
+       "char": "🗻",
+        "dec": 128411,
+      "hex": "1F5FB",
+      "name": "Monte Fuji"
+    },
+     {
+        "char": "🏕",
+       "dec": 127957,
+       "hex": "1F3D5",
+      "name": "Acampamento"
+    },
+    {
+        "char": "🏖",
+       "dec": 127958,
+        "hex": "1F3D6",
+        "name": "Praia com Guarda-Sol"
+    },
+    {
+        "char": "🏜",
+      "dec": 127964,
+       "hex": "1F3DC",
+       "name": "Deserto"
+    },
+      {
+      "char": "🏝",
+      "dec": 127965,
+      "hex": "1F3DD",
+       "name": "Ilha Deserta"
+    },
+    {
+      "char": "🏞",
+      "dec": 127966,
+      "hex": "1F3DE",
+      "name": "Parque Nacional"
+    }
+ ],
+  "Construções": [
+     {
+      "char": "🏟",
+       "dec": 127967,
+      "hex": "1F3DF",
+      "name": "Estádio"
+    },
+    {
+       "char": "🏛",
+      "dec": 127963,
+       "hex": "1F3DB",
+        "name": "Edifício Clássico"
+    },
+    {
+      "char": "🏗",
+      "dec": 127959,
+       "hex": "1F3D7",
+      "name": "Construção Civil"
+    },
+     {
+      "char": "🧱",
+       "dec": 129521,
+      "hex": "1F9F1",
+      "name": "Tijolo"
+    },
+      {
+        "char": "🏘",
+      "dec": 127960,
+      "hex": "1F3D8",
+        "name": "Casas"
+    },
+      {
+        "char": "🏚",
+       "dec": 127962,
+      "hex": "1F3DA",
+       "name": "Casa Abandonada"
+    },
+    {
+       "char": "🏠",
+        "dec": 127968,
+      "hex": "1F3E0",
+      "name": "Casa"
+    },
+    {
+      "char": "🏡",
+       "dec": 127969,
+      "hex": "1F3E1",
+        "name": "Casa com Jardim"
+    },
+    {
+        "char": "🏢",
+       "dec": 127970,
+      "hex": "1F3E2",
+      "name": "Edifício de Escritórios"
+    },
+     {
+        "char": "🏣",
+        "dec": 127971,
+      "hex": "1F3E3",
+      "name": "Correio Japonês"
+    },
+    {
+       "char": "🏤",
+       "dec": 127972,
+      "hex": "1F3E4",
+      "name": "Correios"
+    },
+     {
+      "char": "🏥",
+      "dec": 127973,
+      "hex": "1F3E5",
+      "name": "Hospital"
+    },
+    {
+       "char": "🏦",
+        "dec": 127974,
+       "hex": "1F3E6",
+       "name": "Banco"
+    },
+    {
+        "char": "🏨",
+       "dec": 127976,
+      "hex": "1F3E8",
+      "name": "Hotel"
+    },
+    {
+       "char": "🏩",
+       "dec": 127977,
+      "hex": "1F3E9",
+       "name": "Hotel de Amor"
+    },
+    {
+       "char": "🏪",
+        "dec": 127978,
+      "hex": "1F3EA",
+      "name": "Loja de Conveniência"
+    },
+    {
+        "char": "🏫",
+       "dec": 127979,
+      "hex": "1F3EB",
+      "name": "Escola"
+    },
+    {
+       "char": "🏬",
+      "dec": 127980,
+      "hex": "1F3EC",
+      "name": "Loja de Departamento"
+    },
+    {
+      "char": "🏭",
+        "dec": 127981,
+      "hex": "1F3ED",
+      "name": "Fábrica"
+    },
+    {
+       "char": "🏯",
+       "dec": 127983,
+        "hex": "1F3EF",
+       "name": "Castelo Japonês"
+    },
+   {
+      "char": "🏰",
+        "dec": 127984,
+      "hex": "1F3F0",
+      "name": "Castelo"
+    },
+      {
+       "char": "💒",
+        "dec": 128146,
+      "hex": "1F492",
+      "name": "Casamento"
+    },
+    {
+      "char": "🗼",
+      "dec": 128412,
+      "hex": "1F5FC",
+      "name": "Torre de Tóquio"
+    },
+    {
+      "char": "🗽",
+      "dec": 128413,
+       "hex": "1F5FD",
+      "name": "Estátua da Liberdade"
+    }
+   ],
+  "Lugares Religiosos": [
+    {
+      "char": "⛪",
+        "dec": 9964,
+       "hex": "26EA",
+      "name": "Igreja"
+    },
+    {
+      "char": "🕌",
+        "dec": 128332,
+      "hex": "1F54C",
+      "name": "Mesquita"
+    },
+    {
+        "char": "🕍",
+        "dec": 128333,
+        "hex": "1F54D",
+        "name": "Sinagoga"
+    },
+    {
+        "char": "⛩",
+       "dec": 9961,
+      "hex": "26E9",
+        "name": "Santuário Xintoísta"
+    },
+      {
+       "char": "🕋",
+      "dec": 128331,
+       "hex": "1F54B",
+        "name": "Caaba"
+    }
+ ],
+"Outros Lugares": [
+   {
+        "char": "⛲",
+      "dec": 9970,
+      "hex": "26F2",
+      "name": "Fonte"
+    },
+     {
+       "char": "⛺",
+        "dec": 9978,
+      "hex": "26FA",
+      "name": "Tenda"
+    },
+    {
+        "char": "🌁",
+      "dec": 127745,
+        "hex": "1F301",
+      "name": "Nevoeiro"
+    },
+     {
+       "char": "🌃",
+        "dec": 127747,
+      "hex": "1F303",
+      "name": "Noite com Estrelas"
+    },
+    {
+      "char": "🏙",
+      "dec": 127961,
+        "hex": "1F3D9",
+      "name": "Paisagem Urbana"
+    },
+     {
+        "char": "🌄",
+        "dec": 127748,
+      "hex": "1F304",
+      "name": "Nascer do Sol Sobre Montanhas"
+    },
+    {
+        "char": "🌅",
+      "dec": 127749,
+        "hex": "1F305",
+      "name": "Nascer do Sol"
+    },
+    {
+        "char": "🌆",
+        "dec": 127750,
+      "hex": "1F306",
+      "name": "Paisagem Urbana ao Entardecer"
+    },
+    {
+       "char": "🌇",
+      "dec": 127751,
+      "hex": "1F307",
+        "name": "Pôr do Sol"
+    },
+     {
+       "char": "🌉",
+        "dec": 127753,
+      "hex": "1F309",
+      "name": "Ponte à Noite"
+    },
+    {
+        "char": "♨",
+       "dec": 9832,
+      "hex": "2668",
+       "name": "Fontes Termais"
+    },
+    {
+        "char": "🌌",
+        "dec": 127756,
+      "hex": "1F30C",
+      "name": "Via Láctea"
+    },
+    {
+      "char": "🎠",
+        "dec": 127776,
+      "hex": "1F3A0",
+      "name": "Carrossel"
+    },
+    {
+        "char": "🎡",
+        "dec": 127777,
+      "hex": "1F3A1",
+      "name": "Roda Gigante"
+    },
+    {
+       "char": "🎢",
+        "dec": 127778,
+      "hex": "1F3A2",
+       "name": "Montanha-Russa"
+    },
+     {
+       "char": "💈",
+       "dec": 128136,
+      "hex": "1F488",
+      "name": "Poste de Barbeiro"
+    },
+    {
+      "char": "🎪",
+      "dec": 127786,
+        "hex": "1F3AA",
+       "name": "Tenda de Circo"
+    }
+  ],
+   "Transporte Terrestre": [
+    {
+       "char": "🚂",
+      "dec": 128642,
+       "hex": "1F682",
+      "name": "Locomotiva"
+    },
+    {
+      "char": "🚃",
+       "dec": 128643,
+        "hex": "1F683",
+      "name": "Vagão de Trem"
+    },
+    {
+       "char": "🚄",
+       "dec": 128644,
+      "hex": "1F684",
+        "name": "Trem de Alta Velocidade"
+    },
+    {
+      "char": "🚅",
+       "dec": 128645,
+      "hex": "1F685",
+      "name": "Trem-Bala"
+    },
+    {
+      "char": "🚆",
+       "dec": 128646,
+      "hex": "1F686",
+      "name": "Trem"
+    },
+    {
+       "char": "🚇",
+      "dec": 128647,
+      "hex": "1F687",
+       "name": "Metrô"
+    },
+    {
+      "char": "🚈",
+       "dec": 128648,
+       "hex": "1F688",
+      "name": "Trem Leve"
+    },
+    {
+      "char": "🚉",
+      "dec": 128649,
+       "hex": "1F689",
+      "name": "Estação"
+    },
+    {
+       "char": "🚊",
+        "dec": 128650,
+       "hex": "1F68A",
+      "name": "Bonde"
+    },
+     {
+       "char": "🚝",
+       "dec": 128669,
+      "hex": "1F69D",
+      "name": "Monotrilho"
+    },
+    {
+      "char": "🚞",
+       "dec": 128670,
+        "hex": "1F69E",
+      "name": "Ferrovia de Montanha"
+    },
+    {
+       "char": "🚋",
+       "dec": 128651,
+       "hex": "1F68B",
+      "name": "Bonde Elétrico"
+    },
+    {
+        "char": "🚌",
+       "dec": 128652,
+        "hex": "1F68C",
+      "name": "Ônibus"
+    },
+    {
+      "char": "🚍",
+       "dec": 128653,
+      "hex": "1F68D",
+        "name": "Ônibus Vindo na Direção"
+    },
+    {
+       "char": "🚎",
+        "dec": 128654,
+      "hex": "1F68E",
+      "name": "Trólebus"
+    },
+     {
+        "char": "🚐",
+       "dec": 128656,
+      "hex": "1F690",
+      "name": "Minibus"
+    },
+    {
+      "char": "🚑",
+       "dec": 128657,
+      "hex": "1F691",
+      "name": "Ambulância"
+    },
+      {
+      "char": "🚒",
+       "dec": 128658,
+      "hex": "1F692",
+      "name": "Carro de Bombeiro"
+    },
+    {
+       "char": "🚓",
+        "dec": 128659,
+      "hex": "1F693",
+      "name": "Carro de Polícia"
+    },
+    {
+       "char": "🚔",
+       "dec": 128660,
+      "hex": "1F694",
+      "name": "Carro de Polícia Vindo na Direção"
+    },
+     {
+      "char": "🚕",
+       "dec": 128661,
+      "hex": "1F695",
+      "name": "Táxi"
+    },
+    {
+      "char": "🚖",
+       "dec": 128662,
+      "hex": "1F696",
+      "name": "Táxi Vindo na Direção"
+    },
+     {
+      "char": "🚗",
+        "dec": 128663,
+      "hex": "1F697",
+      "name": "Automóvel"
+    },
+     {
+        "char": "🚘",
+       "dec": 128664,
+      "hex": "1F698",
+      "name": "Automóvel Vindo na Direção"
+    },
+    {
+       "char": "🚙",
+       "dec": 128665,
+        "hex": "1F699",
+      "name": "Veículo Utilitário Esportivo"
+    },
+    {
+       "char": "🚚",
+      "dec": 128666,
+       "hex": "1F69A",
+      "name": "Caminhão de Entrega"
+    },
+    {
+        "char": "🚛",
+      "dec": 128667,
+        "hex": "1F69B",
+      "name": "Caminhão Articulado"
+    },
+    {
+      "char": "🚜",
+        "dec": 128668,
+      "hex": "1F69C",
+      "name": "Trator"
+    },
+     {
+        "char": "🏎",
+        "dec": 127950,
+      "hex": "1F3CE",
+      "name": "Carro de Corrida"
+    },
+    {
+      "char": "🏍",
+       "dec": 127949,
+      "hex": "1F3CD",
+      "name": "Motocicleta"
+    },
+    {
+       "char": "🛵",
+       "dec": 128693,
+      "hex": "1F6F5",
+      "name": "Motoneta"
+    },
+    {
+        "char": "🚲",
+        "dec": 128690,
+      "hex": "1F6B2",
+      "name": "Bicicleta"
+    },
+     {
+        "char": "🛴",
+        "dec": 128692,
+      "hex": "1F6F4",
+      "name": "Patinete"
+    },
+    {
+      "char": "🛹",
+       "dec": 128704,
+      "hex": "1F6F9",
+      "name": "Skate"
+    },
+    {
+       "char": "🚏",
+       "dec": 128655,
+      "hex": "1F68F",
+      "name": "Ponto de Ônibus"
+    },
+    {
+       "char": "🛣",
+       "dec": 128675,
+        "hex": "1F6E3",
+      "name": "Autoestrada"
+    },
+    {
+        "char": "🛤",
+        "dec": 128676,
+      "hex": "1F6E4",
+        "name": "Trilho de Trem"
+    },
+    {
+      "char": "🛢",
+        "dec": 128674,
+      "hex": "1F6E2",
+      "name": "Barril de Óleo"
+    },
+      {
+       "char": "⛽",
+        "dec": 9981,
+      "hex": "26FD",
+      "name": "Bomba de Combustível"
+    },
+    {
+        "char": "🚨",
+       "dec": 128680,
+        "hex": "1F6A8",
+      "name": "Luz de Carro de Polícia"
+    },
+    {
+       "char": "🚥",
+        "dec": 128677,
+       "hex": "1F6A5",
+       "name": "Semaforo Horizontal"
+    },
+    {
+      "char": "🚦",
+       "dec": 128678,
+      "hex": "1F6A6",
+      "name": "Semáforo Vertical"
+    },
+     {
+      "char": "🛑",
+       "dec": 128689,
+      "hex": "1F6D1",
+      "name": "Placa de Pare"
+    },
+   {
+        "char": "🚧",
+      "dec": 128679,
+       "hex": "1F6A7",
+      "name": "Construção"
+    }
+   ],
+  "Transporte Aquático": [
+    {
+        "char": "⚓",
+        "dec": 9875,
+      "hex": "2693",
+       "name": "Âncora"
+    },
+    {
+        "char": "⛵",
+       "dec": 9973,
+      "hex": "26F5",
+      "name": "Veleiro"
+    },
+    {
+       "char": "🛶",
+        "dec": 128694,
+      "hex": "1F6F6",
+       "name": "Canoa"
+    },
+    {
+      "char": "🚤",
+       "dec": 128676,
+      "hex": "1F6A4",
+      "name": "Lancha"
+    },
+    {
+       "char": "🛳",
+      "dec": 128707,
+      "hex": "1F6F3",
+      "name": "Navio de Passageiros"
+    },
+    {
+      "char": "⛴",
+       "dec": 9972,
+      "hex": "26F4",
+      "name": "Balsa"
+    },
+    {
+        "char": "🛥",
+        "dec": 128677,
+      "hex": "1F6E5",
+      "name": "Lancha a Motor"
+    },
+    {
+       "char": "🚢",
+      "dec": 128674,
+      "hex": "1F6A2",
+      "name": "Navio"
+    }
+  ],
+    "Transporte Aéreo": [
+     {
+      "char": "✈",
+      "dec": 9992,
+      "hex": "2708",
+      "name": "Avião"
+    },
+    {
+       "char": "🛩",
+       "dec": 128677,
+      "hex

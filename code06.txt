@@ -1,0 +1,981 @@
+{
+       "name": "Avião Pequeno"
+    },
+    {
+      "char": "🛫",
+       "dec": 128683,
+      "hex": "1F6EB",
+      "name": "Partida de Avião"
+    },
+    {
+       "char": "🛬",
+        "dec": 128684,
+      "hex": "1F6EC",
+        "name": "Chegada de Avião"
+    },
+    {
+       "char": "💺",
+       "dec": 128122,
+      "hex": "1F4BA",
+      "name": "Assento"
+    },
+    {
+      "char": "🚁",
+        "dec": 128641,
+      "hex": "1F681",
+      "name": "Helicóptero"
+    },
+    {
+       "char": "🚟",
+      "dec": 128671,
+        "hex": "1F69F",
+        "name": "Teleférico"
+    },
+    {
+        "char": "🚠",
+      "dec": 128672,
+      "hex": "1F6A0",
+        "name": "Teleférico de Montanha"
+    },
+    {
+       "char": "🚡",
+        "dec": 128673,
+      "hex": "1F6A1",
+        "name": "Bonde Aéreo"
+    },
+     {
+       "char": "🛰",
+      "dec": 128704,
+        "hex": "1F6F0",
+      "name": "Satélite"
+    },
+    {
+       "char": "🚀",
+      "dec": 128640,
+        "hex": "1F680",
+       "name": "Foguete"
+    },
+    {
+       "char": "🛸",
+       "dec": 128700,
+      "hex": "1F6F8",
+      "name": "Disco Voador"
+    }
+  ],
+  "Hotéis": [
+    {
+      "char": "🛎",
+      "dec": 128670,
+       "hex": "1F6CE",
+      "name": "Sino de Mensageiro"
+    },
+     {
+        "char": "🧳",
+       "dec": 129523,
+      "hex": "1F9F3",
+      "name": "Bagagem"
+    }
+  ],
+"Tempo": [
+ {
+      "char": "⌛",
+        "dec": 8987,
+      "hex": "231B",
+      "name": "Ampulheta Concluída"
+    },
+    {
+        "char": "⏳",
+       "dec": 9971,
+      "hex": "23F3",
+      "name": "Ampulheta Não Concluída"
+    },
+    {
+      "char": "⌚",
+       "dec": 8986,
+      "hex": "231A",
+      "name": "Relógio de Pulso"
+    },
+    {
+       "char": "⏰",
+      "dec": 9968,
+      "hex": "23F0",
+      "name": "Despertador"
+    },
+     {
+        "char": "⏱",
+      "dec": 9969,
+      "hex": "23F1",
+      "name": "Cronômetro"
+    },
+    {
+      "char": "⏲",
+      "dec": 9970,
+      "hex": "23F2",
+      "name": "Cronômetro"
+    },
+    {
+      "char": "🕰",
+      "dec": 128368,
+      "hex": "1F570",
+      "name": "Relógio de Mesa"
+    },
+    {
+      "char": "🕛",
+       "dec": 128347,
+      "hex": "1F55B",
+      "name": "Meio-Dia"
+    },
+    {
+      "char": "🕧",
+       "dec": 128359,
+      "hex": "1F567",
+      "name": "Doze e Meia"
+    },
+    {
+        "char": "🕐",
+       "dec": 128336,
+      "hex": "1F550",
+      "name": "Uma Hora"
+    },
+    {
+      "char": "🕜",
+      "dec": 128348,
+       "hex": "1F55C",
+      "name": "Uma e Meia"
+    },
+    {
+        "char": "🕑",
+       "dec": 128337,
+      "hex": "1F551",
+      "name": "Duas Horas"
+    },
+    {
+      "char": "🕝",
+      "dec": 128349,
+       "hex": "1F55D",
+      "name": "Duas e Meia"
+    },
+     {
+      "char": "🕒",
+      "dec": 128338,
+      "hex": "1F552",
+      "name": "Três Horas"
+    },
+    {
+       "char": "🕞",
+      "dec": 128350,
+       "hex": "1F55E",
+      "name": "Três e Meia"
+    },
+    {
+       "char": "🕓",
+        "dec": 128339,
+      "hex": "1F553",
+      "name": "Quatro Horas"
+    },
+    {
+       "char": "🕟",
+      "dec": 128351,
+        "hex": "1F55F",
+      "name": "Quatro e Meia"
+    },
+    {
+      "char": "🕔",
+       "dec": 128340,
+      "hex": "1F554",
+       "name": "Cinco Horas"
+    },
+    {
+      "char": "🕠",
+       "dec": 128352,
+      "hex": "1F560",
+       "name": "Cinco e Meia"
+    },
+    {
+       "char": "🕕",
+        "dec": 128341,
+      "hex": "1F555",
+        "name": "Seis Horas"
+    },
+    {
+       "char": "🕡",
+       "dec": 128353,
+      "hex": "1F561",
+      "name": "Seis e Meia"
+    },
+     {
+       "char": "🕖",
+        "dec": 128342,
+      "hex": "1F556",
+      "name": "Sete Horas"
+    },
+    {
+      "char": "🕢",
+      "dec": 128354,
+       "hex": "1F562",
+      "name": "Sete e Meia"
+    },
+     {
+       "char": "🕗",
+       "dec": 128343,
+      "hex": "1F557",
+      "name": "Oito Horas"
+    },
+    {
+       "char": "🕣",
+       "dec": 128355,
+      "hex": "1F563",
+      "name": "Oito e Meia"
+    },
+    {
+      "char": "🕘",
+        "dec": 128344,
+      "hex": "1F558",
+      "name": "Nove Horas"
+    },
+    {
+        "char": "🕤",
+        "dec": 128356,
+      "hex": "1F564",
+      "name": "Nove e Meia"
+    },
+    {
+      "char": "🕙",
+       "dec": 128345,
+      "hex": "1F559",
+      "name": "Dez Horas"
+    },
+    {
+        "char": "🕥",
+        "dec": 128357,
+       "hex": "1F565",
+      "name": "Dez e Meia"
+    },
+    {
+       "char": "🕚",
+       "dec": 128346,
+      "hex": "1F55A",
+        "name": "Onze Horas"
+    },
+    {
+        "char": "🕦",
+        "dec": 128358,
+       "hex": "1F566",
+       "name": "Onze e Meia"
+    }
+  ],
+  "Céu e Clima": [
+   {
+        "char": "🌑",
+       "dec": 127761,
+      "hex": "1F311",
+      "name": "Lua Nova"
+    },
+    {
+      "char": "🌒",
+      "dec": 127762,
+      "hex": "1F312",
+      "name": "Lua Crescente"
+    },
+     {
+        "char": "🌓",
+        "dec": 127763,
+      "hex": "1F313",
+        "name": "Quarto Crescente da Lua"
+    },
+    {
+       "char": "🌔",
+       "dec": 127764,
+      "hex": "1F314",
+       "name": "Lua Gibosa Crescente"
+    },
+    {
+        "char": "🌕",
+        "dec": 127765,
+      "hex": "1F315",
+      "name": "Lua Cheia"
+    },
+    {
+       "char": "🌖",
+       "dec": 127766,
+      "hex": "1F316",
+        "name": "Lua Gibosa Minguante"
+    },
+     {
+      "char": "🌗",
+      "dec": 127767,
+       "hex": "1F317",
+      "name": "Quarto Minguante da Lua"
+    },
+     {
+        "char": "🌘",
+       "dec": 127768,
+      "hex": "1F318",
+      "name": "Lua Minguante"
+    },
+    {
+        "char": "🌙",
+        "dec": 127769,
+       "hex": "1F319",
+        "name": "Lua Crescente"
+    },
+    {
+      "char": "🌚",
+       "dec": 127770,
+      "hex": "1F31A",
+       "name": "Rosto de Lua Nova"
+    },
+    {
+       "char": "🌛",
+       "dec": 127771,
+      "hex": "1F31B",
+        "name": "Rosto do Primeiro Quarto da Lua"
+    },
+    {
+       "char": "🌜",
+      "dec": 127772,
+        "hex": "1F31C",
+      "name": "Rosto do Último Quarto da Lua"
+    },
+    {
+        "char": "🌡",
+      "dec": 127777,
+       "hex": "1F321",
+        "name": "Termômetro"
+    },
+    {
+       "char": "☀",
+        "dec": 9728,
+      "hex": "2600",
+      "name": "Sol"
+    },
+    {
+      "char": "🌝",
+       "dec": 127773,
+      "hex": "1F31D",
+       "name": "Rosto de Lua Cheia"
+    },
+    {
+      "char": "🌞",
+      "dec": 127774,
+      "hex": "1F31E",
+      "name": "Sol com Rosto"
+    },
+     {
+      "char": "⭐",
+        "dec": 11088,
+       "hex": "2B50",
+       "name": "Estrela"
+    },
+    {
+       "char": "🌟",
+       "dec": 127775,
+      "hex": "1F31F",
+      "name": "Estrela Brilhante"
+    },
+     {
+      "char": "🌠",
+        "dec": 127776,
+      "hex": "1F320",
+      "name": "Estrela Cadente"
+    },
+    {
+      "char": "☁",
+       "dec": 9729,
+      "hex": "2601",
+       "name": "Nuvem"
+    },
+    {
+        "char": "⛅",
+        "dec": 9925,
+      "hex": "26C5",
+        "name": "Sol Atrás da Nuvem"
+    },
+     {
+      "char": "⛈",
+        "dec": 9928,
+      "hex": "26C8",
+      "name": "Nuvem com Raio e Chuva"
+    },
+    {
+       "char": "🌤",
+        "dec": 127780,
+      "hex": "1F324",
+        "name": "Sol Atrás de uma Pequena Nuvem"
+    },
+     {
+      "char": "🌥",
+       "dec": 127781,
+        "hex": "1F325",
+      "name": "Sol Atrás de uma Grande Nuvem"
+    },
+    {
+      "char": "🌦",
+       "dec": 127782,
+      "hex": "1F326",
+      "name": "Sol Atrás de Nuvem de Chuva"
+    },
+    {
+       "char": "🌧",
+        "dec": 127783,
+      "hex": "1F327",
+      "name": "Nuvem com Chuva"
+    },
+    {
+       "char": "🌨",
+       "dec": 127784,
+        "hex": "1F328",
+      "name": "Nuvem com Neve"
+    },
+    {
+       "char": "🌩",
+      "dec": 127785,
+       "hex": "1F329",
+      "name": "Nuvem com Relâmpago"
+    },
+     {
+       "char": "🌪",
+      "dec": 127786,
+       "hex": "1F32A",
+        "name": "Tornado"
+    },
+    {
+       "char": "🌫",
+      "dec": 127787,
+        "hex": "1F32B",
+      "name": "Névoa"
+    },
+    {
+       "char": "🌬",
+        "dec": 127788,
+      "hex": "1F32C",
+      "name": "Rosto de Vento"
+    },
+    {
+      "char": "🌀",
+      "dec": 127744,
+       "hex": "1F300",
+      "name": "Ciclone"
+    },
+    {
+       "char": "🌈",
+        "dec": 127752,
+      "hex": "1F308",
+       "name": "Arco-Íris"
+    },
+    {
+        "char": "🌂",
+        "dec": 127746,
+      "hex": "1F302",
+      "name": "Guarda-Chuva Fechado"
+    },
+    {
+      "char": "☂",
+       "dec": 9730,
+      "hex": "2602",
+      "name": "Guarda-Chuva"
+    },
+    {
+      "char": "☔",
+      "dec": 9748,
+      "hex": "2614",
+      "name": "Guarda-Chuva com Gotas de Chuva"
+    },
+     {
+       "char": "⛱",
+       "dec": 9977,
+      "hex": "26F1",
+      "name": "Guarda-Chuva no Chão"
+    },
+     {
+       "char": "⚡",
+       "dec": 9889,
+      "hex": "26A1",
+      "name": "Alta Voltagem"
+    },
+    {
+        "char": "❄",
+        "dec": 10052,
+      "hex": "2744",
+       "name": "Floco de Neve"
+    },
+    {
+       "char": "☃",
+       "dec": 9720,
+      "hex": "2603",
+       "name": "Boneco de Neve"
+    },
+    {
+       "char": "⛄",
+      "dec": 9924,
+      "hex": "26C4",
+       "name": "Boneco de Neve sem Neve"
+    },
+    {
+      "char": "☄",
+       "dec": 9732,
+      "hex": "2604",
+      "name": "Cometa"
+    },
+    {
+      "char": "🔥",
+       "dec": 128362,
+       "hex": "1F525",
+      "name": "Fogo"
+    },
+    {
+      "char": "💧",
+      "dec": 128167,
+       "hex": "1F4A7",
+      "name": "Gota"
+    },
+    {
+        "char": "🌊",
+       "dec": 127754,
+      "hex": "1F30A",
+        "name": "Onda do Mar"
+    }
+  ],
+   "Eventos": [
+    {
+       "char": "🎃",
+       "dec": 127875,
+      "hex": "1F383",
+        "name": "Abóbora de Halloween"
+    },
+    {
+       "char": "🎄",
+       "dec": 127876,
+      "hex": "1F384",
+       "name": "Árvore de Natal"
+    },
+    {
+       "char": "🎆",
+        "dec": 127878,
+      "hex": "1F386",
+      "name": "Fogos de Artifício"
+    },
+    {
+       "char": "🎇",
+       "dec": 127879,
+        "hex": "1F387",
+      "name": "Fagulha"
+    },
+    {
+       "char": "🧨",
+       "dec": 129512,
+        "hex": "1F9E8",
+       "name": "Foguete"
+    },
+      {
+       "char": "✨",
+        "dec": 10024,
+       "hex": "2728",
+       "name": "Brilhos"
+    },
+    {
+        "char": "🎈",
+      "dec": 127880,
+       "hex": "1F388",
+      "name": "Balão"
+    },
+    {
+       "char": "🎉",
+       "dec": 127881,
+      "hex": "1F389",
+       "name": "Lançador de Confete"
+    },
+    {
+      "char": "🎊",
+       "dec": 127882,
+      "hex": "1F38A",
+       "name": "Bola de Confete"
+    },
+    {
+      "char": "🎋",
+       "dec": 127883,
+      "hex": "1F38B",
+       "name": "Árvore Tanabata"
+    },
+    {
+        "char": "🎍",
+        "dec": 127885,
+       "hex": "1F38D",
+        "name": "Decoração de Pinheiro"
+    },
+     {
+       "char": "🎎",
+        "dec": 127886,
+      "hex": "1F38E",
+      "name": "Bonecas Japonesas"
+    },
+    {
+        "char": "🎏",
+        "dec": 127887,
+      "hex": "1F38F",
+      "name": "Cairn de Carpa"
+    },
+    {
+      "char": "🎐",
+       "dec": 127888,
+      "hex": "1F390",
+      "name": "Sino de Vento"
+    },
+     {
+       "char": "🎑",
+      "dec": 127889,
+        "hex": "1F391",
+      "name": "Cerimônia de Observação da Lua"
+    },
+     {
+      "char": "🧧",
+      "dec": 129511,
+       "hex": "1F9E7",
+        "name": "Envelope Vermelho"
+    },
+    {
+      "char": "🎀",
+        "dec": 127872,
+      "hex": "1F380",
+       "name": "Laço de Fita"
+    },
+    {
+        "char": "🎁",
+        "dec": 127873,
+      "hex": "1F381",
+       "name": "Presente Embrulhado"
+    },
+    {
+       "char": "🎗",
+       "dec": 127991,
+      "hex": "1F397",
+      "name": "Fita de Conscientização"
+    },
+     {
+       "char": "🎟",
+      "dec": 127999,
+      "hex": "1F39F",
+      "name": "Ingressos de Admissão"
+    },
+     {
+      "char": "🎫",
+       "dec": 127883,
+      "hex": "1F3AB",
+      "name": "Ingresso"
+    }
+ ],
+  "Prêmios": [
+    {
+      "char": "🎖",
+      "dec": 127990,
+        "hex": "1F396",
+      "name": "Medalha Militar"
+    },
+     {
+       "char": "🏆",
+        "dec": 127942,
+      "hex": "1F3C6",
+      "name": "Troféu"
+    },
+    {
+       "char": "🏅",
+      "dec": 127941,
+        "hex": "1F3C5",
+      "name": "Medalha Esportiva"
+    },
+    {
+       "char": "🥇",
+      "dec": 129351,
+       "hex": "1F947",
+        "name": "Medalha de 1º Lugar"
+    },
+    {
+      "char": "🥈",
+        "dec": 129352,
+        "hex": "1F948",
+       "name": "Medalha de 2º Lugar"
+    },
+    {
+       "char": "🥉",
+        "dec": 129353,
+       "hex": "1F949",
+      "name": "Medalha de 3º Lugar"
+    }
+  ],
+  "Esportes": [
+     {
+       "char": "⚽",
+       "dec": 9917,
+        "hex": "26BD",
+      "name": "Bola de Futebol"
+    },
+     {
+       "char": "⚾",
+      "dec": 9918,
+      "hex": "26BE",
+      "name": "Bola de Beisebol"
+    },
+      {
+       "char": "🥎",
+        "dec": 129358,
+      "hex": "1F94E",
+      "name": "Bola de Softbol"
+    },
+     {
+       "char": "🏀",
+      "dec": 127936,
+      "hex": "1F3C0",
+      "name": "Bola de Basquete"
+    },
+      {
+       "char": "🏐",
+       "dec": 127952,
+      "hex": "1F3D0",
+      "name": "Bola de Vôlei"
+    },
+     {
+       "char": "🏈",
+        "dec": 127944,
+      "hex": "1F3C8",
+      "name": "Futebol Americano"
+    },
+     {
+      "char": "🏉",
+       "dec": 127945,
+      "hex": "1F3C9",
+      "name": "Futebol de Rúgbi"
+    },
+    {
+        "char": "🎾",
+        "dec": 127934,
+       "hex": "1F3BE",
+      "name": "Tênis"
+    },
+    {
+       "char": "🥏",
+       "dec": 129359,
+      "hex": "1F94F",
+      "name": "Disco Voador"
+    },
+    {
+      "char": "🎳",
+        "dec": 127939,
+       "hex": "1F3B3",
+      "name": "Boliche"
+    },
+    {
+      "char": "🏏",
+        "dec": 127951,
+      "hex": "1F3CF",
+       "name": "Jogo de Criquete"
+    },
+    {
+        "char": "🏑",
+      "dec": 127953,
+       "hex": "1F3D1",
+      "name": "Hóquei em Campo"
+    },
+    {
+       "char": "🏒",
+        "dec": 127954,
+      "hex": "1F3D2",
+       "name": "Hóquei no Gelo"
+    },
+    {
+       "char": "🥍",
+      "dec": 129357,
+      "hex": "1F94D",
+      "name": "Lacrosse"
+    },
+     {
+        "char": "🏓",
+       "dec": 127955,
+      "hex": "1F3D3",
+       "name": "Tênis de Mesa"
+    },
+    {
+      "char": "🏸",
+      "dec": 127992,
+       "hex": "1F3F8",
+        "name": "Badminton"
+    },
+    {
+      "char": "🥊",
+       "dec": 129348,
+      "hex": "1F94A",
+       "name": "Luva de Boxe"
+    },
+    {
+      "char": "🥋",
+        "dec": 129349,
+      "hex": "1F94B",
+      "name": "Uniforme de Artes Marciais"
+    },
+     {
+       "char": "🥅",
+       "dec": 129349,
+      "hex": "1F945",
+       "name": "Rede de Gol"
+    },
+    {
+        "char": "⛳",
+        "dec": 9971,
+      "hex": "26F3",
+      "name": "Bandeira no Buraco"
+    },
+    {
+        "char": "⛸",
+        "dec": 9976,
+       "hex": "26F8",
+       "name": "Patins de Gelo"
+    },
+      {
+       "char": "🎣",
+        "dec": 127939,
+      "hex": "1F3A3",
+        "name": "Vara de Pesca"
+    },
+     {
+        "char": "🎽",
+        "dec": 127933,
+       "hex": "1F3BD",
+      "name": "Camisa de Corrida"
+    },
+    {
+        "char": "🎿",
+        "dec": 127935,
+       "hex": "1F3BF",
+      "name": "Esquis"
+    },
+    {
+        "char": "🛷",
+        "dec": 128711,
+       "hex": "1F6F7",
+      "name": "Trenó"
+    },
+     {
+        "char": "🥌",
+        "dec": 129356,
+      "hex": "1F94C",
+      "name": "Pedra de Curling"
+    }
+  ],
+   "Jogos": [
+    {
+      "char": "🎯",
+      "dec": 127919,
+      "hex": "1F3AF",
+       "name": "Alvo"
+    },
+    {
+      "char": "🎱",
+      "dec": 127921,
+       "hex": "1F3B1",
+      "name": "Bola 8 de Bilhar"
+    },
+    {
+       "char": "🔮",
+       "dec": 128366,
+       "hex": "1F52E",
+       "name": "Bola de Cristal"
+    },
+    {
+      "char": "🧿",
+      "dec": 129535,
+      "hex": "1F9FF",
+      "name": "Amuleto Nazar"
+    },
+     {
+      "char": "🎮",
+      "dec": 127918,
+      "hex": "1F3AE",
+      "name": "Videogame"
+    },
+    {
+       "char": "🕹",
+       "dec": 128377,
+       "hex": "1F579",
+       "name": "Joystick"
+    },
+    {
+      "char": "🎰",
+       "dec": 127920,
+      "hex": "1F3B0",
+      "name": "Caça-Níquel"
+    },
+     {
+       "char": "🎲",
+        "dec": 127922,
+      "hex": "1F3B2",
+      "name": "Dado"
+    },
+    {
+        "char": "🧩",
+        "dec": 129513,
+      "hex": "1F9E9",
+       "name": "Peça de Quebra-Cabeça"
+    },
+    {
+      "char": "🧸",
+       "dec": 129528,
+      "hex": "1F9F8",
+      "name": "Urso de Pelúcia"
+    },
+    {
+       "char": "♠",
+       "dec": 9824,
+      "hex": "2660",
+      "name": "Naipe de Espadas"
+    },
+    {
+      "char": "♥",
+       "dec": 9829,
+      "hex": "2665",
+      "name": "Naipe de Copas"
+    },
+     {
+       "char": "♦",
+      "dec": 9830,
+       "hex": "2666",
+      "name": "Naipe de Ouros"
+    },
+    {
+        "char": "♣",
+        "dec": 9827,
+       "hex": "2663",
+      "name": "Naipe de Paus"
+    },
+     {
+      "char": "♟",
+       "dec": 9823,
+        "hex": "265F",
+      "name": "Peão de Xadrez"
+    },
+    {
+      "char": "🃏",
+       "dec": 127946,
+      "hex": "1F0CF",
+      "name": "Coringa"
+    },
+    {
+      "char": "🀄",
+       "dec": 126980,
+      "hex": "1F004",
+       "name": "Dragão Vermelho de Mahjong"
+    },
+     {
+        "char": "🎴",
+        "dec": 127924,
+      "hex": "1F3B4",
+       "name": "Cartas de Jogo Hanafuda"
+    }
+ ],
+  "Artes": [
+    {
+       "char": "🎭",
+        "dec": 127917,
+      "hex": "1F3AD",
+        "name": "Artes Cênicas"
+    },
+    {
+        "char": "🖼",

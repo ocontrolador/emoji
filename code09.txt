@@ -1,0 +1,956 @@
+    "dec": 9851,
+      "hex": "267B",
+      "name": "Símbolo de Reciclagem"
+    },
+     {
+       "char": "⚜",
+        "dec": 9884,
+       "hex": "269C",
+       "name": "Flor-de-lis"
+    },
+    {
+       "char": "🔱",
+        "dec": 128273,
+      "hex": "1F531",
+      "name": "Emblema de Tridente"
+    },
+    {
+      "char": "📛",
+       "dec": 128187,
+        "hex": "1F4DB",
+      "name": "Crachá"
+    },
+    {
+       "char": "🔰",
+      "dec": 128272,
+        "hex": "1F530",
+      "name": "Símbolo Japonês para Iniciante"
+    },
+    {
+      "char": "⭕",
+      "dec": 11093,
+        "hex": "2B55",
+      "name": "Círculo Vermelho Oco"
+    },
+     {
+      "char": "✅",
+        "dec": 9989,
+      "hex": "2705",
+        "name": "Botão de Marca de Seleção"
+    },
+    {
+      "char": "☑",
+      "dec": 9745,
+       "hex": "2611",
+       "name": "Caixa de Seleção com Marca"
+    },
+     {
+       "char": "✔",
+        "dec": 10004,
+       "hex": "2714",
+       "name": "Marca de Seleção"
+    },
+    {
+      "char": "✖",
+       "dec": 10006,
+      "hex": "2716",
+        "name": "Sinal de Multiplicação"
+    },
+     {
+      "char": "❌",
+       "dec": 10060,
+        "hex": "274C",
+       "name": "Marca Cruzada"
+    },
+     {
+      "char": "❎",
+       "dec": 10062,
+        "hex": "274E",
+      "name": "Botão de Marca Cruzada"
+    },
+    {
+      "char": "➕",
+      "dec": 10133,
+      "hex": "2795",
+      "name": "Sinal de Mais"
+    },
+    {
+      "char": "➖",
+       "dec": 10134,
+        "hex": "2796",
+      "name": "Sinal de Menos"
+    },
+    {
+       "char": "➗",
+       "dec": 10135,
+       "hex": "2797",
+      "name": "Sinal de Divisão"
+    },
+    {
+        "char": "➰",
+       "dec": 10160,
+        "hex": "27B0",
+        "name": "Laço Encaracolado"
+    },
+    {
+      "char": "➿",
+        "dec": 10175,
+        "hex": "27BF",
+      "name": "Laço Duplo Encaracolado"
+    },
+    {
+       "char": "〽",
+        "dec": 12333,
+        "hex": "303D",
+        "name": "Sinal de Alternância de Parte"
+    },
+    {
+        "char": "✳",
+        "dec": 10035,
+        "hex": "2733",
+        "name": "Asterisco de Oito Pontas"
+    },
+     {
+        "char": "✴",
+       "dec": 10036,
+        "hex": "2734",
+        "name": "Estrela de Oito Pontas"
+    },
+    {
+      "char": "❇",
+        "dec": 10055,
+       "hex": "2747",
+        "name": "Brilho"
+    },
+    {
+        "char": "‼",
+        "dec": 8252,
+        "hex": "203C",
+      "name": "Ponto de Exclamação Duplo"
+    },
+    {
+        "char": "⁉",
+       "dec": 8265,
+        "hex": "2049",
+      "name": "Ponto de Exclamação e Interrogação"
+    },
+    {
+      "char": "❓",
+       "dec": 10067,
+        "hex": "2753",
+      "name": "Ponto de Interrogação"
+    },
+    {
+        "char": "❔",
+        "dec": 10068,
+        "hex": "2754",
+      "name": "Ponto de Interrogação Branco"
+    },
+    {
+      "char": "❕",
+        "dec": 10069,
+       "hex": "2755",
+      "name": "Ponto de Exclamação Branco"
+    },
+     {
+        "char": "❗",
+       "dec": 10071,
+       "hex": "2757",
+       "name": "Ponto de Exclamação"
+    },
+     {
+      "char": "〰",
+      "dec": 12336,
+      "hex": "3030",
+       "name": "Traço Ondulado"
+    },
+     {
+        "char": "©",
+        "dec": 169,
+       "hex": "00A9",
+        "name": "Copyright"
+    },
+    {
+        "char": "®",
+       "dec": 174,
+        "hex": "00AE",
+       "name": "Registrado"
+    },
+     {
+      "char": "™",
+      "dec": 8482,
+      "hex": "2122",
+      "name": "Marca Registrada"
+    }
+ ],
+   "Teclas": [
+     {
+      "char": "#️⃣",
+      "dec": 35,
+      "hex": "0023",
+      "name": "tecla: #"
+     },
+     {
+      "char": "*️⃣",
+      "dec": 42,
+        "hex": "002A",
+        "name": "tecla: *"
+    },
+    {
+       "char": "0️⃣",
+        "dec": 48,
+        "hex": "0030",
+      "name": "tecla: 0"
+    },
+     {
+       "char": "1️⃣",
+        "dec": 49,
+      "hex": "0031",
+        "name": "tecla: 1"
+    },
+    {
+       "char": "2️⃣",
+        "dec": 50,
+      "hex": "0032",
+       "name": "tecla: 2"
+    },
+    {
+       "char": "3️⃣",
+       "dec": 51,
+      "hex": "0033",
+        "name": "tecla: 3"
+    },
+    {
+       "char": "4️⃣",
+        "dec": 52,
+      "hex": "0034",
+       "name": "tecla: 4"
+    },
+    {
+       "char": "5️⃣",
+        "dec": 53,
+        "hex": "0035",
+       "name": "tecla: 5"
+    },
+     {
+       "char": "6️⃣",
+        "dec": 54,
+        "hex": "0036",
+      "name": "tecla: 6"
+    },
+    {
+      "char": "7️⃣",
+       "dec": 55,
+      "hex": "0037",
+      "name": "tecla: 7"
+    },
+    {
+      "char": "8️⃣",
+       "dec": 56,
+      "hex": "0038",
+        "name": "tecla: 8"
+    },
+     {
+       "char": "9️⃣",
+       "dec": 57,
+       "hex": "0039",
+       "name": "tecla: 9"
+    },
+    {
+       "char": "🔟",
+        "dec": 128287,
+       "hex": "1F51F",
+        "name": "tecla: 10"
+    }
+  ],
+   "Alfanuméricos": [
+    {
+      "char": "🔠",
+        "dec": 128288,
+       "hex": "1F520",
+       "name": "entrada latina maiúscula"
+    },
+    {
+      "char": "🔡",
+        "dec": 128289,
+        "hex": "1F521",
+      "name": "entrada latina minúscula"
+    },
+    {
+      "char": "🔢",
+       "dec": 128290,
+        "hex": "1F522",
+      "name": "entrada de números"
+    },
+    {
+        "char": "🔣",
+       "dec": 128291,
+        "hex": "1F523",
+      "name": "entrada de símbolos"
+    },
+    {
+       "char": "🔤",
+        "dec": 128292,
+       "hex": "1F524",
+       "name": "entrada de letras latinas"
+    },
+    {
+      "char": "🅰",
+      "dec": 127344,
+      "hex": "1F170",
+      "name": "Botão A (tipo sanguíneo)"
+    },
+    {
+       "char": "🆎",
+       "dec": 127374,
+       "hex": "1F18E",
+       "name": "Botão AB (tipo sanguíneo)"
+    },
+    {
+      "char": "🅱",
+      "dec": 127345,
+       "hex": "1F171",
+       "name": "Botão B (tipo sanguíneo)"
+    },
+     {
+      "char": "🆑",
+       "dec": 127377,
+        "hex": "1F191",
+        "name": "Botão CL"
+    },
+    {
+        "char": "🆒",
+        "dec": 127378,
+        "hex": "1F192",
+       "name": "Botão COOL"
+    },
+    {
+      "char": "🆓",
+      "dec": 127379,
+        "hex": "1F193",
+        "name": "Botão FREE"
+    },
+     {
+        "char": "ℹ",
+       "dec": 8505,
+        "hex": "2139",
+        "name": "Informação"
+    },
+    {
+      "char": "🆔",
+       "dec": 127380,
+        "hex": "1F194",
+        "name": "Botão ID"
+    },
+    {
+        "char": "Ⓜ",
+       "dec": 9410,
+       "hex": "24C2",
+      "name": "M Circulado"
+    },
+    {
+        "char": "🆕",
+        "dec": 127381,
+        "hex": "1F195",
+      "name": "Botão NEW"
+    },
+    {
+        "char": "🆖",
+       "dec": 127382,
+        "hex": "1F196",
+       "name": "Botão NG"
+    },
+    {
+      "char": "🅾",
+      "dec": 127358,
+       "hex": "1F17E",
+      "name": "Botão O (tipo sanguíneo)"
+    },
+    {
+      "char": "🆗",
+      "dec": 127383,
+       "hex": "1F197",
+        "name": "Botão OK"
+    },
+    {
+       "char": "🅿",
+      "dec": 127359,
+       "hex": "1F17F",
+      "name": "Botão P"
+    },
+    {
+       "char": "🆘",
+       "dec": 127384,
+       "hex": "1F198",
+      "name": "Botão SOS"
+    },
+    {
+       "char": "🆙",
+      "dec": 127385,
+        "hex": "1F199",
+        "name": "Botão UP!"
+    },
+    {
+       "char": "🆚",
+        "dec": 127386,
+       "hex": "1F19A",
+      "name": "Botão VS"
+    },
+      {
+       "char": "🈁",
+       "dec": 127489,
+        "hex": "1F201",
+       "name": "Botão Japonês “aqui”"
+    },
+     {
+        "char": "🈂",
+       "dec": 127490,
+       "hex": "1F202",
+      "name": "Botão Japonês de “taxa de serviço”"
+    },
+     {
+        "char": "🈷",
+      "dec": 127543,
+       "hex": "1F237",
+      "name": "Botão Japonês de “quantia mensal”"
+    },
+    {
+        "char": "🈶",
+       "dec": 127542,
+        "hex": "1F236",
+      "name": "Botão Japonês “não é gratuito”"
+    },
+    {
+      "char": "🈯",
+        "dec": 127535,
+       "hex": "1F22F",
+       "name": "Botão Japonês “reservado”"
+    },
+    {
+        "char": "🉐",
+        "dec": 127568,
+      "hex": "1F250",
+      "name": "Botão Japonês “pechincha”"
+    },
+    {
+       "char": "🈹",
+        "dec": 127545,
+      "hex": "1F239",
+      "name": "Botão Japonês “desconto”"
+    },
+     {
+        "char": "🈚",
+        "dec": 127514,
+        "hex": "1F21A",
+      "name": "Botão Japonês “gratuito”"
+    },
+    {
+      "char": "🈲",
+       "dec": 127538,
+      "hex": "1F232",
+       "name": "Botão Japonês “proibido”"
+    },
+    {
+      "char": "🉑",
+       "dec": 127569,
+        "hex": "1F251",
+      "name": "Botão Japonês “aceitável”"
+    },
+      {
+        "char": "🈸",
+        "dec": 127544,
+      "hex": "1F238",
+       "name": "Botão Japonês “aplicação”"
+    },
+    {
+        "char": "🈴",
+       "dec": 127540,
+        "hex": "1F234",
+      "name": "Botão Japonês “nota de aprovação”"
+    },
+     {
+        "char": "🈳",
+        "dec": 127539,
+      "hex": "1F233",
+      "name": "Botão Japonês “vaga”"
+    },
+    {
+      "char": "㊗",
+      "dec": 13079,
+       "hex": "3297",
+       "name": "Botão Japonês “parabéns”"
+    },
+    {
+      "char": "㊙",
+        "dec": 13081,
+      "hex": "3299",
+      "name": "Botão Japonês “secreto”"
+    },
+   {
+      "char": "🈺",
+       "dec": 127546,
+        "hex": "1F23A",
+        "name": "Botão Japonês “aberto para negócios”"
+    },
+    {
+       "char": "🈵",
+        "dec": 127541,
+       "hex": "1F235",
+      "name": "Botão Japonês “sem vagas”"
+    }
+  ],
+  "Geométricos": [
+    {
+        "char": "🔴",
+       "dec": 128308,
+        "hex": "1F534",
+       "name": "Círculo Vermelho"
+    },
+    {
+       "char": "🔵",
+       "dec": 128309,
+        "hex": "1F535",
+       "name": "Círculo Azul"
+    },
+    {
+      "char": "⚪",
+       "dec": 9898,
+       "hex": "26AA",
+       "name": "Círculo Branco"
+    },
+    {
+       "char": "⚫",
+        "dec": 9899,
+       "hex": "26AB",
+      "name": "Círculo Preto"
+    },
+    {
+        "char": "⬜",
+       "dec": 11036,
+       "hex": "2B1C",
+       "name": "Quadrado Branco Grande"
+    },
+    {
+      "char": "⬛",
+        "dec": 11035,
+       "hex": "2B1B",
+      "name": "Quadrado Preto Grande"
+    },
+    {
+        "char": "◼",
+        "dec": 9724,
+        "hex": "25FC",
+      "name": "Quadrado Médio Preto"
+    },
+    {
+      "char": "◻",
+        "dec": 9723,
+       "hex": "25FB",
+        "name": "Quadrado Médio Branco"
+    },
+     {
+        "char": "◽",
+       "dec": 9725,
+        "hex": "25FD",
+      "name": "Quadrado Médio-Pequeno Branco"
+    },
+    {
+        "char": "◾",
+       "dec": 9726,
+        "hex": "25FE",
+      "name": "Quadrado Médio-Pequeno Preto"
+    },
+    {
+       "char": "▫",
+      "dec": 9643,
+       "hex": "25AB",
+        "name": "Quadrado Pequeno Branco"
+    },
+    {
+      "char": "▪",
+        "dec": 9642,
+      "hex": "25AA",
+      "name": "Quadrado Pequeno Preto"
+    },
+    {
+       "char": "🔶",
+      "dec": 128310,
+        "hex": "1F536",
+      "name": "Losango Laranja Grande"
+    },
+    {
+       "char": "🔷",
+       "dec": 128311,
+        "hex": "1F537",
+      "name": "Losango Azul Grande"
+    },
+    {
+      "char": "🔸",
+       "dec": 128312,
+        "hex": "1F538",
+      "name": "Losango Laranja Pequeno"
+    },
+    {
+      "char": "🔹",
+      "dec": 128313,
+       "hex": "1F539",
+      "name": "Losango Azul Pequeno"
+    },
+    {
+       "char": "🔺",
+      "dec": 128314,
+       "hex": "1F53A",
+       "name": "Triângulo Vermelho Apontando para Cima"
+    },
+    {
+        "char": "🔻",
+       "dec": 128315,
+       "hex": "1F53B",
+      "name": "Triângulo Vermelho Apontando para Baixo"
+    },
+    {
+       "char": "💠",
+      "dec": 128160,
+        "hex": "1F4A0",
+       "name": "Losango com um Ponto"
+    },
+    {
+       "char": "🔘",
+       "dec": 128280,
+      "hex": "1F518",
+        "name": "Botão de Rádio"
+    },
+    {
+        "char": "🔲",
+      "dec": 128314,
+      "hex": "1F532",
+      "name": "Botão de Quadrado Preto"
+    },
+    {
+       "char": "🔳",
+       "dec": 128315,
+      "hex": "1F533",
+      "name": "Botão de Quadrado Branco"
+    }
+  ],
+    "Bandeiras": [
+    {
+       "char": "🏁",
+       "dec": 127937,
+      "hex": "1F3C1",
+       "name": "Bandeira Quadriculada"
+    },
+    {
+       "char": "🚩",
+        "dec": 128681,
+        "hex": "1F6A9",
+      "name": "Bandeira Triangular"
+    },
+    {
+      "char": "🎌",
+        "dec": 127884,
+        "hex": "1F38C",
+      "name": "Bandeiras Cruzadas"
+    },
+    {
+        "char": "🏴",
+       "dec": 127990,
+        "hex": "1F3F4",
+       "name": "Bandeira Preta"
+    },
+     {
+        "char": "🏳",
+      "dec": 127987,
+        "hex": "1F3F3",
+      "name": "Bandeira Branca"
+    },
+    {
+       "char": "🏳️‍🌈",
+       "dec": 127987,
+        "hex": "1F3F3",
+        "name": "Bandeira do Arco-Íris"
+    },
+    {
+      "char": "🏴‍☠️",
+       "dec": 127990,
+        "hex": "1F3F4",
+      "name": "Bandeira Pirata"
+    }
+  ],
+   "Países": [
+   {
+       "char": "🇦🇨",
+        "dec": 127462,
+       "hex": "1F1E6",
+      "name": "Bandeira: Ilha de Ascensão"
+    },
+    {
+      "char": "🇦🇩",
+       "dec": 127465,
+      "hex": "1F1E6",
+      "name": "Bandeira: Andorra"
+    },
+    {
+        "char": "🇦🇪",
+        "dec": 127466,
+       "hex": "1F1E6",
+      "name": "Bandeira: Emirados Árabes Unidos"
+    },
+    {
+        "char": "🇦🇫",
+       "dec": 127467,
+        "hex": "1F1E6",
+        "name": "Bandeira: Afeganistão"
+    },
+    {
+       "char": "🇦🇬",
+       "dec": 127468,
+      "hex": "1F1E6",
+      "name": "Bandeira: Antígua e Barbuda"
+    },
+    {
+      "char": "🇦🇮",
+       "dec": 127469,
+       "hex": "1F1E6",
+      "name": "Bandeira: Anguilla"
+    },
+    {
+       "char": "🇦🇱",
+       "dec": 127473,
+       "hex": "1F1E6",
+      "name": "Bandeira: Albânia"
+    },
+    {
+        "char": "🇦🇲",
+      "dec": 127474,
+      "hex": "1F1E6",
+      "name": "Bandeira: Armênia"
+    },
+     {
+        "char": "🇦🇴",
+        "dec": 127476,
+       "hex": "1F1E6",
+      "name": "Bandeira: Angola"
+    },
+    {
+       "char": "🇦🇶",
+      "dec": 127478,
+        "hex": "1F1E6",
+        "name": "Bandeira: Antártida"
+    },
+    {
+        "char": "🇦🇷",
+       "dec": 127479,
+        "hex": "1F1E6",
+      "name": "Bandeira: Argentina"
+    },
+    {
+        "char": "🇦🇸",
+       "dec": 127480,
+        "hex": "1F1E6",
+      "name": "Bandeira: Samoa Americana"
+    },
+    {
+      "char": "🇦🇹",
+       "dec": 127481,
+       "hex": "1F1E6",
+      "name": "Bandeira: Áustria"
+    },
+     {
+        "char": "🇦🇺",
+        "dec": 127482,
+       "hex": "1F1E6",
+        "name": "Bandeira: Austrália"
+    },
+    {
+       "char": "🇦🇼",
+        "dec": 127484,
+       "hex": "1F1E6",
+      "name": "Bandeira: Aruba"
+    },
+    {
+        "char": "🇦🇽",
+        "dec": 127485,
+      "hex": "1F1E6",
+      "name": "Bandeira: Ilhas Aland"
+    },
+    {
+       "char": "🇦🇿",
+       "dec": 127487,
+       "hex": "1F1E6",
+      "name": "Bandeira: Azerbaijão"
+    },
+    {
+      "char": "🇧🇦",
+       "dec": 127488,
+       "hex": "1F1E7",
+      "name": "Bandeira: Bósnia e Herzegovina"
+    },
+    {
+      "char": "🇧🇧",
+       "dec": 127489,
+        "hex": "1F1E7",
+      "name": "Bandeira: Barbados"
+    },
+     {
+      "char": "🇧🇩",
+        "dec": 127490,
+        "hex": "1F1E7",
+      "name": "Bandeira: Bangladesh"
+    },
+    {
+      "char": "🇧🇪",
+        "dec": 127494,
+        "hex": "1F1E7",
+      "name": "Bandeira: Bélgica"
+    },
+    {
+        "char": "🇧🇫",
+       "dec": 127495,
+        "hex": "1F1E7",
+      "name": "Bandeira: Burkina Faso"
+    },
+     {
+      "char": "🇧🇬",
+      "dec": 127496,
+       "hex": "1F1E7",
+      "name": "Bandeira: Bulgária"
+    },
+    {
+       "char": "🇧🇭",
+       "dec": 127497,
+        "hex": "1F1E7",
+        "name": "Bandeira: Bahrein"
+    },
+    {
+      "char": "🇧🇮",
+       "dec": 127498,
+       "hex": "1F1E7",
+      "name": "Bandeira: Burundi"
+    },
+    {
+        "char": "🇧🇯",
+       "dec": 127499,
+       "hex": "1F1E7",
+        "name": "Bandeira: Benin"
+    },
+    {
+       "char": "🇧🇱",
+        "dec": 127503,
+       "hex": "1F1E7",
+        "name": "Bandeira: São Bartolomeu"
+    },
+    {
+        "char": "🇧🇲",
+      "dec": 127504,
+        "hex": "1F1E7",
+        "name": "Bandeira: Bermudas"
+    },
+    {
+        "char": "🇧🇳",
+       "dec": 127507,
+        "hex": "1F1E7",
+      "name": "Bandeira: Brunei"
+    },
+    {
+       "char": "🇧🇴",
+       "dec": 127508,
+        "hex": "1F1E7",
+        "name": "Bandeira: Bolívia"
+    },
+     {
+        "char": "🇧🇶",
+        "dec": 127510,
+       "hex": "1F1E7",
+        "name": "Bandeira: Caribe Holandês"
+    },
+    {
+      "char": "🇧🇷",
+        "dec": 127511,
+        "hex": "1F1E7",
+      "name": "Bandeira: Brasil"
+    },
+    {
+        "char": "🇧🇸",
+      "dec": 127512,
+        "hex": "1F1E7",
+       "name": "Bandeira: Bahamas"
+    },
+    {
+       "char": "🇧🇹",
+        "dec": 127513,
+       "hex": "1F1E7",
+       "name": "Bandeira: Butão"
+    },
+    {
+       "char": "🇧🇻",
+       "dec": 127515,
+       "hex": "1F1E7",
+      "name": "Bandeira: Ilha Bouvet"
+    },
+    {
+        "char": "🇧🇼",
+        "dec": 127516,
+       "hex": "1F1E7",
+        "name": "Bandeira: Botsuana"
+    },
+    {
+      "char": "🇧🇾",
+       "dec": 127518,
+      "hex": "1F1E7",
+      "name": "Bandeira: Bielorrússia"
+    },
+     {
+      "char": "🇧🇿",
+       "dec": 127519,
+      "hex": "1F1E7",
+      "name": "Bandeira: Belize"
+    },
+    {
+       "char": "🇨🇦",
+        "dec": 127496,
+      "hex": "1F1E8",
+       "name": "Bandeira: Canadá"
+    },
+    {
+       "char": "🇨🇨",
+      "dec": 127500,
+       "hex": "1F1E8",
+      "name": "Bandeira: Ilhas Cocos"
+    },
+    {
+       "char": "🇨🇩",
+       "dec": 127501,
+        "hex": "1F1E8",
+      "name": "Bandeira: Congo - Kinshasa"
+    },
+    {
+        "char": "🇨🇫",
+      "dec": 127502,
+       "hex": "1F1E8",
+        "name": "Bandeira: República Centro-Africana"
+    },
+    {
+       "char": "🇨🇬",
+       "dec": 127503,
+        "hex": "1F1E8",
+      "name": "Bandeira: Congo - Brazzaville"
+    },
+    {
+        "char": "🇨🇭",
+        "dec": 127504,
+      "hex": "1F1E8",
+        "name": "Bandeira: Suíça"
+    },
+    {
+        "char": "🇨🇮",
+        "dec": 127505,
+      "hex": "1F1E8",
+        "name": "Bandeira: Costa do Marfim"
+    },
+    {
+        "char": "🇨🇰",
+        "dec": 127506,
+       "hex": "1F1E8",
+        "name": "Bandeira: Ilhas Cook"
+    },

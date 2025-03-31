@@ -1,5 +1,5 @@
 {
-"Rostos": [
+  "Rostos": [
     {
       "char": "😀",
       "dec": 128512,
@@ -559,7 +559,7 @@
       "name": "Caveira e Ossos Cruzados"
     }
   ],
-"Objetos": [
+  "Objetos Diversos": [
     {
       "char": "💩",
       "dec": 128169,
@@ -608,180 +608,84 @@
       "hex": "1F916",
       "name": "Robô"
     }
-  ,
+  ],
+  "Gatos": [
     {
-      "char": "✍",
-      "dec": 9997,
-      "hex": "270D",
-      "name": "Mão Escrevendo"
-    },
-    {
-      "char": "💅",
-      "dec": 128133,
-      "hex": "1F485",
-      "name": "Esmalte de Unha"
+      "char": "😺",
+      "dec": 128570,
+      "hex": "1F63A",
+      "name": "Gato Sorridente"
     },
     {
-      "char": "🤳",
-      "dec": 129331,
-      "hex": "1F933",
-      "name": "Selfie"
-    }
-  ,
-    {
-      "char": "🚬",
-        "dec": 128684,
-      "hex": "1F6AC",
-        "name": "Cigarro"
+      "char": "😸",
+      "dec": 128568,
+      "hex": "1F638",
+      "name": "Gato Sorridente com Olhos Sorridentes"
     },
     {
-        "char": "⚰",
-       "dec": 9840,
-      "hex": "26B0",
-      "name": "Caixão"
+      "char": "😹",
+      "dec": 128569,
+      "hex": "1F639",
+      "name": "Gato com Lágrimas de Alegria"
     },
     {
-      "char": "⚱",
-        "dec": 9841,
-      "hex": "26B1",
-      "name": "Urna Funerária"
-    },
-      {
-        "char": "🗿",
-       "dec": 128415,
-      "hex": "1F5FF",
-       "name": "Moai"
-    }
-  ,
-    {
-       "char": "🚪",
-       "dec": 128682,
-      "hex": "1F6AA",
-      "name": "Porta"
+      "char": "😻",
+      "dec": 128571,
+      "hex": "1F63B",
+      "name": "Gato Sorridente com Olhos de Coração"
     },
     {
-       "char": "🛏",
-      "dec": 128719,
-        "hex": "1F6CF",
-        "name": "Cama"
-    },
-     {
-       "char": "🛋",
-        "dec": 128651,
-       "hex": "1F6CB",
-        "name": "Sofá e Luminária"
+      "char": "😼",
+      "dec": 128572,
+      "hex": "1F63C",
+      "name": "Gato com Sorriso Maroto"
     },
     {
-       "char": "🚽",
-       "dec": 128669,
-       "hex": "1F6BD",
-      "name": "Vaso Sanitário"
+      "char": "😽",
+      "dec": 128573,
+      "hex": "1F63D",
+      "name": "Gato Beijando"
     },
     {
-        "char": "🚿",
-       "dec": 128671,
-       "hex": "1F6BF",
-       "name": "Chuveiro"
-    },
-     {
-       "char": "🛁",
-        "dec": 128673,
-       "hex": "1F6C1",
-        "name": "Banheira"
-    },
-   {
-      "char": "🧴",
-      "dec": 129524,
-       "hex": "1F9F4",
-        "name": "Frasco de Loção"
-    },
-     {
-      "char": "🧷",
-        "dec": 129527,
-       "hex": "1F9F7",
-      "name": "Alfinete de Segurança"
+      "char": "🙀",
+      "dec": 128576,
+      "hex": "1F640",
+      "name": "Gato Cansado"
     },
     {
-      "char": "🧹",
-       "dec": 129529,
-        "hex": "1F9F9",
-      "name": "Vassoura"
+      "char": "😿",
+      "dec": 128575,
+      "hex": "1F63F",
+      "name": "Gato Chorando"
     },
     {
-       "char": "🧺",
-       "dec": 129530,
-       "hex": "1F9FA",
-       "name": "Cesta"
-    },
-    {
-        "char": "🧻",
-        "dec": 129531,
-        "hex": "1F9FB",
-      "name": "Rolo de Papel"
-    },
-     {
-      "char": "🧼",
-        "dec": 129532,
-       "hex": "1F9FC",
-        "name": "Sabonete"
-    },
-    {
-        "char": "🧽",
-       "dec": 129533,
-      "hex": "1F9FD",
-      "name": "Esponja"
-    },
-   {
-      "char": "🧯",
-        "dec": 129519,
-      "hex": "1F9EF",
-        "name": "Extintor de Incêndio"
-    },
-    {
-      "char": "🛒",
-       "dec": 128690,
-        "hex": "1F6D2",
-       "name": "Carrinho de Compras"
-    }
- ,
- {
-      "char": "🥢",
-       "dec": 129378,
-      "hex": "1F962",
-       "name": "Hashis"
-    },
-    {
-        "char": "🍽",
-        "dec": 127805,
-      "hex": "1F37D",
-      "name": "Garfo e Faca com Prato"
-    },
-    {
-       "char": "🍴",
-        "dec": 127796,
-      "hex": "1F374",
-       "name": "Garfo e Faca"
-    },
-    {
-        "char": "🥄",
-        "dec": 129348,
-      "hex": "1F944",
-      "name": "Colher"
-    },
-    {
-       "char": "🔪",
-       "dec": 128362,
-      "hex": "1F52A",
-        "name": "Faca de Cozinha"
-    },
-    {
-       "char": "🏺",
-       "dec": 127994,
-        "hex": "1F3FA",
-      "name": "Ânfora"
+      "char": "😾",
+      "dec": 128574,
+      "hex": "1F63E",
+      "name": "Gato Emburrado"
     }
   ],
-"Emoções": [
+  "Macacos": [
+    {
+      "char": "🙈",
+      "dec": 128584,
+      "hex": "1F648",
+      "name": "Macaco Não Vejo o Mal"
+    },
+    {
+      "char": "🙉",
+      "dec": 128585,
+      "hex": "1F649",
+      "name": "Macaco Não Ouço o Mal"
+    },
+    {
+      "char": "🙊",
+      "dec": 128586,
+      "hex": "1F64A",
+      "name": "Macaco Não Falo o Mal"
+    }
+  ],
+  "Emoções": [
     {
       "char": "💋",
       "dec": 128139,
@@ -981,7 +885,7 @@
       "name": "Zzz"
     }
   ],
-"Corpo": [
+  "Mãos": [
     {
       "char": "👋",
       "dec": 128075,
@@ -1156,7 +1060,28 @@
       "hex": "1F64F",
       "name": "Mãos Juntas"
     }
-  ,
+  ],
+  "Objetos de Escrita": [
+    {
+      "char": "✍",
+      "dec": 9997,
+      "hex": "270D",
+      "name": "Mão Escrevendo"
+    },
+    {
+      "char": "💅",
+      "dec": 128133,
+      "hex": "1F485",
+      "name": "Esmalte de Unha"
+    },
+    {
+      "char": "🤳",
+      "dec": 129331,
+      "hex": "1F933",
+      "name": "Selfie"
+    }
+  ],
+  "Partes do Corpo": [
     {
       "char": "💪",
       "dec": 128170,
@@ -1229,33 +1154,8 @@
       "hex": "1F444",
       "name": "Boca"
     }
-  ,
-    {
-      "char": "🦰",
-      "dec": 129456,
-      "hex": "1F9B0",
-      "name": "Cabelo Ruivo"
-    },
-     {
-      "char": "🦱",
-      "dec": 129457,
-      "hex": "1F9B1",
-      "name": "Cabelo Cacheado"
-    },
-    {
-      "char": "🦳",
-       "dec": 129459,
-      "hex": "1F9B3",
-      "name": "Cabelo Branco"
-    },
-     {
-      "char": "🦲",
-      "dec": 129458,
-      "hex": "1F9B2",
-      "name": "Careca"
-    }
   ],
-"Pessoas": [
+  "Pessoas": [
     {
       "char": "👶",
       "dec": 128118,
@@ -1550,7 +1450,8 @@
       "hex": "1F937",
       "name": "Mulher Dando de Ombros"
     }
-  ,
+  ],
+  "Profissões": [
     {
       "char": "👨‍⚕️",
       "dec": 128104,
@@ -1881,7 +1782,8 @@
       "hex": "1F931",
       "name": "Amamentação"
     }
-  ,
+  ],
+  "Seres Fantásticos": [
     {
       "char": "👼",
       "dec": 128124,
@@ -2062,7 +1964,8 @@
       "hex": "1F9DF",
       "name": "Zumbi Mulher"
     }
-  ,
+  ],
+ "Atividades": [
     {
       "char": "💆",
       "dec": 128134,
@@ -2207,286 +2110,7 @@
       "hex": "1F9D7",
       "name": "Mulher Escalando"
     }
- ,
-  {
-      "char": "🧘",
-      "dec": 129528,
-      "hex": "1F9D8",
-      "name": "Pessoa na Posição de Lótus"
-    },
-    {
-       "char": "🧘‍♂️",
-       "dec": 129528,
-      "hex": "1F9D8",
-      "name": "Homem na Posição de Lótus"
-    },
-    {
-       "char": "🧘‍♀️",
-       "dec": 129528,
-      "hex": "1F9D8",
-      "name": "Mulher na Posição de Lótus"
-    },
-    {
-      "char": "🛀",
-      "dec": 128640,
-      "hex": "1F6C0",
-      "name": "Pessoa Tomando Banho"
-    },
-    {
-      "char": "🛌",
-      "dec": 128652,
-      "hex": "1F6CC",
-      "name": "Pessoa na Cama"
-    }
-  ,
-    {
-      "char": "👭",
-       "dec": 128109,
-      "hex": "1F46D",
-      "name": "Mulheres de Mãos Dadas"
-    },
-    {
-       "char": "👫",
-       "dec": 128107,
-      "hex": "1F46B",
-      "name": "Mulher e Homem de Mãos Dadas"
-    },
-    {
-      "char": "👬",
-      "dec": 128108,
-      "hex": "1F46C",
-      "name": "Homens de Mãos Dadas"
-    },
-     {
-      "char": "💏",
-      "dec": 128143,
-      "hex": "1F48F",
-      "name": "Beijo"
-    },
-     {
-      "char": "👩‍❤️‍💋‍👨",
-       "dec": 128105,
-      "hex": "1F469",
-      "name": "Beijo: Mulher, Homem"
-    },
-    {
-       "char": "👨‍❤️‍💋‍👨",
-       "dec": 128104,
-      "hex": "1F468",
-      "name": "Beijo: Homem, Homem"
-    },
-    {
-       "char": "👩‍❤️‍💋‍👩",
-       "dec": 128105,
-      "hex": "1F469",
-      "name": "Beijo: Mulher, Mulher"
-    },
-    {
-      "char": "💑",
-      "dec": 128145,
-      "hex": "1F491",
-      "name": "Casal com Coração"
-    },
-    {
-        "char": "👩‍❤️‍👨",
-       "dec": 128105,
-      "hex": "1F469",
-      "name": "Casal com Coração: Mulher, Homem"
-    },
-    {
-      "char": "👨‍❤️‍👨",
-       "dec": 128104,
-      "hex": "1F468",
-      "name": "Casal com Coração: Homem, Homem"
-    },
-    {
-      "char": "👩‍❤️‍👩",
-      "dec": 128105,
-      "hex": "1F469",
-      "name": "Casal com Coração: Mulher, Mulher"
-    },
-    {
-       "char": "👪",
-       "dec": 128106,
-      "hex": "1F46A",
-      "name": "Família"
-    },
-    {
-       "char": "👨‍👩‍👦",
-       "dec": 128104,
-      "hex": "1F468",
-      "name": "Família: Homem, Mulher, Menino"
-    },
-    {
-       "char": "👨‍👩‍👧",
-      "dec": 128104,
-      "hex": "1F468",
-      "name": "Família: Homem, Mulher, Menina"
-    },
-    {
-       "char": "👨‍👩‍👧‍👦",
-       "dec": 128104,
-      "hex": "1F468",
-      "name": "Família: Homem, Mulher, Menina, Menino"
-    },
-    {
-      "char": "👨‍👩‍👦‍👦",
-      "dec": 128104,
-      "hex": "1F468",
-      "name": "Família: Homem, Mulher, Menino, Menino"
-    },
-    {
-      "char": "👨‍👩‍👧‍👧",
-      "dec": 128104,
-      "hex": "1F468",
-      "name": "Família: Homem, Mulher, Menina, Menina"
-    },
-    {
-      "char": "👨‍👨‍👦",
-       "dec": 128104,
-      "hex": "1F468",
-      "name": "Família: Homem, Homem, Menino"
-    },
-    {
-      "char": "👨‍👨‍👧",
-      "dec": 128104,
-      "hex": "1F468",
-      "name": "Família: Homem, Homem, Menina"
-    },
-     {
-      "char": "👨‍👨‍👧‍👦",
-       "dec": 128104,
-      "hex": "1F468",
-      "name": "Família: Homem, Homem, Menina, Menino"
-    },
-     {
-      "char": "👨‍👨‍👦‍👦",
-      "dec": 128104,
-      "hex": "1F468",
-      "name": "Família: Homem, Homem, Menino, Menino"
-    },
-    {
-       "char": "👨‍👨‍👧‍👧",
-       "dec": 128104,
-      "hex": "1F468",
-      "name": "Família: Homem, Homem, Menina, Menina"
-    },
-    {
-        "char": "👩‍👩‍👦",
-      "dec": 128105,
-      "hex": "1F469",
-      "name": "Família: Mulher, Mulher, Menino"
-    },
-    {
-        "char": "👩‍👩‍👧",
-       "dec": 128105,
-      "hex": "1F469",
-      "name": "Família: Mulher, Mulher, Menina"
-    },
-    {
-       "char": "👩‍👩‍👧‍👦",
-       "dec": 128105,
-      "hex": "1F469",
-      "name": "Família: Mulher, Mulher, Menina, Menino"
-    },
-    {
-        "char": "👩‍👩‍👦‍👦",
-        "dec": 128105,
-      "hex": "1F469",
-      "name": "Família: Mulher, Mulher, Menino, Menino"
-    },
-    {
-       "char": "👩‍👩‍👧‍👧",
-       "dec": 128105,
-      "hex": "1F469",
-      "name": "Família: Mulher, Mulher, Menina, Menina"
-    },
-    {
-      "char": "👨‍👦",
-       "dec": 128104,
-      "hex": "1F468",
-      "name": "Família: Homem, Menino"
-    },
-    {
-       "char": "👨‍👦‍👦",
-      "dec": 128104,
-      "hex": "1F468",
-      "name": "Família: Homem, Menino, Menino"
-    },
-    {
-       "char": "👨‍👧",
-       "dec": 128104,
-      "hex": "1F468",
-      "name": "Família: Homem, Menina"
-    },
-    {
-      "char": "👨‍👧‍👦",
-       "dec": 128104,
-      "hex": "1F468",
-      "name": "Família: Homem, Menina, Menino"
-    },
-    {
-       "char": "👨‍👧‍👧",
-       "dec": 128104,
-      "hex": "1F468",
-      "name": "Família: Homem, Menina, Menina"
-    },
-    {
-      "char": "👩‍👦",
-      "dec": 128105,
-      "hex": "1F469",
-      "name": "Família: Mulher, Menino"
-    },
-     {
-      "char": "👩‍👦‍👦",
-       "dec": 128105,
-      "hex": "1F469",
-      "name": "Família: Mulher, Menino, Menino"
-    },
-    {
-       "char": "👩‍👧",
-       "dec": 128105,
-      "hex": "1F469",
-      "name": "Família: Mulher, Menina"
-    },
-    {
-       "char": "👩‍👧‍👦",
-       "dec": 128105,
-      "hex": "1F469",
-      "name": "Família: Mulher, Menina, Menino"
-    },
-   {
-       "char": "👩‍👧‍👧",
-       "dec": 128105,
-      "hex": "1F469",
-      "name": "Família: Mulher, Menina, Menina"
-    }
- ,
-    {
-      "char": "🗣",
-      "dec": 128483,
-      "hex": "1F5E3",
-      "name": "Cabeça Falando"
-    },
-    {
-      "char": "👤",
-      "dec": 128100,
-      "hex": "1F464",
-      "name": "Busto em Silhueta"
-    },
-     {
-      "char": "👥",
-      "dec": 128101,
-      "hex": "1F465",
-      "name": "Bustos em Silhueta"
-    },
-    {
-       "char": "👣",
-      "dec": 128107,
-      "hex": "1F463",
-      "name": "Pegadas"
-    }
-  ],
+ ],
 "Esportes": [
     {
       "char": "🤺",
@@ -2746,385 +2370,316 @@
       "hex": "1F939",
       "name": "Mulher Fazendo Malabarismo"
     }
-  ,
-    {
-      "char": "🎖",
-      "dec": 127990,
-        "hex": "1F396",
-      "name": "Medalha Militar"
-    },
-     {
-       "char": "🏆",
-        "dec": 127942,
-      "hex": "1F3C6",
-      "name": "Troféu"
+  ],
+ "Pessoas Relaxando": [
+  {
+      "char": "🧘",
+      "dec": 129528,
+      "hex": "1F9D8",
+      "name": "Pessoa na Posição de Lótus"
     },
     {
-       "char": "🏅",
-      "dec": 127941,
-        "hex": "1F3C5",
-      "name": "Medalha Esportiva"
-    },
-    {
-       "char": "🥇",
-      "dec": 129351,
-       "hex": "1F947",
-        "name": "Medalha de 1º Lugar"
-    },
-    {
-      "char": "🥈",
-        "dec": 129352,
-        "hex": "1F948",
-       "name": "Medalha de 2º Lugar"
-    },
-    {
-       "char": "🥉",
-        "dec": 129353,
-       "hex": "1F949",
-      "name": "Medalha de 3º Lugar"
-    }
-  ,
-     {
-       "char": "⚽",
-       "dec": 9917,
-        "hex": "26BD",
-      "name": "Bola de Futebol"
-    },
-     {
-       "char": "⚾",
-      "dec": 9918,
-      "hex": "26BE",
-      "name": "Bola de Beisebol"
-    },
-      {
-       "char": "🥎",
-        "dec": 129358,
-      "hex": "1F94E",
-      "name": "Bola de Softbol"
-    },
-     {
-       "char": "🏀",
-      "dec": 127936,
-      "hex": "1F3C0",
-      "name": "Bola de Basquete"
-    },
-      {
-       "char": "🏐",
-       "dec": 127952,
-      "hex": "1F3D0",
-      "name": "Bola de Vôlei"
-    },
-     {
-       "char": "🏈",
-        "dec": 127944,
-      "hex": "1F3C8",
-      "name": "Futebol Americano"
-    },
-     {
-      "char": "🏉",
-       "dec": 127945,
-      "hex": "1F3C9",
-      "name": "Futebol de Rúgbi"
-    },
-    {
-        "char": "🎾",
-        "dec": 127934,
-       "hex": "1F3BE",
-      "name": "Tênis"
-    },
-    {
-       "char": "🥏",
-       "dec": 129359,
-      "hex": "1F94F",
-      "name": "Disco Voador"
-    },
-    {
-      "char": "🎳",
-        "dec": 127939,
-       "hex": "1F3B3",
-      "name": "Boliche"
-    },
-    {
-      "char": "🏏",
-        "dec": 127951,
-      "hex": "1F3CF",
-       "name": "Jogo de Criquete"
-    },
-    {
-        "char": "🏑",
-      "dec": 127953,
-       "hex": "1F3D1",
-      "name": "Hóquei em Campo"
-    },
-    {
-       "char": "🏒",
-        "dec": 127954,
-      "hex": "1F3D2",
-       "name": "Hóquei no Gelo"
-    },
-    {
-       "char": "🥍",
-      "dec": 129357,
-      "hex": "1F94D",
-      "name": "Lacrosse"
-    },
-     {
-        "char": "🏓",
-       "dec": 127955,
-      "hex": "1F3D3",
-       "name": "Tênis de Mesa"
-    },
-    {
-      "char": "🏸",
-      "dec": 127992,
-       "hex": "1F3F8",
-        "name": "Badminton"
-    },
-    {
-      "char": "🥊",
-       "dec": 129348,
-      "hex": "1F94A",
-       "name": "Luva de Boxe"
-    },
-    {
-      "char": "🥋",
-        "dec": 129349,
-      "hex": "1F94B",
-      "name": "Uniforme de Artes Marciais"
-    },
-     {
-       "char": "🥅",
-       "dec": 129349,
-      "hex": "1F945",
-       "name": "Rede de Gol"
-    },
-    {
-        "char": "⛳",
-        "dec": 9971,
-      "hex": "26F3",
-      "name": "Bandeira no Buraco"
-    },
-    {
-        "char": "⛸",
-        "dec": 9976,
-       "hex": "26F8",
-       "name": "Patins de Gelo"
-    },
-      {
-       "char": "🎣",
-        "dec": 127939,
-      "hex": "1F3A3",
-        "name": "Vara de Pesca"
-    },
-     {
-        "char": "🎽",
-        "dec": 127933,
-       "hex": "1F3BD",
-      "name": "Camisa de Corrida"
-    },
-    {
-        "char": "🎿",
-        "dec": 127935,
-       "hex": "1F3BF",
-      "name": "Esquis"
-    },
-    {
-        "char": "🛷",
-        "dec": 128711,
-       "hex": "1F6F7",
-      "name": "Trenó"
-    },
-     {
-        "char": "🥌",
-        "dec": 129356,
-      "hex": "1F94C",
-      "name": "Pedra de Curling"
-    }
-  ,
-    {
-      "char": "🎯",
-      "dec": 127919,
-      "hex": "1F3AF",
-       "name": "Alvo"
-    },
-    {
-      "char": "🎱",
-      "dec": 127921,
-       "hex": "1F3B1",
-      "name": "Bola 8 de Bilhar"
-    },
-    {
-       "char": "🔮",
-       "dec": 128366,
-       "hex": "1F52E",
-       "name": "Bola de Cristal"
-    },
-    {
-      "char": "🧿",
-      "dec": 129535,
-      "hex": "1F9FF",
-      "name": "Amuleto Nazar"
-    },
-     {
-      "char": "🎮",
-      "dec": 127918,
-      "hex": "1F3AE",
-      "name": "Videogame"
-    },
-    {
-       "char": "🕹",
-       "dec": 128377,
-       "hex": "1F579",
-       "name": "Joystick"
-    },
-    {
-      "char": "🎰",
-       "dec": 127920,
-      "hex": "1F3B0",
-      "name": "Caça-Níquel"
-    },
-     {
-       "char": "🎲",
-        "dec": 127922,
-      "hex": "1F3B2",
-      "name": "Dado"
-    },
-    {
-        "char": "🧩",
-        "dec": 129513,
-      "hex": "1F9E9",
-       "name": "Peça de Quebra-Cabeça"
-    },
-    {
-      "char": "🧸",
+       "char": "🧘‍♂️",
        "dec": 129528,
-      "hex": "1F9F8",
-      "name": "Urso de Pelúcia"
+      "hex": "1F9D8",
+      "name": "Homem na Posição de Lótus"
     },
     {
-       "char": "♠",
-       "dec": 9824,
-      "hex": "2660",
-      "name": "Naipe de Espadas"
+       "char": "🧘‍♀️",
+       "dec": 129528,
+      "hex": "1F9D8",
+      "name": "Mulher na Posição de Lótus"
     },
     {
-      "char": "♥",
-       "dec": 9829,
-      "hex": "2665",
-      "name": "Naipe de Copas"
+      "char": "🛀",
+      "dec": 128640,
+      "hex": "1F6C0",
+      "name": "Pessoa Tomando Banho"
+    },
+    {
+      "char": "🛌",
+      "dec": 128652,
+      "hex": "1F6CC",
+      "name": "Pessoa na Cama"
+    }
+  ],
+ "Família": [
+    {
+      "char": "👭",
+       "dec": 128109,
+      "hex": "1F46D",
+      "name": "Mulheres de Mãos Dadas"
+    },
+    {
+       "char": "👫",
+       "dec": 128107,
+      "hex": "1F46B",
+      "name": "Mulher e Homem de Mãos Dadas"
+    },
+    {
+      "char": "👬",
+      "dec": 128108,
+      "hex": "1F46C",
+      "name": "Homens de Mãos Dadas"
     },
      {
-       "char": "♦",
-      "dec": 9830,
-       "hex": "2666",
-      "name": "Naipe de Ouros"
-    },
-    {
-        "char": "♣",
-        "dec": 9827,
-       "hex": "2663",
-      "name": "Naipe de Paus"
+      "char": "💏",
+      "dec": 128143,
+      "hex": "1F48F",
+      "name": "Beijo"
     },
      {
-      "char": "♟",
-       "dec": 9823,
-        "hex": "265F",
-      "name": "Peão de Xadrez"
+      "char": "👩‍❤️‍💋‍👨",
+       "dec": 128105,
+      "hex": "1F469",
+      "name": "Beijo: Mulher, Homem"
     },
     {
-      "char": "🃏",
-       "dec": 127946,
-      "hex": "1F0CF",
-      "name": "Coringa"
+       "char": "👨‍❤️‍💋‍👨",
+       "dec": 128104,
+      "hex": "1F468",
+      "name": "Beijo: Homem, Homem"
     },
     {
-      "char": "🀄",
-       "dec": 126980,
-      "hex": "1F004",
-       "name": "Dragão Vermelho de Mahjong"
+       "char": "👩‍❤️‍💋‍👩",
+       "dec": 128105,
+      "hex": "1F469",
+      "name": "Beijo: Mulher, Mulher"
+    },
+    {
+      "char": "💑",
+      "dec": 128145,
+      "hex": "1F491",
+      "name": "Casal com Coração"
+    },
+    {
+        "char": "👩‍❤️‍👨",
+       "dec": 128105,
+      "hex": "1F469",
+      "name": "Casal com Coração: Mulher, Homem"
+    },
+    {
+      "char": "👨‍❤️‍👨",
+       "dec": 128104,
+      "hex": "1F468",
+      "name": "Casal com Coração: Homem, Homem"
+    },
+    {
+      "char": "👩‍❤️‍👩",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Casal com Coração: Mulher, Mulher"
+    },
+    {
+       "char": "👪",
+       "dec": 128106,
+      "hex": "1F46A",
+      "name": "Família"
+    },
+    {
+       "char": "👨‍👩‍👦",
+       "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Mulher, Menino"
+    },
+    {
+       "char": "👨‍👩‍👧",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Mulher, Menina"
+    },
+    {
+       "char": "👨‍👩‍👧‍👦",
+       "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Mulher, Menina, Menino"
+    },
+    {
+      "char": "👨‍👩‍👦‍👦",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Mulher, Menino, Menino"
+    },
+    {
+      "char": "👨‍👩‍👧‍👧",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Mulher, Menina, Menina"
+    },
+    {
+      "char": "👨‍👨‍👦",
+       "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Homem, Menino"
+    },
+    {
+      "char": "👨‍👨‍👧",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Homem, Menina"
     },
      {
-        "char": "🎴",
-        "dec": 127924,
-      "hex": "1F3B4",
-       "name": "Cartas de Jogo Hanafuda"
+      "char": "👨‍👨‍👧‍👦",
+       "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Homem, Menina, Menino"
+    },
+     {
+      "char": "👨‍👨‍👦‍👦",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Homem, Menino, Menino"
+    },
+    {
+       "char": "👨‍👨‍👧‍👧",
+       "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Homem, Menina, Menina"
+    },
+    {
+        "char": "👩‍👩‍👦",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Família: Mulher, Mulher, Menino"
+    },
+    {
+        "char": "👩‍👩‍👧",
+       "dec": 128105,
+      "hex": "1F469",
+      "name": "Família: Mulher, Mulher, Menina"
+    },
+    {
+       "char": "👩‍👩‍👧‍👦",
+       "dec": 128105,
+      "hex": "1F469",
+      "name": "Família: Mulher, Mulher, Menina, Menino"
+    },
+    {
+        "char": "👩‍👩‍👦‍👦",
+        "dec": 128105,
+      "hex": "1F469",
+      "name": "Família: Mulher, Mulher, Menino, Menino"
+    },
+    {
+       "char": "👩‍👩‍👧‍👧",
+       "dec": 128105,
+      "hex": "1F469",
+      "name": "Família: Mulher, Mulher, Menina, Menina"
+    },
+    {
+      "char": "👨‍👦",
+       "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Menino"
+    },
+    {
+       "char": "👨‍👦‍👦",
+      "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Menino, Menino"
+    },
+    {
+       "char": "👨‍👧",
+       "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Menina"
+    },
+    {
+      "char": "👨‍👧‍👦",
+       "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Menina, Menino"
+    },
+    {
+       "char": "👨‍👧‍👧",
+       "dec": 128104,
+      "hex": "1F468",
+      "name": "Família: Homem, Menina, Menina"
+    },
+    {
+      "char": "👩‍👦",
+      "dec": 128105,
+      "hex": "1F469",
+      "name": "Família: Mulher, Menino"
+    },
+     {
+      "char": "👩‍👦‍👦",
+       "dec": 128105,
+      "hex": "1F469",
+      "name": "Família: Mulher, Menino, Menino"
+    },
+    {
+       "char": "👩‍👧",
+       "dec": 128105,
+      "hex": "1F469",
+      "name": "Família: Mulher, Menina"
+    },
+    {
+       "char": "👩‍👧‍👦",
+       "dec": 128105,
+      "hex": "1F469",
+      "name": "Família: Mulher, Menina, Menino"
+    },
+   {
+       "char": "👩‍👧‍👧",
+       "dec": 128105,
+      "hex": "1F469",
+      "name": "Família: Mulher, Menina, Menina"
     }
  ],
-"Animais": [
+ "Símbolos de Pessoas": [
     {
-      "char": "😺",
-      "dec": 128570,
-      "hex": "1F63A",
-      "name": "Gato Sorridente"
+      "char": "🗣",
+      "dec": 128483,
+      "hex": "1F5E3",
+      "name": "Cabeça Falando"
     },
     {
-      "char": "😸",
-      "dec": 128568,
-      "hex": "1F638",
-      "name": "Gato Sorridente com Olhos Sorridentes"
+      "char": "👤",
+      "dec": 128100,
+      "hex": "1F464",
+      "name": "Busto em Silhueta"
+    },
+     {
+      "char": "👥",
+      "dec": 128101,
+      "hex": "1F465",
+      "name": "Bustos em Silhueta"
     },
     {
-      "char": "😹",
-      "dec": 128569,
-      "hex": "1F639",
-      "name": "Gato com Lágrimas de Alegria"
-    },
-    {
-      "char": "😻",
-      "dec": 128571,
-      "hex": "1F63B",
-      "name": "Gato Sorridente com Olhos de Coração"
-    },
-    {
-      "char": "😼",
-      "dec": 128572,
-      "hex": "1F63C",
-      "name": "Gato com Sorriso Maroto"
-    },
-    {
-      "char": "😽",
-      "dec": 128573,
-      "hex": "1F63D",
-      "name": "Gato Beijando"
-    },
-    {
-      "char": "🙀",
-      "dec": 128576,
-      "hex": "1F640",
-      "name": "Gato Cansado"
-    },
-    {
-      "char": "😿",
-      "dec": 128575,
-      "hex": "1F63F",
-      "name": "Gato Chorando"
-    },
-    {
-      "char": "😾",
-      "dec": 128574,
-      "hex": "1F63E",
-      "name": "Gato Emburrado"
+       "char": "👣",
+      "dec": 128107,
+      "hex": "1F463",
+      "name": "Pegadas"
     }
-  ,
+  ],
+  "Cabelos": [
     {
-      "char": "🙈",
-      "dec": 128584,
-      "hex": "1F648",
-      "name": "Macaco Não Vejo o Mal"
+      "char": "🦰",
+      "dec": 129456,
+      "hex": "1F9B0",
+      "name": "Cabelo Ruivo"
+    },
+     {
+      "char": "🦱",
+      "dec": 129457,
+      "hex": "1F9B1",
+      "name": "Cabelo Cacheado"
     },
     {
-      "char": "🙉",
-      "dec": 128585,
-      "hex": "1F649",
-      "name": "Macaco Não Ouço o Mal"
+      "char": "🦳",
+       "dec": 129459,
+      "hex": "1F9B3",
+      "name": "Cabelo Branco"
     },
-    {
-      "char": "🙊",
-      "dec": 128586,
-      "hex": "1F64A",
-      "name": "Macaco Não Falo o Mal"
+     {
+      "char": "🦲",
+      "dec": 129458,
+      "hex": "1F9B2",
+      "name": "Careca"
     }
-  , 
+  ],
+    "Animais Mamíferos": [
     {
       "char": "🐵",
       "dec": 128053,
@@ -3443,7 +2998,8 @@
       "hex": "1F43E",
       "name": "Pegada de Pata"
     }
- ,
+ ],
+ "Aves": [
     {
       "char": "🦃",
        "dec": 129347,
@@ -3534,14 +3090,16 @@
       "hex": "1F99C",
       "name": "Papagaio"
     }
- ,
+ ],
+  "Anfíbios": [
     {
       "char": "🐸",
       "dec": 128056,
       "hex": "1F438",
        "name": "Sapo"
     }
- ,
+ ],
+ "Répteis": [
       {
       "char": "🐊",
       "dec": 128010,
@@ -3590,7 +3148,8 @@
       "hex": "1F996",
       "name": "T-Rex"
     }
-   ,
+   ],
+ "Animais Marinhos": [
      {
         "char": "🐳",
         "dec": 128051,
@@ -3645,7 +3204,8 @@
       "hex": "1F41A",
        "name": "Concha Espiral"
     }
-  ,
+  ],
+"Insetos": [
   {
         "char": "🐌",
        "dec": 128012,
@@ -3719,7 +3279,7 @@
       "name": "Micróbio"
     }
   ],
-"Plantas": [
+  "Flores": [
     {
       "char": "💐",
         "dec": 128144,
@@ -3780,7 +3340,8 @@
       "hex": "1F337",
       "name": "Tulipa"
     }
-  ,
+  ],
+ "Plantas": [
     {
        "char": "🌱",
        "dec": 127729,
@@ -3854,7 +3415,7 @@
       "name": "Folha Tremulando ao Vento"
     }
   ],
-"Comidas": [
+ "Frutas": [
    {
        "char": "🍇",
       "dec": 127751,
@@ -3957,7 +3518,8 @@
       "hex": "1F965",
        "name": "Coco"
     }
-   ,
+   ],
+"Legumes": [
      {
       "char": "🥑",
         "dec": 129361,
@@ -4030,7 +3592,8 @@
       "hex": "1F330",
       "name": "Castanha"
     }
-  ,
+  ],
+"Comidas Preparadas": [
     {
       "char": "🍞",
         "dec": 127774,
@@ -4199,7 +3762,8 @@
       "hex": "1F96B",
        "name": "Comida Enlatada"
     }
-  ,
+  ],
+"Comida Asiática": [
   {
       "char": "🍱",
       "dec": 127793,
@@ -4302,7 +3866,8 @@
       "hex": "1F961",
       "name": "Caixa para Viagem"
     }
-  ,
+  ],
+  "Comida do Mar": [
    {
         "char": "🦀",
         "dec": 129344,
@@ -4327,7 +3892,8 @@
         "hex": "1F991",
       "name": "Lula"
     }
-  ,
+  ],
+"Doces": [
     {
         "char": "🍦",
        "dec": 127782,
@@ -4413,7 +3979,7 @@
       "name": "Pote de Mel"
     }
   ],
-"Bebidas": [
+  "Bebidas": [
     {
       "char": "🍼",
       "dec": 127796,
@@ -4499,7 +4065,45 @@
       "name": "Copo com Canudo"
     }
  ],
-"Lugares": [
+"Utensílios": [
+ {
+      "char": "🥢",
+       "dec": 129378,
+      "hex": "1F962",
+       "name": "Hashis"
+    },
+    {
+        "char": "🍽",
+        "dec": 127805,
+      "hex": "1F37D",
+      "name": "Garfo e Faca com Prato"
+    },
+    {
+       "char": "🍴",
+        "dec": 127796,
+      "hex": "1F374",
+       "name": "Garfo e Faca"
+    },
+    {
+        "char": "🥄",
+        "dec": 129348,
+      "hex": "1F944",
+      "name": "Colher"
+    },
+    {
+       "char": "🔪",
+       "dec": 128362,
+      "hex": "1F52A",
+        "name": "Faca de Cozinha"
+    },
+    {
+       "char": "🏺",
+       "dec": 127994,
+        "hex": "1F3FA",
+      "name": "Ânfora"
+    }
+  ],
+ "Mapas": [
     {
         "char": "🌍",
         "dec": 127757,
@@ -4542,7 +4146,8 @@
       "hex": "1F9ED",
         "name": "Bússola"
     }
-  ,
+  ],
+"Lugares Geográficos": [
    {
         "char": "🏔",
        "dec": 127956,
@@ -4597,7 +4202,8 @@
       "hex": "1F3DE",
       "name": "Parque Nacional"
     }
- ,
+ ],
+  "Construções": [
      {
       "char": "🏟",
        "dec": 127967,
@@ -4742,7 +4348,8 @@
        "hex": "1F5FD",
       "name": "Estátua da Liberdade"
     }
-   ,
+   ],
+  "Lugares Religiosos": [
     {
       "char": "⛪",
         "dec": 9964,
@@ -4773,7 +4380,8 @@
        "hex": "1F54B",
         "name": "Caaba"
     }
- ,
+ ],
+"Outros Lugares": [
    {
         "char": "⛲",
       "dec": 9970,
@@ -4876,8 +4484,8 @@
         "hex": "1F3AA",
        "name": "Tenda de Circo"
     }
-  ],  
-"Transporte": [
+  ],
+   "Transporte Terrestre": [
     {
        "char": "🚂",
       "dec": 128642,
@@ -5142,7 +4750,8 @@
        "hex": "1F6A7",
       "name": "Construção"
     }
-   ,
+   ],
+  "Transporte Aquático": [
     {
         "char": "⚓",
         "dec": 9875,
@@ -5191,7 +4800,8 @@
       "hex": "1F6A2",
       "name": "Navio"
     }
-  ,
+  ],
+    "Transporte Aéreo": [
      {
       "char": "✈",
       "dec": 9992,
@@ -5263,6 +4873,20 @@
        "dec": 128700,
       "hex": "1F6F8",
       "name": "Disco Voador"
+    }
+  ],
+  "Hotéis": [
+    {
+      "char": "🛎",
+      "dec": 128670,
+       "hex": "1F6CE",
+      "name": "Sino de Mensageiro"
+    },
+     {
+        "char": "🧳",
+       "dec": 129523,
+      "hex": "1F9F3",
+      "name": "Bagagem"
     }
   ],
 "Tempo": [
@@ -5452,7 +5076,8 @@
        "hex": "1F566",
        "name": "Onze e Meia"
     }
-  ,
+  ],
+  "Céu e Clima": [
    {
         "char": "🌑",
        "dec": 127761,
@@ -5724,7 +5349,7 @@
         "name": "Onda do Mar"
     }
   ],
-"Eventos": [
+   "Eventos": [
     {
        "char": "🎃",
        "dec": 127875,
@@ -5852,7 +5477,313 @@
       "name": "Ingresso"
     }
  ],
-"Artes": [
+  "Prêmios": [
+    {
+      "char": "🎖",
+      "dec": 127990,
+        "hex": "1F396",
+      "name": "Medalha Militar"
+    },
+     {
+       "char": "🏆",
+        "dec": 127942,
+      "hex": "1F3C6",
+      "name": "Troféu"
+    },
+    {
+       "char": "🏅",
+      "dec": 127941,
+        "hex": "1F3C5",
+      "name": "Medalha Esportiva"
+    },
+    {
+       "char": "🥇",
+      "dec": 129351,
+       "hex": "1F947",
+        "name": "Medalha de 1º Lugar"
+    },
+    {
+      "char": "🥈",
+        "dec": 129352,
+        "hex": "1F948",
+       "name": "Medalha de 2º Lugar"
+    },
+    {
+       "char": "🥉",
+        "dec": 129353,
+       "hex": "1F949",
+      "name": "Medalha de 3º Lugar"
+    }
+  ],
+  "Esportes2": [
+     {
+       "char": "⚽",
+       "dec": 9917,
+        "hex": "26BD",
+      "name": "Bola de Futebol"
+    },
+     {
+       "char": "⚾",
+      "dec": 9918,
+      "hex": "26BE",
+      "name": "Bola de Beisebol"
+    },
+      {
+       "char": "🥎",
+        "dec": 129358,
+      "hex": "1F94E",
+      "name": "Bola de Softbol"
+    },
+     {
+       "char": "🏀",
+      "dec": 127936,
+      "hex": "1F3C0",
+      "name": "Bola de Basquete"
+    },
+      {
+       "char": "🏐",
+       "dec": 127952,
+      "hex": "1F3D0",
+      "name": "Bola de Vôlei"
+    },
+     {
+       "char": "🏈",
+        "dec": 127944,
+      "hex": "1F3C8",
+      "name": "Futebol Americano"
+    },
+     {
+      "char": "🏉",
+       "dec": 127945,
+      "hex": "1F3C9",
+      "name": "Futebol de Rúgbi"
+    },
+    {
+        "char": "🎾",
+        "dec": 127934,
+       "hex": "1F3BE",
+      "name": "Tênis"
+    },
+    {
+       "char": "🥏",
+       "dec": 129359,
+      "hex": "1F94F",
+      "name": "Disco Voador"
+    },
+    {
+      "char": "🎳",
+        "dec": 127939,
+       "hex": "1F3B3",
+      "name": "Boliche"
+    },
+    {
+      "char": "🏏",
+        "dec": 127951,
+      "hex": "1F3CF",
+       "name": "Jogo de Criquete"
+    },
+    {
+        "char": "🏑",
+      "dec": 127953,
+       "hex": "1F3D1",
+      "name": "Hóquei em Campo"
+    },
+    {
+       "char": "🏒",
+        "dec": 127954,
+      "hex": "1F3D2",
+       "name": "Hóquei no Gelo"
+    },
+    {
+       "char": "🥍",
+      "dec": 129357,
+      "hex": "1F94D",
+      "name": "Lacrosse"
+    },
+     {
+        "char": "🏓",
+       "dec": 127955,
+      "hex": "1F3D3",
+       "name": "Tênis de Mesa"
+    },
+    {
+      "char": "🏸",
+      "dec": 127992,
+       "hex": "1F3F8",
+        "name": "Badminton"
+    },
+    {
+      "char": "🥊",
+       "dec": 129348,
+      "hex": "1F94A",
+       "name": "Luva de Boxe"
+    },
+    {
+      "char": "🥋",
+        "dec": 129349,
+      "hex": "1F94B",
+      "name": "Uniforme de Artes Marciais"
+    },
+     {
+       "char": "🥅",
+       "dec": 129349,
+      "hex": "1F945",
+       "name": "Rede de Gol"
+    },
+    {
+        "char": "⛳",
+        "dec": 9971,
+      "hex": "26F3",
+      "name": "Bandeira no Buraco"
+    },
+    {
+        "char": "⛸",
+        "dec": 9976,
+       "hex": "26F8",
+       "name": "Patins de Gelo"
+    },
+      {
+       "char": "🎣",
+        "dec": 127939,
+      "hex": "1F3A3",
+        "name": "Vara de Pesca"
+    },
+     {
+        "char": "🎽",
+        "dec": 127933,
+       "hex": "1F3BD",
+      "name": "Camisa de Corrida"
+    },
+    {
+        "char": "🎿",
+        "dec": 127935,
+       "hex": "1F3BF",
+      "name": "Esquis"
+    },
+    {
+        "char": "🛷",
+        "dec": 128711,
+       "hex": "1F6F7",
+      "name": "Trenó"
+    },
+     {
+        "char": "🥌",
+        "dec": 129356,
+      "hex": "1F94C",
+      "name": "Pedra de Curling"
+    }
+  ],
+   "Jogos": [
+    {
+      "char": "🎯",
+      "dec": 127919,
+      "hex": "1F3AF",
+       "name": "Alvo"
+    },
+    {
+      "char": "🎱",
+      "dec": 127921,
+       "hex": "1F3B1",
+      "name": "Bola 8 de Bilhar"
+    },
+    {
+       "char": "🔮",
+       "dec": 128366,
+       "hex": "1F52E",
+       "name": "Bola de Cristal"
+    },
+    {
+      "char": "🧿",
+      "dec": 129535,
+      "hex": "1F9FF",
+      "name": "Amuleto Nazar"
+    },
+     {
+      "char": "🎮",
+      "dec": 127918,
+      "hex": "1F3AE",
+      "name": "Videogame"
+    },
+    {
+       "char": "🕹",
+       "dec": 128377,
+       "hex": "1F579",
+       "name": "Joystick"
+    },
+    {
+      "char": "🎰",
+       "dec": 127920,
+      "hex": "1F3B0",
+      "name": "Caça-Níquel"
+    },
+     {
+       "char": "🎲",
+        "dec": 127922,
+      "hex": "1F3B2",
+      "name": "Dado"
+    },
+    {
+        "char": "🧩",
+        "dec": 129513,
+      "hex": "1F9E9",
+       "name": "Peça de Quebra-Cabeça"
+    },
+    {
+      "char": "🧸",
+       "dec": 129528,
+      "hex": "1F9F8",
+      "name": "Urso de Pelúcia"
+    },
+    {
+       "char": "♠",
+       "dec": 9824,
+      "hex": "2660",
+      "name": "Naipe de Espadas"
+    },
+    {
+      "char": "♥",
+       "dec": 9829,
+      "hex": "2665",
+      "name": "Naipe de Copas"
+    },
+     {
+       "char": "♦",
+      "dec": 9830,
+       "hex": "2666",
+      "name": "Naipe de Ouros"
+    },
+    {
+        "char": "♣",
+        "dec": 9827,
+       "hex": "2663",
+      "name": "Naipe de Paus"
+    },
+     {
+      "char": "♟",
+       "dec": 9823,
+        "hex": "265F",
+      "name": "Peão de Xadrez"
+    },
+    {
+      "char": "🃏",
+       "dec": 127946,
+      "hex": "1F0CF",
+      "name": "Coringa"
+    },
+    {
+      "char": "🀄",
+       "dec": 126980,
+      "hex": "1F004",
+       "name": "Dragão Vermelho de Mahjong"
+    },
+     {
+        "char": "🎴",
+        "dec": 127924,
+      "hex": "1F3B4",
+       "name": "Cartas de Jogo Hanafuda"
+    }
+ ],
+  "Artes": [
     {
        "char": "🎭",
         "dec": 127917,
@@ -5884,7 +5815,7 @@
       "name": "Lã"
      }
   ],
-"Vestimentas": [
+ "Vestimentas": [
  {
        "char": "👓",
        "dec": 128083,
@@ -6163,7 +6094,8 @@
       "hex": "1F515",
         "name": "Sino com Barra"
     }
- ,
+ ],
+  "Músicas": [
     {
         "char": "🎼",
        "dec": 127932,
@@ -6218,7 +6150,8 @@
       "hex": "1F4FB",
        "name": "Rádio"
     }
-  ,
+  ],
+ "Instrumentos Musicais": [
     {
        "char": "🎷",
         "dec": 127927,
@@ -6256,7 +6189,7 @@
       "name": "Bateria"
     }
    ],
-"Eletrônicos": [
+   "Telefones": [
     {
        "char": "📱",
        "dec": 128209,
@@ -6293,7 +6226,8 @@
        "hex": "1F4E0",
       "name": "Fax"
     }
-   ,
+   ],
+   "Computadores": [
     {
        "char": "🔋",
        "dec": 128267,
@@ -6372,7 +6306,8 @@
       "hex": "1F9EE",
         "name": "Ábaco"
     }
-  ,
+  ],
+   "Luz e Vídeo": [
    {
         "char": "🎥",
         "dec": 127917,
@@ -6464,7 +6399,7 @@
       "name": "Lanterna de Papel Vermelha"
     }
    ],
-"Escritório": [
+"Livros e Papéis": [
  {
        "char": "📔",
         "dec": 128180,
@@ -6567,7 +6502,8 @@
        "hex": "1F3F7",
       "name": "Etiqueta"
     }
-  ,
+  ],
+   "Dinheiro": [
     {
         "char": "💰",
         "dec": 128176,
@@ -6634,7 +6570,8 @@
        "hex": "1F4B2",
         "name": "Símbolo de Dólar"
     }
-  ,
+  ],
+  "Correio": [
  {
         "char": "✉",
        "dec": 9993,
@@ -6713,7 +6650,8 @@
        "hex": "1F5F3",
       "name": "Urna com Cédula"
     }
-   ,
+   ],
+    "Escrita": [
      {
         "char": "✏",
         "dec": 9998,
@@ -6756,7 +6694,8 @@
         "hex": "1F4DD",
        "name": "Anotação"
     }
-   ,
+   ],
+"Escritório": [
    {
         "char": "💼",
         "dec": 128188,
@@ -6896,7 +6835,7 @@
         "name": "Lixeira"
     }
  ],
-"Ferramentas": [
+  "Trancas": [
     {
       "char": "🔒",
         "dec": 128274,
@@ -6933,7 +6872,8 @@
       "hex": "1F5DD",
       "name": "Chave Antiga"
     }
-   ,
+   ],
+   "Ferramentas": [
  {
         "char": "🔨",
         "dec": 128360,
@@ -7086,7 +7026,8 @@
         "hex": "1F4E1",
         "name": "Antena de Satélite"
     }
-  ,
+  ],
+   "Médico": [
      {
         "char": "💉",
        "dec": 128137,
@@ -7099,7 +7040,413 @@
         "hex": "1F48A",
       "name": "Pílula"
     }
-  ], 
+  ],
+"Casa": [
+    {
+       "char": "🚪",
+       "dec": 128682,
+      "hex": "1F6AA",
+      "name": "Porta"
+    },
+    {
+       "char": "🛏",
+      "dec": 128719,
+        "hex": "1F6CF",
+        "name": "Cama"
+    },
+     {
+       "char": "🛋",
+        "dec": 128651,
+       "hex": "1F6CB",
+        "name": "Sofá e Luminária"
+    },
+    {
+       "char": "🚽",
+       "dec": 128669,
+       "hex": "1F6BD",
+      "name": "Vaso Sanitário"
+    },
+    {
+        "char": "🚿",
+       "dec": 128671,
+       "hex": "1F6BF",
+       "name": "Chuveiro"
+    },
+     {
+       "char": "🛁",
+        "dec": 128673,
+       "hex": "1F6C1",
+        "name": "Banheira"
+    },
+   {
+      "char": "🧴",
+      "dec": 129524,
+       "hex": "1F9F4",
+        "name": "Frasco de Loção"
+    },
+     {
+      "char": "🧷",
+        "dec": 129527,
+       "hex": "1F9F7",
+      "name": "Alfinete de Segurança"
+    },
+    {
+      "char": "🧹",
+       "dec": 129529,
+        "hex": "1F9F9",
+      "name": "Vassoura"
+    },
+    {
+       "char": "🧺",
+       "dec": 129530,
+       "hex": "1F9FA",
+       "name": "Cesta"
+    },
+    {
+        "char": "🧻",
+        "dec": 129531,
+        "hex": "1F9FB",
+      "name": "Rolo de Papel"
+    },
+     {
+      "char": "🧼",
+        "dec": 129532,
+       "hex": "1F9FC",
+        "name": "Sabonete"
+    },
+    {
+        "char": "🧽",
+       "dec": 129533,
+      "hex": "1F9FD",
+      "name": "Esponja"
+    },
+   {
+      "char": "🧯",
+        "dec": 129519,
+      "hex": "1F9EF",
+        "name": "Extintor de Incêndio"
+    },
+    {
+      "char": "🛒",
+       "dec": 128690,
+        "hex": "1F6D2",
+       "name": "Carrinho de Compras"
+    }
+ ],
+  "Outros Objetos": [
+    {
+      "char": "🚬",
+        "dec": 128684,
+      "hex": "1F6AC",
+        "name": "Cigarro"
+    },
+    {
+        "char": "⚰",
+       "dec": 9840,
+      "hex": "26B0",
+      "name": "Caixão"
+    },
+    {
+      "char": "⚱",
+        "dec": 9841,
+      "hex": "26B1",
+      "name": "Urna Funerária"
+    },
+      {
+        "char": "🗿",
+       "dec": 128415,
+      "hex": "1F5FF",
+       "name": "Moai"
+    }
+  ],
+ "Sinalização": [
+    {
+      "char": "🏧",
+       "dec": 127975,
+       "hex": "1F3E7",
+      "name": "Sinal de ATM"
+    },
+     {
+       "char": "🚮",
+        "dec": 128686,
+       "hex": "1F6AE",
+      "name": "Sinal de Lixo na Lixeira"
+    },
+    {
+        "char": "🚰",
+        "dec": 128688,
+        "hex": "1F6B0",
+      "name": "Água Potável"
+    },
+    {
+       "char": "♿",
+        "dec": 9855,
+       "hex": "267F",
+       "name": "Símbolo de Cadeirante"
+    },
+    {
+      "char": "🚹",
+        "dec": 128697,
+      "hex": "1F6B9",
+        "name": "Banheiro Masculino"
+    },
+    {
+       "char": "🚺",
+       "dec": 128698,
+       "hex": "1F6BA",
+      "name": "Banheiro Feminino"
+    },
+    {
+      "char": "🚻",
+        "dec": 128699,
+       "hex": "1F6BB",
+        "name": "Banheiro"
+    },
+    {
+       "char": "🚼",
+        "dec": 128700,
+      "hex": "1F6BC",
+       "name": "Símbolo de Bebê"
+    },
+    {
+        "char": "🚾",
+        "dec": 128702,
+       "hex": "1F6BE",
+       "name": "Vaso Sanitário"
+    },
+    {
+       "char": "🛂",
+      "dec": 128674,
+       "hex": "1F6C2",
+        "name": "Controle de Passaporte"
+    },
+    {
+       "char": "🛃",
+       "dec": 128675,
+      "hex": "1F6C3",
+       "name": "Alfândega"
+    },
+    {
+        "char": "🛄",
+        "dec": 128676,
+      "hex": "1F6C4",
+       "name": "Reclamação de Bagagem"
+    },
+    {
+      "char": "🛅",
+        "dec": 128677,
+      "hex": "1F6C5",
+      "name": "Guarda-Volumes"
+    }
+  ],
+ "Avisos": [
+    {
+      "char": "⚠",
+       "dec": 9888,
+      "hex": "26A0",
+      "name": "Aviso"
+    },
+    {
+      "char": "🚸",
+        "dec": 128696,
+      "hex": "1F6B8",
+       "name": "Crianças Atravessando"
+    },
+      {
+        "char": "⛔",
+        "dec": 9940,
+      "hex": "26D4",
+        "name": "Entrada Proibida"
+    },
+    {
+       "char": "🚫",
+        "dec": 128683,
+       "hex": "1F6AB",
+      "name": "Proibido"
+    },
+     {
+      "char": "🚳",
+       "dec": 128691,
+       "hex": "1F6B3",
+      "name": "Bicicletas Proibidas"
+    },
+    {
+      "char": "🚭",
+       "dec": 128685,
+      "hex": "1F6AD",
+      "name": "Proibido Fumar"
+    },
+    {
+      "char": "🚯",
+      "dec": 128687,
+       "hex": "1F6AF",
+      "name": "Proibido Jogar Lixo"
+    },
+    {
+       "char": "🚱",
+       "dec": 128689,
+      "hex": "1F6B1",
+       "name": "Água Não Potável"
+    },
+     {
+       "char": "🚷",
+       "dec": 128695,
+      "hex": "1F6B7",
+        "name": "Pedestres Proibidos"
+    },
+    {
+      "char": "📵",
+      "dec": 128245,
+       "hex": "1F4F5",
+      "name": "Celular Proibido"
+    },
+    {
+        "char": "🔞",
+        "dec": 128286,
+       "hex": "1F51E",
+        "name": "Proibido para Menores de 18 Anos"
+    },
+     {
+       "char": "☢",
+      "dec": 9762,
+       "hex": "2622",
+        "name": "Radioativo"
+    },
+    {
+       "char": "☣",
+      "dec": 9763,
+      "hex": "2623",
+        "name": "Risco Biológico"
+    }
+   ],
+  "Setas": [
+     {
+        "char": "⬆",
+        "dec": 11014,
+       "hex": "2B06",
+        "name": "Seta para Cima"
+    },
+    {
+       "char": "↗",
+       "dec": 8599,
+      "hex": "2197",
+      "name": "Seta para Cima e Direita"
+    },
+    {
+      "char": "➡",
+        "dec": 10145,
+        "hex": "27A1",
+      "name": "Seta para a Direita"
+    },
+    {
+       "char": "↘",
+      "dec": 8600,
+       "hex": "2198",
+        "name": "Seta para Baixo e Direita"
+    },
+     {
+      "char": "⬇",
+      "dec": 11015,
+      "hex": "2B07",
+      "name": "Seta para Baixo"
+    },
+    {
+      "char": "↙",
+      "dec": 8601,
+       "hex": "2199",
+      "name": "Seta para Baixo e Esquerda"
+    },
+    {
+      "char": "⬅",
+      "dec": 11013,
+      "hex": "2B05",
+       "name": "Seta para a Esquerda"
+    },
+     {
+      "char": "↖",
+        "dec": 8598,
+       "hex": "2196",
+      "name": "Seta para Cima e Esquerda"
+    },
+    {
+        "char": "↕",
+       "dec": 8597,
+        "hex": "2195",
+       "name": "Seta Para Cima e Para Baixo"
+    },
+    {
+      "char": "↔",
+       "dec": 8596,
+       "hex": "2194",
+      "name": "Seta Para Esquerda e Direita"
+    },
+    {
+        "char": "↩",
+        "dec": 8617,
+        "hex": "21A9",
+      "name": "Seta para a Direita Curvando para a Esquerda"
+    },
+    {
+      "char": "↪",
+      "dec": 8618,
+       "hex": "21AA",
+      "name": "Seta para a Esquerda Curvando para a Direita"
+    },
+    {
+        "char": "⤴",
+       "dec": 10548,
+        "hex": "2934",
+      "name": "Seta para a Direita Curvando para Cima"
+    },
+    {
+      "char": "⤵",
+       "dec": 10549,
+       "hex": "2935",
+      "name": "Seta para a Direita Curvando para Baixo"
+    },
+     {
+      "char": "🔃",
+      "dec": 128259,
+       "hex": "1F503",
+      "name": "Setas Verticais no Sentido Horário"
+    },
+    {
+        "char": "🔄",
+       "dec": 128260,
+       "hex": "1F504",
+       "name": "Botão de Setas Anti-horário"
+    },
+    {
+       "char": "🔙",
+        "dec": 128281,
+        "hex": "1F519",
+        "name": "Seta de VOLTAR"
+    },
+     {
+        "char": "🔚",
+       "dec": 128282,
+       "hex": "1F51A",
+      "name": "Seta de FIM"
+    },
+    {
+       "char": "🔛",
+      "dec": 128283,
+      "hex": "1F51B",
+      "name": "Seta de LIGADO"
+    },
+    {
+      "char": "🔜",
+       "dec": 128284,
+        "hex": "1F51C",
+      "name": "Seta de EM BREVE"
+    },
+     {
+        "char": "🔝",
+        "dec": 128285,
+      "hex": "1F51D",
+      "name": "Seta de TOPO"
+    }
+   ],
 "Religião": [
     {
         "char": "🛐",
@@ -7173,7 +7520,8 @@
         "hex": "1F52F",
        "name": "Estrela de Seis Pontas Pontilhada"
     }
- ,
+ ],
+ "Zodíaco": [
     {
       "char": "♈",
         "dec": 9800,
@@ -7253,7 +7601,7 @@
        "name": "Ofiúco"
     }
   ],
-"Símbolos": [
+"Símbolos AV": [
   {
       "char": "🔀",
       "dec": 128256,
@@ -7398,7 +7746,8 @@
        "hex": "1F4F4",
        "name": "Celular Desligado"
     }
-  ,
+  ],
+  "Gênero": [
  {
       "char": "♀",
        "dec": 9792,
@@ -7411,7 +7760,8 @@
        "hex": "2642",
       "name": "Sinal Masculino"
      }
-  ,
+  ],
+   "Símbolos Diversos": [
       {
        "char": "⚕",
        "dec": 9877,
@@ -7610,7 +7960,8 @@
       "hex": "2122",
       "name": "Marca Registrada"
     }
- ,
+ ],
+   "Teclas": [
      {
       "char": "#️⃣",
       "dec": 35,
@@ -7689,7 +8040,8 @@
        "hex": "1F51F",
         "name": "tecla: 10"
     }
-  ,
+  ],
+   "Alfanuméricos": [
     {
       "char": "🔠",
         "dec": 128288,
@@ -7924,7 +8276,8 @@
        "hex": "1F235",
       "name": "Botão Japonês “sem vagas”"
     }
-  ,
+  ],
+  "Geométricos": [
     {
         "char": "🔴",
        "dec": 128308,
@@ -8057,306 +8410,8 @@
       "hex": "1F533",
       "name": "Botão de Quadrado Branco"
     }
-  ,
-    {
-      "char": "🏧",
-       "dec": 127975,
-       "hex": "1F3E7",
-      "name": "Sinal de ATM"
-    },
-     {
-       "char": "🚮",
-        "dec": 128686,
-       "hex": "1F6AE",
-      "name": "Sinal de Lixo na Lixeira"
-    },
-    {
-        "char": "🚰",
-        "dec": 128688,
-        "hex": "1F6B0",
-      "name": "Água Potável"
-    },
-    {
-       "char": "♿",
-        "dec": 9855,
-       "hex": "267F",
-       "name": "Símbolo de Cadeirante"
-    },
-    {
-      "char": "🚹",
-        "dec": 128697,
-      "hex": "1F6B9",
-        "name": "Banheiro Masculino"
-    },
-    {
-       "char": "🚺",
-       "dec": 128698,
-       "hex": "1F6BA",
-      "name": "Banheiro Feminino"
-    },
-    {
-      "char": "🚻",
-        "dec": 128699,
-       "hex": "1F6BB",
-        "name": "Banheiro"
-    },
-    {
-       "char": "🚼",
-        "dec": 128700,
-      "hex": "1F6BC",
-       "name": "Símbolo de Bebê"
-    },
-    {
-        "char": "🚾",
-        "dec": 128702,
-       "hex": "1F6BE",
-       "name": "Vaso Sanitário"
-    },
-    {
-       "char": "🛂",
-      "dec": 128674,
-       "hex": "1F6C2",
-        "name": "Controle de Passaporte"
-    },
-    {
-       "char": "🛃",
-       "dec": 128675,
-      "hex": "1F6C3",
-       "name": "Alfândega"
-    },
-    {
-        "char": "🛄",
-        "dec": 128676,
-      "hex": "1F6C4",
-       "name": "Reclamação de Bagagem"
-    },
-    {
-      "char": "🛅",
-        "dec": 128677,
-      "hex": "1F6C5",
-      "name": "Guarda-Volumes"
-    }
-  ,
-    {
-      "char": "⚠",
-       "dec": 9888,
-      "hex": "26A0",
-      "name": "Aviso"
-    },
-    {
-      "char": "🚸",
-        "dec": 128696,
-      "hex": "1F6B8",
-       "name": "Crianças Atravessando"
-    },
-      {
-        "char": "⛔",
-        "dec": 9940,
-      "hex": "26D4",
-        "name": "Entrada Proibida"
-    },
-    {
-       "char": "🚫",
-        "dec": 128683,
-       "hex": "1F6AB",
-      "name": "Proibido"
-    },
-     {
-      "char": "🚳",
-       "dec": 128691,
-       "hex": "1F6B3",
-      "name": "Bicicletas Proibidas"
-    },
-    {
-      "char": "🚭",
-       "dec": 128685,
-      "hex": "1F6AD",
-      "name": "Proibido Fumar"
-    },
-    {
-      "char": "🚯",
-      "dec": 128687,
-       "hex": "1F6AF",
-      "name": "Proibido Jogar Lixo"
-    },
-    {
-       "char": "🚱",
-       "dec": 128689,
-      "hex": "1F6B1",
-       "name": "Água Não Potável"
-    },
-     {
-       "char": "🚷",
-       "dec": 128695,
-      "hex": "1F6B7",
-        "name": "Pedestres Proibidos"
-    },
-    {
-      "char": "📵",
-      "dec": 128245,
-       "hex": "1F4F5",
-      "name": "Celular Proibido"
-    },
-    {
-        "char": "🔞",
-        "dec": 128286,
-       "hex": "1F51E",
-        "name": "Proibido para Menores de 18 Anos"
-    },
-     {
-       "char": "☢",
-      "dec": 9762,
-       "hex": "2622",
-        "name": "Radioativo"
-    },
-    {
-       "char": "☣",
-      "dec": 9763,
-      "hex": "2623",
-        "name": "Risco Biológico"
-    }
-   ,
-     {
-        "char": "⬆",
-        "dec": 11014,
-       "hex": "2B06",
-        "name": "Seta para Cima"
-    },
-    {
-       "char": "↗",
-       "dec": 8599,
-      "hex": "2197",
-      "name": "Seta para Cima e Direita"
-    },
-    {
-      "char": "➡",
-        "dec": 10145,
-        "hex": "27A1",
-      "name": "Seta para a Direita"
-    },
-    {
-       "char": "↘",
-      "dec": 8600,
-       "hex": "2198",
-        "name": "Seta para Baixo e Direita"
-    },
-     {
-      "char": "⬇",
-      "dec": 11015,
-      "hex": "2B07",
-      "name": "Seta para Baixo"
-    },
-    {
-      "char": "↙",
-      "dec": 8601,
-       "hex": "2199",
-      "name": "Seta para Baixo e Esquerda"
-    },
-    {
-      "char": "⬅",
-      "dec": 11013,
-      "hex": "2B05",
-       "name": "Seta para a Esquerda"
-    },
-     {
-      "char": "↖",
-        "dec": 8598,
-       "hex": "2196",
-      "name": "Seta para Cima e Esquerda"
-    },
-    {
-        "char": "↕",
-       "dec": 8597,
-        "hex": "2195",
-       "name": "Seta Para Cima e Para Baixo"
-    },
-    {
-      "char": "↔",
-       "dec": 8596,
-       "hex": "2194",
-      "name": "Seta Para Esquerda e Direita"
-    },
-    {
-        "char": "↩",
-        "dec": 8617,
-        "hex": "21A9",
-      "name": "Seta para a Direita Curvando para a Esquerda"
-    },
-    {
-      "char": "↪",
-      "dec": 8618,
-       "hex": "21AA",
-      "name": "Seta para a Esquerda Curvando para a Direita"
-    },
-    {
-        "char": "⤴",
-       "dec": 10548,
-        "hex": "2934",
-      "name": "Seta para a Direita Curvando para Cima"
-    },
-    {
-      "char": "⤵",
-       "dec": 10549,
-       "hex": "2935",
-      "name": "Seta para a Direita Curvando para Baixo"
-    },
-     {
-      "char": "🔃",
-      "dec": 128259,
-       "hex": "1F503",
-      "name": "Setas Verticais no Sentido Horário"
-    },
-    {
-        "char": "🔄",
-       "dec": 128260,
-       "hex": "1F504",
-       "name": "Botão de Setas Anti-horário"
-    },
-    {
-       "char": "🔙",
-        "dec": 128281,
-        "hex": "1F519",
-        "name": "Seta de VOLTAR"
-    },
-     {
-        "char": "🔚",
-       "dec": 128282,
-       "hex": "1F51A",
-      "name": "Seta de FIM"
-    },
-    {
-       "char": "🔛",
-      "dec": 128283,
-      "hex": "1F51B",
-      "name": "Seta de LIGADO"
-    },
-    {
-      "char": "🔜",
-       "dec": 128284,
-        "hex": "1F51C",
-      "name": "Seta de EM BREVE"
-    },
-     {
-        "char": "🔝",
-        "dec": 128285,
-      "hex": "1F51D",
-      "name": "Seta de TOPO"
-    }
-   ,
-    {
-      "char": "🛎",
-      "dec": 128670,
-       "hex": "1F6CE",
-      "name": "Sino de Mensageiro"
-    },
-     {
-        "char": "🧳",
-       "dec": 129523,
-      "hex": "1F9F3",
-      "name": "Bagagem"
-    }
   ],
-"Bandeiras": [
+    "Bandeiras": [
     {
        "char": "🏁",
        "dec": 127937,
@@ -8399,7 +8454,8 @@
         "hex": "1F3F4",
       "name": "Bandeira Pirata"
     }
-  ,
+  ],
+   "Países": [
    {
        "char": "🇦🇨",
         "dec": 127462,
